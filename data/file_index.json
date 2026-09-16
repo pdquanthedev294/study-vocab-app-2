@@ -7,7 +7,13 @@
   { "id": "file_11_Luyen_Nghe", "title": "File 11 - Luyện Nghe - Part 03", "file": "data/Luyen_Nghe/Part_03/file11.json" },
   { "id": "file_12_Luyen_Nghe", "title": "File 12 - Luyện Nghe - Part 03", "file": "data/Luyen_Nghe/Part_03/file12.json" },
   { "id": "file_50_Luyen_Doc", "title": "File 50 - Luyện Đọc", "file": "data/Luyen_Doc/Part_05/file50.json" },
-  { "id": "file_01_Tu_Vung_Doc", "title": "File 01 - Từ Vựng Đọc", "file": "data/Tu_Vung_Doc/file01.json" }
+  { "id": "file_51_Luyen_Doc", "title": "File 51 - Luyện Đọc", "file": "data/Luyen_Doc/Part_05/file51.json" },
+  { "id": "file_52_Luyen_Doc", "title": "File 52 - Luyện Đọc", "file": "data/Luyen_Doc/Part_05/file52.json" },
+  { "id": "file_53_Luyen_Doc", "title": "File 53 - Luyện Đọc", "file": "data/Luyen_Doc/Part_05/file53.json" },
+  { "id": "file_54_Luyen_Doc", "title": "File 54 - Luyện Đọc", "file": "data/Luyen_Doc/Part_05/file54.json" },
+  { "id": "file_55_Luyen_Doc", "title": "File 55 - Luyện Đọc", "file": "data/Luyen_Doc/Part_05/file55.json" },
+  { "id": "file_56_Luyen_Doc", "title": "File 56 - Luyện Đọc", "file": "data/Luyen_Doc/Part_05/file56.json" },
+  { "id": "file_57_Luyen_Doc", "title": "File 57 - Luyện Đọc", "file": "data/Luyen_Doc/Part_05/file57.json" }
 ]
 
 
