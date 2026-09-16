@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Vocab Study Hub Ultimate</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="app-container">
+    <aside class="sidebar">
+        <div class="brand">
+            <svg width="24" height="24" viewBox="0 0 24 24" stroke="currentColor" fill="none" stroke-width="2"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/></svg>
+            Vocab Hub Ultimate
+        </div>
+        <button class="nav-btn active" onclick="switchView('dashboard')">Tổng quan</button>
+        <button class="nav-btn" onclick="switchView('flashcard')">Flashcard</button>
+        <button class="nav-btn" onclick="switchView('image-learning')">🖼️ Học Qua Hình Ảnh</button>
+        <button class="nav-btn" onclick="switchView('spelling')">Luyện Gõ Từ</button>
+        <button class="nav-btn" onclick="switchView('speed-match')">⚡ Nối Từ Nhanh</button>
+        <button class="nav-btn" onclick="switchView('word-catcher')">🎮 Hứng Từ Arcade</button>
+        <button class="nav-btn" onclick="switchView('wordle')">🟩 Wordle Đoán Từ</button>
+        <button class="nav-btn" onclick="switchView('unscramble')">🔤 Sắp Xếp Chữ Cái</button>
+        <button class="nav-btn" onclick="switchView('survival')">⚔️ Đấu Trường Sinh Tồn</button>
+        <button class="nav-btn" onclick="switchView('dictation')">🎧 Nghe Chính Tả</button>
+        <button class="nav-btn" onclick="switchView('quiz')">Trắc nghiệm</button>
+        <button class="nav-btn" onclick="switchView('add-vocab')">Thêm từ mới</button>
+        <button class="nav-btn" onclick="switchView('mistakes')">Ôn Câu Sai (<span id="wrong-count-badge">0</span>)</button>
+        <button class="nav-btn" onclick="switchView('settings')">Cài đặt</button>
+    </aside>
+
+    <main class="main-content">
+        <div class="top-header">
+            <div>
+                <h2 id="page-title" style="font-weight: 800;">Tổng Quan Học Tập</h2>
+                <div style="margin-top: 8px; display: flex; align-items: center; gap: 8px;">
+                    <label style="font-size: 0.85rem; font-weight: 700; color: var(--muted);">Đang học:</label>
+                    <div class="custom-select-wrapper" id="custom-file-select">
+                        <div class="custom-select-trigger" onclick="toggleCustomSelect()">
+                            <span id="selected-file-label">Đang tải danh sách...</span>
+                            <span class="arrow">▾</span>
+                        </div>
+                        <div class="custom-select-options" id="custom-file-options"></div>
+                    </div>
+                </div>
+            </div>
+            <button class="theme-toggle" onclick="toggleTheme()"><span id="theme-icon">🌙</span> Dark Mode</button>
+        </div>
+
+        <!-- DASHBOARD -->
+        <div id="view-dashboard" class="view active">
+            <div class="hero">
+                <h1>Sẵn sàng nâng vốn từ vựng hôm nay?</h1>
+                <p>Hệ thống tự động tải file từ vựng độc lập, tối ưu hiệu năng tối đa.</p>
+            </div>
+            <div class="stats-grid">
+                <div class="stat-card"><div class="label">Tổng từ vựng file này</div><div class="value" id="stat-total">0</div></div>
+                <div class="stat-card"><div class="label">Đã thành thạo</div><div class="value" id="stat-mastered" style="color: var(--success);">0</div></div>
+                <div class="stat-card"><div class="label">Cần ôn lại</div><div class="value" id="stat-review" style="color: var(--warning);">0</div></div>
+                <div class="stat-card"><div class="label">Tỷ lệ chính xác</div><div class="value" id="stat-accuracy" style="color: var(--accent);">0%</div></div>
+            </div>
+            <div class="card">
+                <h3 style="margin-bottom: 16px;">Tiến độ theo Chủ đề</h3>
+                <div id="topic-progress-list"></div>
+            </div>
+        </div>
+
+        <!-- IMAGE LEARNING -->
+        <div id="view-image-learning" class="view">
+            <div class="card" style="max-width: 650px; margin: 0 auto; text-align: center;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; background: var(--surface-2); padding: 12px 16px; border-radius: var(--radius-sm); flex-wrap: wrap; gap: 8px;">
+                    <span id="img-stage-info" style="font-weight: 800; color: var(--primary);">Giai đoạn 1</span>
+                    <div style="display: flex; gap: 12px; font-weight: 700; font-size: 0.9rem;">
+                        <span id="img-stage-progress" style="color: var(--muted);">Từ 1 / 5</span>
+                        <span id="img-wrong-count" style="color: var(--danger); background: rgba(239, 68, 68, 0.1); padding: 2px 8px; border-radius: 12px;">Sai: 0</span>
+                    </div>
+                </div>
+
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+                    <span id="img-topic" style="font-size:0.85rem; color:var(--muted); font-weight:700;">Topic</span>
+                    <span id="img-hint-meaning" style="font-size:0.95rem; color:var(--primary); font-weight:700;">Nghĩa: ...</span>
+                </div>
+                
+                <div class="image-preview-box">
+                    <img id="img-learning-pic" src="" alt="Hình ảnh minh họa" style="display: none;">
+                    <div id="img-loading" class="img-placeholder">⏳ Đang tải hình ảnh minh họa...</div>
+                </div>
+
+                <form onsubmit="event.preventDefault(); checkImageAnswer();" style="margin-top: 16px;">
+                    <input type="text" id="img-input" class="input-field" placeholder="Nhìn ảnh & gõ từ Tiếng Anh chính xác vào đây..." autocomplete="off">
+                    <button type="submit" class="btn btn-primary" style="width: 100%;">Kiểm Tra Kết Quả (Enter)</button>
+                </form>
+
+                <div id="img-feedback" style="margin-top: 12px; font-weight: 700; min-height: 24px;"></div>
+            </div>
+        </div>
+
+        <!-- FLASHCARD -->
+        <div id="view-flashcard" class="view">
+            <div style="text-align: center; margin-bottom: 16px;">
+                <span id="flashcard-progress" style="font-weight: 700; color: var(--muted);">Thẻ 1 / 0</span>
+            </div>
+            
+            <div class="flashcard-container-flex">
+                <button class="nav-arrow-btn" onclick="prevCard()" title="Thẻ trước">❮</button>
+                
+                <div class="flashcard-wrapper">
+                    <div class="flashcard" id="active-flashcard" onclick="flipCard()">
+                        <div class="card-face card-front">
+                            <span id="fc-topic" style="font-size:0.8rem; background:var(--surface-2); padding:4px 12px; border-radius:20px; color:var(--muted); margin-bottom:12px; font-weight:700;">Topic</span>
+                            <div class="vocab-text" id="fc-front">Text</div>
+                            <button class="btn btn-outline" onclick="event.stopPropagation(); speakCurrentWord()" style="padding: 6px 12px; font-size: 0.85rem;">🔊 Phát âm</button>
+                        </div>
+                        <div class="card-face card-back">
+                            <div class="vocab-text" id="fc-back" style="color: var(--text);">Meaning</div>
+                            <p id="fc-hint" style="color: var(--muted); font-style: italic; margin-top: 8px;"></p>
+                        </div>
+                    </div>
+                </div>
+
+                <button class="nav-arrow-btn" onclick="nextCard()" title="Thẻ tiếp theo">❯</button>
+            </div>
+
+            <div class="btn-group" style="margin-top: 20px;">
+                <button class="btn btn-danger" onclick="rateFlashcard(1)">🔴 Chưa nhớ</button>
+                <button class="btn btn-warning" onclick="rateFlashcard(2)">🟠 Khó</button>
+                <button class="btn btn-primary" onclick="rateFlashcard(3)">🔵 Đã nhớ</button>
+                <button class="btn btn-success" onclick="rateFlashcard(4)">🟢 Rất dễ</button>
+            </div>
+        </div>
+
+        <!-- SPELLING -->
+        <div id="view-spelling" class="view">
+            <div class="card" style="max-width: 650px; margin: 0 auto; text-align: center;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; background: var(--surface-2); padding: 12px 16px; border-radius: var(--radius-sm); flex-wrap: wrap; gap: 8px;">
+                    <span id="spelling-stage-info" style="font-weight: 800; color: var(--primary);">Giai đoạn 1</span>
+                    <div style="display: flex; gap: 12px; font-weight: 700; font-size: 0.9rem;">
+                        <span id="spelling-stage-progress" style="color: var(--muted);">Từ 1 / 5</span>
+                        <span id="spelling-wrong-count" style="color: var(--danger); background: rgba(239, 68, 68, 0.1); padding: 2px 8px; border-radius: 12px;">Sai: 0</span>
+                    </div>
+                </div>
+
+                <span id="spelling-topic" style="font-size:0.85rem; color:var(--muted); font-weight:700;">Topic</span>
+                
+                <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin: 16px 0;">
+                    <h2 id="spelling-prompt" style="color: var(--primary); font-size: 1.8rem; margin: 0;">Nghĩa tiếng Việt...</h2>
+                    <button class="btn btn-outline" onclick="speakSpellingWord()" title="Nghe phát âm từ tiếng Anh" style="padding: 8px 12px; border-radius: 50%;">🔊</button>
+                </div>
+                
+                <form onsubmit="event.preventDefault(); checkSpelling();">
+                    <input type="text" id="spelling-input" class="input-field" placeholder="Gõ từ tiếng Anh tương ứng và bấm Enter..." autocomplete="off">
+                    <button type="submit" class="btn btn-primary" style="width: 100%;">Kiểm tra kết quả (Enter)</button>
+                </form>
+
+                <div id="spelling-feedback" style="margin-top: 16px; font-weight: 700; min-height: 24px;"></div>
+            </div>
+        </div>
+
+        <!-- SPEED MATCH -->
+        <div id="view-speed-match" class="view">
+            <div class="card">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+                    <h3 style="margin: 0;">⚡ Nối Từ Nhanh Đếm Ngược</h3>
+                    <div style="font-weight: 800; font-size: 1.3rem; color: var(--warning);">
+                        ⏱️ <span id="sm-timer">30</span>s
+                    </div>
+                </div>
+                <div id="sm-grid" class="match-grid"></div>
+                <button class="btn btn-outline" style="width: 100%; margin-top: 20px;" onclick="initSpeedMatch()">🔄 Chơi Ván Mới</button>
+            </div>
+        </div>
+
+        <!-- WORD CATCHER ARCADE -->
+        <div id="view-word-catcher" class="view">
+            <div class="card" style="max-width: 650px; margin: 0 auto; text-align: center;">
+                <div style="display: flex; justify-content: space-between; margin-bottom: 12px; font-weight: 800;">
+                    <span style="color: var(--primary);">Điểm: <span id="wc-score">0</span></span>
+                    <span style="color: var(--danger);">Mạng: <span id="wc-lives">❤️❤️❤️</span></span>
+                </div>
+                
+                <div class="catcher-container" id="wc-container">
+                    <div id="wc-falling-word" class="falling-word">Word</div>
+                </div>
+
+                <div class="options-grid" id="wc-options" style="margin-top: 16px;"></div>
+                <button id="wc-start-btn" class="btn btn-primary" style="width: 100%; margin-top: 16px;" onclick="startWordCatcherGame()">▶️ Bắt Đầu Chơi Arcade</button>
+            </div>
+        </div>
+
+        <!-- WORDLE -->
+        <div id="view-wordle" class="view">
+            <div class="card" style="max-width: 600px; margin: 0 auto; text-align: center;">
+                <h3>🟩 Wordle Đoán Từ Vựng</h3>
+                <p id="wordle-meaning" style="color: var(--primary); font-weight: 700; margin: 12px 0; font-size: 1.2rem;">Gợi ý nghĩa tiếng Việt...</p>
+                
+                <div id="wordle-board" class="wordle-board"></div>
+
+                <form onsubmit="event.preventDefault(); submitWordleGuess();" style="margin-top: 20px;">
+                    <input type="text" id="wordle-input" class="input-field" placeholder="Gõ từ đoán và bấm Enter..." autocomplete="off">
+                    <button type="submit" class="btn btn-primary" style="width: 100%;">Đoán Từ (Enter)</button>
+                </form>
+            </div>
+        </div>
+
+        <!-- UNSCRAMBLE -->
+        <div id="view-unscramble" class="view">
+            <div class="card" style="max-width: 600px; margin: 0 auto; text-align: center;">
+                <h3>🔤 Sắp Xếp Lại Ký Tự</h3>
+                <p id="unscramble-meaning" style="color: var(--muted); font-weight: 700; margin-top: 8px;">Nghĩa tiếng Việt</p>
+                
+                <div id="scrambled-letters" class="scrambled-box">A - P - P - L - E</div>
+
+                <form onsubmit="event.preventDefault(); checkUnscramble();">
+                    <input type="text" id="unscramble-input" class="input-field" placeholder="Nhập từ chính xác..." autocomplete="off">
+                    <button type="submit" class="btn btn-primary" style="width: 100%;">Kiểm Tra Kết Quả</button>
+                </form>
+                <div id="unscramble-feedback" style="margin-top: 12px; font-weight: 700; min-height: 24px;"></div>
+            </div>
+        </div>
+
+        <!-- SURVIVAL -->
+        <div id="view-survival" class="view">
+            <div class="card" style="max-width: 650px; margin: 0 auto; text-align: center;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+                    <span style="font-weight: 800; color: var(--accent); font-size: 1.2rem;">🏰 Tầng: <span id="surv-floor">1</span></span>
+                    <span id="surv-lives" style="font-size: 1.2rem;">❤️❤️❤️</span>
+                </div>
+
+                <span id="surv-topic" style="font-size: 0.85rem; color: var(--muted); font-weight: 700;">Topic</span>
+                <h2 id="surv-question" style="margin: 16px 0; color: var(--primary);">Nghĩa của từ này là gì?</h2>
+
+                <div class="options-grid" id="surv-options"></div>
+            </div>
+        </div>
+
+        <!-- DICTATION -->
+        <div id="view-dictation" class="view">
+            <div class="card" style="max-width: 650px; margin: 0 auto; text-align: center;">
+                <span id="dict-topic" style="font-size:0.85rem; color:var(--muted); font-weight:700;">Audio Quiz</span>
+                <h3 style="margin: 12px 0;">Nghe Âm Thanh & Gõ Lại Từ/Cụm Từ</h3>
+                
+                <div style="margin: 24px 0;">
+                    <button class="btn btn-primary" onclick="playDictationAudio()" style="padding: 16px 32px; font-size: 1.2rem; border-radius: 30px;">
+                        🔊 Bấm Để Nghe Âm Thanh
+                    </button>
+                </div>
+
+                <form onsubmit="event.preventDefault(); checkDictation();">
+                    <input type="text" id="dict-input" class="input-field" placeholder="Gõ lại chính xác từ bạn nghe được..." autocomplete="off">
+                    <button type="submit" class="btn btn-primary" style="width: 100%;">Kiểm tra chính tả (Enter)</button>
+                </form>
+
+                <div id="dict-feedback" style="margin-top: 16px; font-weight: 700; min-height: 24px;"></div>
+            </div>
+        </div>
+
+        <!-- QUIZ -->
+        <div id="view-quiz" class="view">
+            <div class="card" style="max-width: 700px; margin: 0 auto;">
+                <div style="display:flex; justify-content:space-between; margin-bottom:16px; color:var(--muted); font-weight:700;">
+                    <span id="quiz-topic-badge">Topic</span>
+                    <span id="quiz-score-tracker">Quiz</span>
+                </div>
+                <h2 id="quiz-question" style="margin-bottom: 20px;">Nghĩa của từ này là gì?</h2>
+                <div class="options-grid" id="quiz-options"></div>
+                <div id="quiz-explanation" class="card" style="margin-top: 20px; background: var(--surface-2); display: none;">
+                    <strong>Giải thích:</strong> <span id="quiz-exp-text"></span>
+                </div>
+                <button id="quiz-next-btn" class="btn btn-primary" style="width: 100%; margin-top: 20px; display: none;" onclick="nextQuizQuestion()">Câu tiếp theo ➔</button>
+            </div>
+        </div>
+
+        <!-- ADD VOCAB -->
+        <div id="view-add-vocab" class="view">
+            <div class="card" style="max-width: 600px; margin: 0 auto;">
+                <h3 style="margin-bottom: 16px;">Thêm Từ Vựng Vào File Hiện Tại</h3>
+                <form id="add-vocab-form" onsubmit="addNewVocab(event)">
+                    <label style="font-size:0.85rem; font-weight:700; color:var(--muted);">Chủ đề / Đoạn</label>
+                    <input type="text" id="new-topic" class="input-field" placeholder="Ví dụ: File 12 – Đoạn 6" required>
+
+                    <label style="font-size:0.85rem; font-weight:700; color:var(--muted);">Từ / Cụm từ Tiếng Anh</label>
+                    <input type="text" id="new-word" class="input-field" placeholder="Ví dụ: schedule an appointment" required>
+
+                    <label style="font-size:0.85rem; font-weight:700; color:var(--muted);">Nghĩa Tiếng Việt</label>
+                    <input type="text" id="new-meaning" class="input-field" placeholder="Ví dụ: đặt một cuộc hẹn" required>
+
+                    <label style="font-size:0.85rem; font-weight:700; color:var(--muted);">Gợi ý (Không bắt buộc)</label>
+                    <input type="text" id="new-hint" class="input-field" placeholder="Ví dụ: Cụm từ hay dùng trong công sở">
+
+                    <label style="font-size:0.85rem; font-weight:700; color:var(--muted);">Link hình ảnh (Không bắt buộc)</label>
+                    <input type="url" id="new-image" class="input-field" placeholder="https://.../image.jpg">
+
+                    <button type="submit" class="btn btn-primary" style="width: 100%; margin-top: 8px;">➕ Thêm Vào File Đang Chọn</button>
+                </form>
+            </div>
+        </div>
+
+        <!-- MISTAKES -->
+        <div id="view-mistakes" class="view">
+            <div class="card">
+                <h3>Danh sách các câu sai (File hiện tại)</h3>
+                <p style="color: var(--muted); margin-bottom: 16px; font-size: 0.9rem;">Tập trung ôn luyện lại những từ bạn làm sai.</p>
+                <div id="mistakes-list"></div>
+            </div>
+        </div>
+
+        <!-- SETTINGS -->
+        <div id="view-settings" class="view">
+            <div class="card" style="max-width: 650px; margin: 0 auto;">
+                <h3 style="margin-bottom: 16px;">Quản lý dữ liệu học tập</h3>
+                <div class="btn-group" style="justify-content: flex-start;">
+                    <button class="btn btn-danger" onclick="resetProgress()">⚠️ Xóa tất cả tiến độ</button>
+                </div>
+            </div>
+        </div>
+    </main>
+</div>
+
+<!-- MODAL THÔNG BÁO -->
+<div id="custom-modal" class="modal-overlay">
+    <div class="modal-card">
+        <div id="modal-icon" class="modal-icon">🎉</div>
+        <h3 id="modal-title" class="modal-title">Thông báo</h3>
+        <p id="modal-message" class="modal-message">Nội dung thông báo...</p>
+        <button id="modal-confirm-btn" class="btn btn-primary" style="width: 100%; margin-top: 20px;" onclick="closeCustomModal()">Đồng ý (Enter)</button>
+    </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

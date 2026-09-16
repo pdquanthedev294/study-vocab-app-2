@@ -1,0 +1,1255 @@
+[
+  {
+    "id": 1,
+    "topic": "TOEIC Reading Part 5 (Q101)",
+    "word": "Not far from the train station lies Starlight Park",
+    "meaning": "Không xa ga tàu là Công viên Starlight",
+    "hint": "Cụm vị trí 'not far from'"
+  },
+  {
+    "id": 2,
+    "topic": "TOEIC Reading Part 5 (Q101)",
+    "word": "which is a popular destination for tourists and locals alike",
+    "meaning": "nơi là điểm đến phổ biến cho cả khách du lịch lẫn người dân địa phương",
+    "hint": "Địa điểm thu hút khách ghé thăm"
+  },
+  {
+    "id": 3,
+    "topic": "TOEIC Reading Part 5 (Q101)",
+    "word": "from (prep)",
+    "meaning": "từ (not far from)",
+    "hint": "Giới từ đi với 'not far' chỉ khoảng cách"
+  },
+  {
+    "id": 4,
+    "topic": "TOEIC Reading Part 5 (Q101)",
+    "word": "with (prep)",
+    "meaning": "với",
+    "hint": "Giới từ chỉ sự đi kèm"
+  },
+  {
+    "id": 5,
+    "topic": "TOEIC Reading Part 5 (Q101)",
+    "word": "next (adj / adv / prep)",
+    "meaning": "tiếp theo / bên cạnh (cần có 'to')",
+    "hint": "Từ chỉ sự kế tiếp"
+  },
+  {
+    "id": 6,
+    "topic": "TOEIC Reading Part 5 (Q101)",
+    "word": "until (prep / conj)",
+    "meaning": "cho đến khi",
+    "hint": "Từ chỉ mốc thời gian"
+  },
+  {
+    "id": 7,
+    "topic": "TOEIC Reading Part 5 (Q102)",
+    "word": "sales director will give a brief talk before the keynote speaker is introduced",
+    "meaning": "giám đốc kinh doanh sẽ phát biểu ngắn gọn trước khi diễn giả chính được giới thiệu",
+    "hint": "Liên từ 'before' chỉ thời điểm sự việc diễn ra"
+  },
+  {
+    "id": 8,
+    "topic": "TOEIC Reading Part 5 (Q102)",
+    "word": "before (conj / prep)",
+    "meaning": "trước khi",
+    "hint": "Liên từ chỉ thời gian đứng trước mệnh đề"
+  },
+  {
+    "id": 9,
+    "topic": "TOEIC Reading Part 5 (Q102)",
+    "word": "opposite (prep / adj)",
+    "meaning": "đối diện",
+    "hint": "Giới từ vị trí"
+  },
+  {
+    "id": 10,
+    "topic": "TOEIC Reading Part 5 (Q102)",
+    "word": "about (prep)",
+    "meaning": "về / khoảng",
+    "hint": "Giới từ chỉ chủ đề hoặc ước lượng"
+  },
+  {
+    "id": 11,
+    "topic": "TOEIC Reading Part 5 (Q102)",
+    "word": "between (prep)",
+    "meaning": "ở giữa hai đối tượng",
+    "hint": "Giới từ khoảng giữa"
+  },
+  {
+    "id": 12,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "charity's new reading program is projected to increase literacy rates",
+    "meaning": "chương trình đọc sách mới của tổ chức từ thiện được dự báo / dự kiến sẽ làm tăng tỷ lệ biết chữ",
+    "hint": "Dạng bị động 'is projected to' chỉ sự dự kiến"
+  },
+  {
+    "id": 13,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "in developing countries over the next ten years",
+    "meaning": "ở các nước đang phát triển trong vòng mười năm tới",
+    "hint": "Mục tiêu dài hạn của dự án"
+  },
+  {
+    "id": 14,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "project (n / v)",
+    "meaning": "dự án / dự báo",
+    "hint": "Danh từ hoặc động từ nguyên mẫu"
+  },
+  {
+    "id": 15,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "projecting (v / n)",
+    "meaning": "việc dự báo",
+    "hint": "Danh động từ"
+  },
+  {
+    "id": 16,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "projected (adj / v)",
+    "meaning": "được dự kiến / dự báo",
+    "hint": "Dạng bị động sau động từ tobe 'is'"
+  },
+  {
+    "id": 17,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "projects (n / v)",
+    "meaning": "các dự án",
+    "hint": "Danh từ số nhiều"
+  },
+  {
+    "id": 18,
+    "topic": "TOEIC Reading Part 5 (Q104)",
+    "word": "Engaging in social activities",
+    "meaning": "Tham gia vào các hoạt động xã hội",
+    "hint": "Danh từ số nhiều 'activities' đi với 'social'"
+  },
+  {
+    "id": 19,
+    "topic": "TOEIC Reading Part 5 (Q104)",
+    "word": "Ms. Mason quickly expanded her network after moving to a new city",
+    "meaning": "cô Mason đã nhanh chóng mở rộng mạng lưới quan hệ của mình sau khi chuyển đến thành phố mới",
+    "hint": "Mở rộng mối quan hệ cá nhân"
+  },
+  {
+    "id": 20,
+    "topic": "TOEIC Reading Part 5 (Q104)",
+    "word": "active (adj)",
+    "meaning": "năng động / hoạt động",
+    "hint": "Tính từ"
+  },
+  {
+    "id": 21,
+    "topic": "TOEIC Reading Part 5 (Q104)",
+    "word": "activities (n)",
+    "meaning": "các hoạt động (social activities)",
+    "hint": "Danh từ số nhiều đi sau tính từ social"
+  },
+  {
+    "id": 22,
+    "topic": "TOEIC Reading Part 5 (Q104)",
+    "word": "activates (v)",
+    "meaning": "kích hoạt (ngôi 3 số ít)",
+    "hint": "Động từ chia hiện tại"
+  },
+  {
+    "id": 23,
+    "topic": "TOEIC Reading Part 5 (Q104)",
+    "word": "activated (adj / v)",
+    "meaning": "được kích hoạt",
+    "hint": "Dạng quá khứ/phân từ II"
+  },
+  {
+    "id": 24,
+    "topic": "TOEIC Reading Part 5 (Q105)",
+    "word": "Artists wanting to participate in the contest",
+    "meaning": "Các nghệ sĩ muốn tham gia cuộc thi",
+    "hint": "Thí sinh dự thi nghệ thuật"
+  },
+  {
+    "id": 25,
+    "topic": "TOEIC Reading Part 5 (Q105)",
+    "word": "should submit their work by the deadline of June 30",
+    "meaning": "nên nộp tác phẩm của họ trước hạn chót là ngày 30 tháng 6",
+    "hint": "Mốc thời gian nộp bài"
+  },
+  {
+    "id": 26,
+    "topic": "TOEIC Reading Part 5 (Q105)",
+    "word": "admission (n)",
+    "meaning": "sự nhận vào / tiền vé vào cửa",
+    "hint": "Danh từ chỉ quyền nhập học/vào cửa"
+  },
+  {
+    "id": 27,
+    "topic": "TOEIC Reading Part 5 (Q105)",
+    "word": "possibility (n)",
+    "meaning": "khả năng / triển vọng",
+    "hint": "Danh từ chỉ cơ hội xảy ra"
+  },
+  {
+    "id": 28,
+    "topic": "TOEIC Reading Part 5 (Q105)",
+    "word": "deadline (n)",
+    "meaning": "hạn chót / thời hạn cuối",
+    "hint": "Danh từ chỉ ngày giờ phải hoàn thành công việc"
+  },
+  {
+    "id": 29,
+    "topic": "TOEIC Reading Part 5 (Q105)",
+    "word": "output (n)",
+    "meaning": "sản lượng / kết quả đầu ra",
+    "hint": "Danh từ chỉ lượng sản phẩm tạo ra"
+  },
+  {
+    "id": 30,
+    "topic": "TOEIC Reading Part 5 (Q106)",
+    "word": "Drake Pharmaceuticals is fortunate to have world-renowned chemist",
+    "meaning": "Drake Pharmaceuticals rất may mắn khi có nhà hóa học nổi tiếng thế giới",
+    "hint": "Tính từ 'fortunate' đi với 'to have'"
+  },
+  {
+    "id": 31,
+    "topic": "TOEIC Reading Part 5 (Q106)",
+    "word": "Jonas Lund as its senior lab technician",
+    "meaning": "Jonas Lund làm kỹ thuật viên phòng thí nghiệm cao cấp của mình",
+    "hint": "Sự may mắn sở hữu nhân tài"
+  },
+  {
+    "id": 32,
+    "topic": "TOEIC Reading Part 5 (Q106)",
+    "word": "absent (adj)",
+    "meaning": "vắng mặt",
+    "hint": "Tính từ chỉ sự không có mặt"
+  },
+  {
+    "id": 33,
+    "topic": "TOEIC Reading Part 5 (Q106)",
+    "word": "fortunate (adj)",
+    "meaning": "may mắn",
+    "hint": "Tính từ miêu tả điều may mắn (fortunate to have)"
+  },
+  {
+    "id": 34,
+    "topic": "TOEIC Reading Part 5 (Q106)",
+    "word": "approximate (adj)",
+    "meaning": "xấp xỉ / gần đúng",
+    "hint": "Tính từ miêu tả con số ước chừng"
+  },
+  {
+    "id": 35,
+    "topic": "TOEIC Reading Part 5 (Q106)",
+    "word": "respective (adj)",
+    "meaning": "tương ứng / lần lượt",
+    "hint": "Tính từ chỉ mối quan hệ riêng biệt"
+  },
+  {
+    "id": 36,
+    "topic": "TOEIC Reading Part 5 (Q107)",
+    "word": "Zans Corporation will start manufacturing",
+    "meaning": "Tập đoàn Zans sẽ bắt đầu sản xuất",
+    "hint": "Thì tương lai đơn 'will start' đi với mốc thời gian 'next year'"
+  },
+  {
+    "id": 37,
+    "topic": "TOEIC Reading Part 5 (Q107)",
+    "word": "all of its luxury wallets and footwear domestically next year",
+    "meaning": "tất cả ví cao cấp và giày dép của mình ở trong nước vào năm tới",
+    "hint": "Kế hoạch sản xuất hàng nội địa"
+  },
+  {
+    "id": 38,
+    "topic": "TOEIC Reading Part 5 (Q107)",
+    "word": "was starting (v)",
+    "meaning": "đã và đang bắt đầu (quá khứ tiếp diễn)",
+    "hint": "Thì quá khứ tiếp diễn"
+  },
+  {
+    "id": 39,
+    "topic": "TOEIC Reading Part 5 (Q107)",
+    "word": "started (v)",
+    "meaning": "đã bắt đầu",
+    "hint": "Thì quá khứ đơn"
+  },
+  {
+    "id": 40,
+    "topic": "TOEIC Reading Part 5 (Q107)",
+    "word": "will start (v)",
+    "meaning": "sẽ bắt đầu",
+    "hint": "Thì tương lai đơn đi với thời gian sang năm (next year)"
+  },
+  {
+    "id": 41,
+    "topic": "TOEIC Reading Part 5 (Q107)",
+    "word": "has started (v)",
+    "meaning": "đã bắt đầu (hiện tại hoàn thành)",
+    "hint": "Thì hiện tại hoàn thành"
+  },
+  {
+    "id": 42,
+    "topic": "TOEIC Reading Part 5 (Q108)",
+    "word": "Some voters have a clear preference for candidates",
+    "meaning": "Một số cử tri có sự ưu ái / thiên vị rõ ràng dành cho các ứng cử viên",
+    "hint": "Danh từ 'preference' đi với giới từ 'for'"
+  },
+  {
+    "id": 43,
+    "topic": "TOEIC Reading Part 5 (Q108)",
+    "word": "who have practiced law",
+    "meaning": "những người đã từng hành nghề luật",
+    "hint": "Tiêu chí lựa chọn ứng viên"
+  },
+  {
+    "id": 44,
+    "topic": "TOEIC Reading Part 5 (Q108)",
+    "word": "selection (n)",
+    "meaning": "sự lựa chọn / tuyển chọn",
+    "hint": "Danh từ chỉ việc chọn lựa"
+  },
+  {
+    "id": 45,
+    "topic": "TOEIC Reading Part 5 (Q108)",
+    "word": "reflection (n)",
+    "meaning": "sự phản chiếu / sự suy ngẫm",
+    "hint": "Danh từ chỉ hình ảnh phản chiếu hoặc tư duy"
+  },
+  {
+    "id": 46,
+    "topic": "TOEIC Reading Part 5 (Q108)",
+    "word": "component (n)",
+    "meaning": "thành phần",
+    "hint": "Danh từ chỉ bộ phận"
+  },
+  {
+    "id": 47,
+    "topic": "TOEIC Reading Part 5 (Q108)",
+    "word": "preference (n)",
+    "meaning": "sự sở thích / sự ưu tiên (preference for)",
+    "hint": "Danh từ đi với giới từ 'for' chỉ sự ưu ái"
+  },
+  {
+    "id": 48,
+    "topic": "TOEIC Reading Part 5 (Q109)",
+    "word": "clerk said that roughly fifteen customers",
+    "meaning": "nhân viên nói rằng khoảng 15 khách hàng",
+    "hint": "Trạng từ 'roughly' ước lượng con số"
+  },
+  {
+    "id": 49,
+    "topic": "TOEIC Reading Part 5 (Q109)",
+    "word": "had been waiting outside the store for it to open",
+    "meaning": "đã đang chờ bên ngoài cửa hàng để nó mở cửa",
+    "hint": "Khách đợi giờ mở cửa"
+  },
+  {
+    "id": 50,
+    "topic": "TOEIC Reading Part 5 (Q109)",
+    "word": "rougher (adj)",
+    "meaning": "xù xì hơn / thô hơn",
+    "hint": "Tính từ so sánh hơn"
+  },
+  {
+    "id": 51,
+    "topic": "TOEIC Reading Part 5 (Q109)",
+    "word": "roughly (adv)",
+    "meaning": "khoảng / xấp xỉ",
+    "hint": "Trạng từ đứng trước con số fifteen"
+  },
+  {
+    "id": 52,
+    "topic": "TOEIC Reading Part 5 (Q109)",
+    "word": "rough (adj)",
+    "meaning": "thô ráp / gập ghềnh",
+    "hint": "Tính từ nguyên mẫu"
+  },
+  {
+    "id": 53,
+    "topic": "TOEIC Reading Part 5 (Q109)",
+    "word": "roughness (n)",
+    "meaning": "sự thô ráp",
+    "hint": "Danh từ"
+  },
+  {
+    "id": 54,
+    "topic": "TOEIC Reading Part 5 (Q110)",
+    "word": "leaky faucet has been repaired",
+    "meaning": "vòi nước bị rò rỉ đã được sửa chữa",
+    "hint": "Khắc phục sự cố rò rỉ"
+  },
+  {
+    "id": 55,
+    "topic": "TOEIC Reading Part 5 (Q110)",
+    "word": "so visitors may now use the first-floor restroom",
+    "meaning": "vì vậy du khách giờ đây có thể sử dụng nhà vệ sinh ở tầng một",
+    "hint": "Trạng từ 'now' chỉ thời điểm có thể dùng lại"
+  },
+  {
+    "id": 56,
+    "topic": "TOEIC Reading Part 5 (Q110)",
+    "word": "however (adv)",
+    "meaning": "tuy nhiên",
+    "hint": "Trạng từ chuyển ý"
+  },
+  {
+    "id": 57,
+    "topic": "TOEIC Reading Part 5 (Q110)",
+    "word": "once (conj / adv)",
+    "meaning": "một khi",
+    "hint": "Từ chỉ thời gian"
+  },
+  {
+    "id": 58,
+    "topic": "TOEIC Reading Part 5 (Q110)",
+    "word": "now (adv)",
+    "meaning": "giây phút này / giờ đây",
+    "hint": "Trạng từ thời gian đứng giữa động từ khuyết thiếu và động từ thường"
+  },
+  {
+    "id": 59,
+    "topic": "TOEIC Reading Part 5 (Q110)",
+    "word": "quite (adv)",
+    "meaning": "khá là",
+    "hint": "Trạng từ mức độ"
+  },
+  {
+    "id": 60,
+    "topic": "TOEIC Reading Part 5 (Q111)",
+    "word": "progression of the disease can be significantly slowed",
+    "meaning": "sự tiến triển của bệnh có thể được làm chậm đáng kể",
+    "hint": "Danh từ 'progression' đứng làm chủ ngữ"
+  },
+  {
+    "id": 61,
+    "topic": "TOEIC Reading Part 5 (Q111)",
+    "word": "by taking the medicine developed by Dr. Toft's team",
+    "meaning": "bằng cách uống loại thuốc do nhóm của Tiến sĩ Toft phát triển",
+    "hint": "Hiệu quả điều trị y tế"
+  },
+  {
+    "id": 62,
+    "topic": "TOEIC Reading Part 5 (Q111)",
+    "word": "progressed (v / adj)",
+    "meaning": "đã tiến triển",
+    "hint": "Dạng quá khứ"
+  },
+  {
+    "id": 63,
+    "topic": "TOEIC Reading Part 5 (Q111)",
+    "word": "progression (n)",
+    "meaning": "sự tiến triển / quá trình phát triển",
+    "hint": "Danh từ đứng sau mạo từ 'The'"
+  },
+  {
+    "id": 64,
+    "topic": "TOEIC Reading Part 5 (Q111)",
+    "word": "progressive (adj)",
+    "meaning": "tiến bộ / tăng dần",
+    "hint": "Tính từ"
+  },
+  {
+    "id": 65,
+    "topic": "TOEIC Reading Part 5 (Q111)",
+    "word": "progressively (adv)",
+    "meaning": "một cách tăng dần / lũy tiến",
+    "hint": "Trạng từ"
+  },
+  {
+    "id": 66,
+    "topic": "TOEIC Reading Part 5 (Q112)",
+    "word": "residents as well as public officials were totally unprepared",
+    "meaning": "người dân cũng như các quan chức chính quyền hoàn toàn không có sự chuẩn bị",
+    "hint": "Trạng từ 'totally' bổ nghĩa cho tính từ 'unprepared'"
+  },
+  {
+    "id": 67,
+    "topic": "TOEIC Reading Part 5 (Q112)",
+    "word": "when the hurricane hit the area",
+    "meaning": "khi trận bão đổ bộ vào khu vực",
+    "hint": "Sự thụ động trước thiên tai"
+  },
+  {
+    "id": 68,
+    "topic": "TOEIC Reading Part 5 (Q112)",
+    "word": "subsequently (adv)",
+    "meaning": "sau đó",
+    "hint": "Trạng từ thời gian tiếp theo"
+  },
+  {
+    "id": 69,
+    "topic": "TOEIC Reading Part 5 (Q112)",
+    "word": "totally (adv)",
+    "meaning": "hoàn toàn / toàn bộ",
+    "hint": "Trạng từ bổ nghĩa cho tính từ unprepared"
+  },
+  {
+    "id": 70,
+    "topic": "TOEIC Reading Part 5 (Q112)",
+    "word": "beneficially (adv)",
+    "meaning": "một cách có lợi",
+    "hint": "Trạng từ thể hiện lợi ích"
+  },
+  {
+    "id": 71,
+    "topic": "TOEIC Reading Part 5 (Q112)",
+    "word": "currently (adv)",
+    "meaning": "hiện tại",
+    "hint": "Trạng từ thời gian hiện tại"
+  },
+  {
+    "id": 72,
+    "topic": "TOEIC Reading Part 5 (Q113)",
+    "word": "company plans on reimbursing the salespeople",
+    "meaning": "công ty dự định hoàn trả tiền cho các nhân viên bán hàng",
+    "hint": "Cấu trúc 'plan on + V-ing'"
+  },
+  {
+    "id": 73,
+    "topic": "TOEIC Reading Part 5 (Q113)",
+    "word": "for the expenses they incurred while attending the conference",
+    "meaning": "cho các chi phí họ phát sinh trong khi tham dự hội nghị",
+    "hint": "Hoàn trả chi phí công tác"
+  },
+  {
+    "id": 74,
+    "topic": "TOEIC Reading Part 5 (Q113)",
+    "word": "reimbursement (n)",
+    "meaning": "sự hoàn tiền",
+    "hint": "Danh từ"
+  },
+  {
+    "id": 75,
+    "topic": "TOEIC Reading Part 5 (Q113)",
+    "word": "reimbursed (v / adj)",
+    "meaning": "được hoàn tiền",
+    "hint": "Dạng quá khứ/phân từ II"
+  },
+  {
+    "id": 76,
+    "topic": "TOEIC Reading Part 5 (Q113)",
+    "word": "reimburse (v)",
+    "meaning": "hoàn tiền",
+    "hint": "Động từ nguyên mẫu"
+  },
+  {
+    "id": 77,
+    "topic": "TOEIC Reading Part 5 (Q113)",
+    "word": "reimbursing (v / n)",
+    "meaning": "việc hoàn tiền",
+    "hint": "V-ing đứng sau giới từ 'on' (plans on reimbursing)"
+  },
+  {
+    "id": 78,
+    "topic": "TOEIC Reading Part 5 (Q114)",
+    "word": "Ms. Carlton felt comfortable crossing the road",
+    "meaning": "Cô Carlton cảm thấy thoải mái khi sang đường",
+    "hint": "Tự tin băng qua đường"
+  },
+  {
+    "id": 79,
+    "topic": "TOEIC Reading Part 5 (Q114)",
+    "word": "because there were not vehicles coming in her direction",
+    "meaning": "bởi vì không có phương tiện nào đi về phía cô ấy",
+    "hint": "Danh từ 'direction' đi với 'in her direction'"
+  },
+  {
+    "id": 80,
+    "topic": "TOEIC Reading Part 5 (Q114)",
+    "word": "directly (adv)",
+    "meaning": "trực tiếp",
+    "hint": "Trạng từ"
+  },
+  {
+    "id": 81,
+    "topic": "TOEIC Reading Part 5 (Q114)",
+    "word": "direction (n)",
+    "meaning": "hướng / phương hướng",
+    "hint": "Danh từ đứng sau tính từ sở hữu her"
+  },
+  {
+    "id": 82,
+    "topic": "TOEIC Reading Part 5 (Q114)",
+    "word": "direct (adj / v)",
+    "meaning": "trực tiếp / chỉ đường",
+    "hint": "Tính từ hoặc động từ"
+  },
+  {
+    "id": 83,
+    "topic": "TOEIC Reading Part 5 (Q114)",
+    "word": "directs (v)",
+    "meaning": "chỉ đường (ngôi 3 số ít)",
+    "hint": "Động từ chia hiện tại"
+  },
+  {
+    "id": 84,
+    "topic": "TOEIC Reading Part 5 (Q115)",
+    "word": "During the television coverage of the general election",
+    "meaning": "Trong suốt thời gian truyền hình đưa tin về cuộc tổng tuyển cử",
+    "hint": "Giới từ 'During' đứng trước danh từ/cụm danh từ"
+  },
+  {
+    "id": 85,
+    "topic": "TOEIC Reading Part 5 (Q115)",
+    "word": "a number of high-profile candidates were interviewed live on air",
+    "meaning": "một số ứng cử viên nổi tiếng đã được phỏng vấn trực tiếp trên sóng",
+    "hint": "Phỏng vấn trực tiếp trên truyền hình"
+  },
+  {
+    "id": 86,
+    "topic": "TOEIC Reading Part 5 (Q115)",
+    "word": "During (prep)",
+    "meaning": "trong suốt (thời gian)",
+    "hint": "Giới từ đi với danh từ the television coverage"
+  },
+  {
+    "id": 87,
+    "topic": "TOEIC Reading Part 5 (Q115)",
+    "word": "About (prep)",
+    "meaning": "về / khoảng",
+    "hint": "Giới từ chỉ chủ đề"
+  },
+  {
+    "id": 88,
+    "topic": "TOEIC Reading Part 5 (Q115)",
+    "word": "While (conj)",
+    "meaning": "trong khi (đi với mệnh đề)",
+    "hint": "Liên từ đi với mệnh đề"
+  },
+  {
+    "id": 89,
+    "topic": "TOEIC Reading Part 5 (Q115)",
+    "word": "Since (prep / conj)",
+    "meaning": "kể từ khi / vì",
+    "hint": "Từ chỉ thời gian/nguyên nhân"
+  },
+  {
+    "id": 90,
+    "topic": "TOEIC Reading Part 5 (Q116)",
+    "word": "Mr. Hicks reserved seating near the stage in the concert hall",
+    "meaning": "Ông Hicks đã đặt trước chỗ ngồi gần sân khấu trong phòng hòa nhạc",
+    "hint": "Giữ chỗ đẹp cho khách VIP"
+  },
+  {
+    "id": 91,
+    "topic": "TOEIC Reading Part 5 (Q116)",
+    "word": "for important clients",
+    "meaning": "cho các khách hàng quan trọng",
+    "hint": "Đãi ngộ khách hàng đối tác"
+  },
+  {
+    "id": 92,
+    "topic": "TOEIC Reading Part 5 (Q116)",
+    "word": "cooperated (v)",
+    "meaning": "đã hợp tác",
+    "hint": "Động từ làm việc cùng nhau"
+  },
+  {
+    "id": 93,
+    "topic": "TOEIC Reading Part 5 (Q116)",
+    "word": "entertained (v)",
+    "meaning": "đã giải trí / tiếp đón",
+    "hint": "Động từ chiêu đãi"
+  },
+  {
+    "id": 94,
+    "topic": "TOEIC Reading Part 5 (Q116)",
+    "word": "loosened (v)",
+    "meaning": "đã nới lỏng",
+    "hint": "Động từ làm bớt chặt"
+  },
+  {
+    "id": 95,
+    "topic": "TOEIC Reading Part 5 (Q116)",
+    "word": "reserved (v / adj)",
+    "meaning": "đã đặt trước",
+    "hint": "Động từ chỉ việc đăng ký giữ chỗ trước"
+  },
+  {
+    "id": 96,
+    "topic": "TOEIC Reading Part 5 (Q117)",
+    "word": "Fritz Center, the venue that hosts the film industry's awards banquet",
+    "meaning": "Trung tâm Fritz, địa điểm mà tổ chức tiệc trao giải của ngành điện ảnh",
+    "hint": "Đại từ quan hệ 'that' thay thế cho 'the venue' làm chủ ngữ"
+  },
+  {
+    "id": 97,
+    "topic": "TOEIC Reading Part 5 (Q117)",
+    "word": "is undergoing an ambitious expansion project",
+    "meaning": "đang trải qua một dự án mở rộng đầy tham vọng",
+    "hint": "Dự án nâng cấp quy mô lớn"
+  },
+  {
+    "id": 98,
+    "topic": "TOEIC Reading Part 5 (Q117)",
+    "word": "that (pron)",
+    "meaning": "cái mà (đại từ quan hệ chỉ vật)",
+    "hint": "Đại từ quan hệ làm chủ ngữ cho động từ hosts"
+  },
+  {
+    "id": 99,
+    "topic": "TOEIC Reading Part 5 (Q117)",
+    "word": "where (adv / pron)",
+    "meaning": "nơi mà (cần mệnh đề đầy đủ S-V phía sau)",
+    "hint": "Từ quan hệ chỉ nơi chốn"
+  },
+  {
+    "id": 100,
+    "topic": "TOEIC Reading Part 5 (Q117)",
+    "word": "what (pron)",
+    "meaning": "cái gì",
+    "hint": "Đại từ nghi vấn"
+  },
+  {
+    "id": 101,
+    "topic": "TOEIC Reading Part 5 (Q117)",
+    "word": "even (adv)",
+    "meaning": "thậm chí",
+    "hint": "Trạng từ nhấn mạnh"
+  },
+  {
+    "id": 102,
+    "topic": "TOEIC Reading Part 5 (Q118)",
+    "word": "monthly staff dinners give employees from different departments",
+    "meaning": "các bữa ăn tối hàng tháng của nhân viên mang lại cho nhân viên từ các phòng ban khác nhau",
+    "hint": "Hoạt động gắn kết nội bộ"
+  },
+  {
+    "id": 103,
+    "topic": "TOEIC Reading Part 5 (Q118)",
+    "word": "the chance to interact with each other on a personal level",
+    "meaning": "cơ hội để tương tác với nhau ở góc độ cá nhân",
+    "hint": "Cụm cố định 'interact with each other'"
+  },
+  {
+    "id": 104,
+    "topic": "TOEIC Reading Part 5 (Q118)",
+    "word": "other (adj / pron)",
+    "meaning": "khác",
+    "hint": "Từ chỉ đối tượng khác"
+  },
+  {
+    "id": 105,
+    "topic": "TOEIC Reading Part 5 (Q118)",
+    "word": "neither (det / pron)",
+    "meaning": "không ai trong hai",
+    "hint": "Từ phủ định"
+  },
+  {
+    "id": 106,
+    "topic": "TOEIC Reading Part 5 (Q118)",
+    "word": "every (det)",
+    "meaning": "mỗi",
+    "hint": "Từ xác định"
+  },
+  {
+    "id": 107,
+    "topic": "TOEIC Reading Part 5 (Q118)",
+    "word": "each other (pron)",
+    "meaning": "lẫn nhau (interact with each other)",
+    "hint": "Đại từ tương hỗ đi với interact with"
+  },
+  {
+    "id": 108,
+    "topic": "TOEIC Reading Part 5 (Q119)",
+    "word": "Landlords are required to comply with the regulations",
+    "meaning": "Các chủ nhà được yêu cầu phải tuân thủ các quy định",
+    "hint": "Động từ 'comply' đi với giới từ 'with' (comply with)"
+  },
+  {
+    "id": 109,
+    "topic": "TOEIC Reading Part 5 (Q119)",
+    "word": "set by the Regional Department of Safe Housing",
+    "meaning": "được đề ra bởi Sở Nhà ở An toàn Khu vực",
+    "hint": "Quy chuẩn an toàn nhà ở"
+  },
+  {
+    "id": 110,
+    "topic": "TOEIC Reading Part 5 (Q119)",
+    "word": "reinforce (v)",
+    "meaning": "củng cố / gia cố",
+    "hint": "Động từ làm cho chắc chắn hơn"
+  },
+  {
+    "id": 111,
+    "topic": "TOEIC Reading Part 5 (Q119)",
+    "word": "comply (v)",
+    "meaning": "tuân thủ (comply with)",
+    "hint": "Động từ đi với giới từ with"
+  },
+  {
+    "id": 112,
+    "topic": "TOEIC Reading Part 5 (Q119)",
+    "word": "fulfill (v)",
+    "meaning": "hoàn thành / đáp ứng (đi với tân ngữ trực tiếp)",
+    "hint": "Động từ hoàn thành yêu cầu"
+  },
+  {
+    "id": 113,
+    "topic": "TOEIC Reading Part 5 (Q119)",
+    "word": "interfere (v)",
+    "meaning": "can thiệp (interfere with)",
+    "hint": "Động từ can thiệp vào"
+  },
+  {
+    "id": 114,
+    "topic": "TOEIC Reading Part 5 (Q120)",
+    "word": "sturdy support beam was added to the first story of the building",
+    "meaning": "một dầm chống đỡ chắc chắn đã được thêm vào tầng một của tòa nhà",
+    "hint": "Gia cố kết cấu công trình"
+  },
+  {
+    "id": 115,
+    "topic": "TOEIC Reading Part 5 (Q120)",
+    "word": "for structural reasons",
+    "meaning": "vì các lý do về mặt kết cấu",
+    "hint": "Tính từ 'structural' bổ nghĩa cho danh từ 'reasons'"
+  },
+  {
+    "id": 116,
+    "topic": "TOEIC Reading Part 5 (Q120)",
+    "word": "structures (n)",
+    "meaning": "các kết cấu / công trình",
+    "hint": "Danh từ số nhiều"
+  },
+  {
+    "id": 117,
+    "topic": "TOEIC Reading Part 5 (Q120)",
+    "word": "structurally (adv)",
+    "meaning": "về mặt kết cấu",
+    "hint": "Trạng từ"
+  },
+  {
+    "id": 118,
+    "topic": "TOEIC Reading Part 5 (Q120)",
+    "word": "structure (n / v)",
+    "meaning": "kết cấu / cấu trúc",
+    "hint": "Danh từ số ít"
+  },
+  {
+    "id": 119,
+    "topic": "TOEIC Reading Part 5 (Q120)",
+    "word": "structural (adj)",
+    "meaning": "thuộc về kết cấu",
+    "hint": "Tính từ đứng trước danh từ reasons"
+  },
+  {
+    "id": 120,
+    "topic": "TOEIC Reading Part 5 (Q121)",
+    "word": "Eco Unite is a non-profit organization dedicated to educating the public",
+    "meaning": "Eco Unite là một tổ chức phi lợi nhuận tận tụy với việc giáo dục công chúng",
+    "hint": "Tính từ/phân từ II 'dedicated' đi với 'to V-ing'"
+  },
+  {
+    "id": 121,
+    "topic": "TOEIC Reading Part 5 (Q121)",
+    "word": "about the environment issues",
+    "meaning": "về các vấn đề môi trường",
+    "hint": "Nâng cao nhận thức bảo vệ môi trường"
+  },
+  {
+    "id": 122,
+    "topic": "TOEIC Reading Part 5 (Q121)",
+    "word": "proposed (adj / v)",
+    "meaning": "được đề xuất",
+    "hint": "Phân từ II"
+  },
+  {
+    "id": 123,
+    "topic": "TOEIC Reading Part 5 (Q121)",
+    "word": "deferred (adj / v)",
+    "meaning": "được hoãn lại",
+    "hint": "Phân từ II chỉ việc trì hoãn"
+  },
+  {
+    "id": 124,
+    "topic": "TOEIC Reading Part 5 (Q121)",
+    "word": "dedicated (adj / v)",
+    "meaning": "tận tụy / cống hiến (dedicated to)",
+    "hint": "Tính từ chỉ sự tâm huyết đi với giới từ to"
+  },
+  {
+    "id": 125,
+    "topic": "TOEIC Reading Part 5 (Q121)",
+    "word": "observed (adj / v)",
+    "meaning": "được quan sát",
+    "hint": "Phân từ II"
+  },
+  {
+    "id": 126,
+    "topic": "TOEIC Reading Part 5 (Q122)",
+    "word": "It is essential that the logo for Prime Vitamins be integrated",
+    "meaning": "Việc logo của Prime Vitamins được tích hợp là rất cần thiết",
+    "hint": "Yêu cầu chèn logo thương hiệu"
+  },
+  {
+    "id": 127,
+    "topic": "TOEIC Reading Part 5 (Q122)",
+    "word": "into all of its catalogs and mailings",
+    "meaning": "vào tất cả các danh mục và thư từ của nó",
+    "hint": "Cụm cố định 'integrate into'"
+  },
+  {
+    "id": 128,
+    "topic": "TOEIC Reading Part 5 (Q122)",
+    "word": "into (prep)",
+    "meaning": "vào trong (integrate into)",
+    "hint": "Giới từ đi với động từ integrate"
+  },
+  {
+    "id": 129,
+    "topic": "TOEIC Reading Part 5 (Q122)",
+    "word": "of (prep)",
+    "meaning": "của",
+    "hint": "Giới từ chỉ sở hữu"
+  },
+  {
+    "id": 130,
+    "topic": "TOEIC Reading Part 5 (Q122)",
+    "word": "as (prep / conj)",
+    "meaning": "như là / vì",
+    "hint": "Giới từ hoặc liên từ"
+  },
+  {
+    "id": 131,
+    "topic": "TOEIC Reading Part 5 (Q122)",
+    "word": "than (prep / conj)",
+    "meaning": "hơn",
+    "hint": "Từ dùng trong so sánh"
+  },
+  {
+    "id": 132,
+    "topic": "TOEIC Reading Part 5 (Q123)",
+    "word": "Despite receiving rejections from several major publishers",
+    "meaning": "Mặc dù nhận được lời từ chối từ một số nhà xuất bản lớn",
+    "hint": "Vượt qua sự từ chối ban đầu"
+  },
+  {
+    "id": 133,
+    "topic": "TOEIC Reading Part 5 (Q123)",
+    "word": "Lan Wright went on to become a world-famous novelist",
+    "meaning": "Lan Wright đã tiếp tục trở thành một tiểu thuyết gia nổi tiếng thế giới",
+    "hint": "Phrasal verb 'went on' nghĩa là tiếp tục tiến lên"
+  },
+  {
+    "id": 134,
+    "topic": "TOEIC Reading Part 5 (Q123)",
+    "word": "gave up (v)",
+    "meaning": "đã từ bỏ",
+    "hint": "Phrasal verb bỏ cuộc"
+  },
+  {
+    "id": 135,
+    "topic": "TOEIC Reading Part 5 (Q123)",
+    "word": "figured out (v)",
+    "meaning": "đã tìm ra / hiểu ra",
+    "hint": "Phrasal verb giải quyết vấn đề"
+  },
+  {
+    "id": 136,
+    "topic": "TOEIC Reading Part 5 (Q123)",
+    "word": "brought down (v)",
+    "meaning": "đã hạ bệ / làm sụt giảm",
+    "hint": "Phrasal verb làm hạ xuống"
+  },
+  {
+    "id": 137,
+    "topic": "TOEIC Reading Part 5 (Q123)",
+    "word": "went on (v)",
+    "meaning": "đã tiếp tục (went on to do something)",
+    "hint": "Phrasal verb chỉ sự tiếp tục thực hiện"
+  },
+  {
+    "id": 138,
+    "topic": "TOEIC Reading Part 5 (Q124)",
+    "word": "Mr. Burrows was praised for creating informative user manuals",
+    "meaning": "Ông Burrows đã được khen ngợi vì tạo ra các sách hướng dẫn sử dụng giàu thông tin",
+    "hint": "Tính từ 'informative' bổ nghĩa cho 'user manuals'"
+  },
+  {
+    "id": 139,
+    "topic": "TOEIC Reading Part 5 (Q124)",
+    "word": "which can be easily understood",
+    "meaning": "những cái có thể dễ dàng hiểu được",
+    "hint": "Tài liệu dễ tiếp thu"
+  },
+  {
+    "id": 140,
+    "topic": "TOEIC Reading Part 5 (Q124)",
+    "word": "inform (v)",
+    "meaning": "thông báo",
+    "hint": "Động từ nguyên mẫu"
+  },
+  {
+    "id": 141,
+    "topic": "TOEIC Reading Part 5 (Q124)",
+    "word": "informant (n)",
+    "meaning": "người cung cấp thông tin",
+    "hint": "Danh từ chỉ người"
+  },
+  {
+    "id": 142,
+    "topic": "TOEIC Reading Part 5 (Q124)",
+    "word": "informs (v)",
+    "meaning": "thông báo (ngôi 3 số ít)",
+    "hint": "Động từ chia hiện tại"
+  },
+  {
+    "id": 143,
+    "topic": "TOEIC Reading Part 5 (Q124)",
+    "word": "informative (adj)",
+    "meaning": "cung cấp nhiều thông tin / bổ ích",
+    "hint": "Tính từ đứng trước cụm danh từ user manuals"
+  },
+  {
+    "id": 144,
+    "topic": "TOEIC Reading Part 5 (Q125)",
+    "word": "Even though Ms. Garcia had a small account at the financial institution",
+    "meaning": "Mặc dù cô Garcia có một tài khoản nhỏ tại tổ chức tài chính",
+    "hint": "Tài khoản tiền gửi khiêm tốn"
+  },
+  {
+    "id": 145,
+    "topic": "TOEIC Reading Part 5 (Q125)",
+    "word": "the employee treated her as if she were a major investor",
+    "meaning": "nhân viên đã đối xử với cô ấy như thể cô ấy là một nhà đầu tư lớn",
+    "hint": "Liên từ giả định 'as if' đi với mệnh đề"
+  },
+  {
+    "id": 146,
+    "topic": "TOEIC Reading Part 5 (Q125)",
+    "word": "rather than (prep / conj)",
+    "meaning": "thay vì",
+    "hint": "Từ chỉ sự lựa chọn"
+  },
+  {
+    "id": 147,
+    "topic": "TOEIC Reading Part 5 (Q125)",
+    "word": "in spite of (prep)",
+    "meaning": "mặc dù (đi với danh từ/V-ing)",
+    "hint": "Giới từ nhượng bộ đi với danh từ"
+  },
+  {
+    "id": 148,
+    "topic": "TOEIC Reading Part 5 (Q125)",
+    "word": "as if (conj)",
+    "meaning": "như thể là (đi với mệnh đề giả định)",
+    "hint": "Liên từ giả định đứng trước she were..."
+  },
+  {
+    "id": 149,
+    "topic": "TOEIC Reading Part 5 (Q125)",
+    "word": "provided that (conj)",
+    "meaning": "miễn là",
+    "hint": "Liên từ điều kiện"
+  },
+  {
+    "id": 150,
+    "topic": "TOEIC Reading Part 5 (Q126)",
+    "word": "When you return an item by e-mail",
+    "meaning": "Khi bạn trả lại một mặt hàng qua thư điện tử",
+    "hint": "Quy trình đổi trả hàng"
+  },
+  {
+    "id": 151,
+    "topic": "TOEIC Reading Part 5 (Q126)",
+    "word": "be sure the receipt is attached to the request form to expedite processing",
+    "meaning": "hãy đảm bảo biên lai được đính kèm vào mẫu yêu cầu để đẩy nhanh việc xử lý",
+    "hint": "Tính từ/phân từ II 'attached' đi với 'to'"
+  },
+  {
+    "id": 152,
+    "topic": "TOEIC Reading Part 5 (Q126)",
+    "word": "attachment (n)",
+    "meaning": "tệp đính kèm / sự gắn kết",
+    "hint": "Danh từ"
+  },
+  {
+    "id": 153,
+    "topic": "TOEIC Reading Part 5 (Q126)",
+    "word": "attached (adj / v)",
+    "meaning": "được đính kèm",
+    "hint": "Phân từ II đứng sau động từ tobe 'is'"
+  },
+  {
+    "id": 154,
+    "topic": "TOEIC Reading Part 5 (Q126)",
+    "word": "attaching (v / n)",
+    "meaning": "việc đính kèm",
+    "hint": "Danh động từ"
+  },
+  {
+    "id": 155,
+    "topic": "TOEIC Reading Part 5 (Q126)",
+    "word": "attach (v)",
+    "meaning": "đính kèm",
+    "hint": "Động từ nguyên mẫu"
+  },
+  {
+    "id": 156,
+    "topic": "TOEIC Reading Part 5 (Q127)",
+    "word": "witness saw only a solitary figure standing near the lamp post",
+    "meaning": "nhân chứng chỉ nhìn thấy một bóng người đơn độc đứng gần cột đèn",
+    "hint": "Tính từ 'solitary' bổ nghĩa cho danh từ 'figure'"
+  },
+  {
+    "id": 157,
+    "topic": "TOEIC Reading Part 5 (Q127)",
+    "word": "shortly before the crime was committed",
+    "meaning": "ngay trước khi tội ác xảy ra",
+    "hint": "Quan sát trước hiện trường vụ án"
+  },
+  {
+    "id": 158,
+    "topic": "TOEIC Reading Part 5 (Q127)",
+    "word": "solitary (adj)",
+    "meaning": "đơn độc / lẻ loi",
+    "hint": "Tính từ đứng trước danh từ figure"
+  },
+  {
+    "id": 159,
+    "topic": "TOEIC Reading Part 5 (Q127)",
+    "word": "spare (adj / v)",
+    "meaning": "dự phòng / thừa",
+    "hint": "Tính từ chỉ đồ dư ra"
+  },
+  {
+    "id": 160,
+    "topic": "TOEIC Reading Part 5 (Q127)",
+    "word": "previous (adj)",
+    "meaning": "trước đó",
+    "hint": "Tính từ thời gian"
+  },
+  {
+    "id": 161,
+    "topic": "TOEIC Reading Part 5 (Q127)",
+    "word": "random (adj)",
+    "meaning": "ngẫu nhiên",
+    "hint": "Tính từ miêu tả sự không theo quy luật"
+  },
+  {
+    "id": 162,
+    "topic": "TOEIC Reading Part 5 (Q128)",
+    "word": "Ben Sanders innovatively designed the suitcase",
+    "meaning": "Ben Sanders đã thiết kế chiếc vali một cách đầy sáng tạo",
+    "hint": "Trạng từ 'innovatively' bổ nghĩa cho động từ 'designed'"
+  },
+  {
+    "id": 163,
+    "topic": "TOEIC Reading Part 5 (Q128)",
+    "word": "to fold up easily for compact storage",
+    "meaning": "để gấp gọn dễ dàng cho việc cất giữ nhỏ gọn",
+    "hint": "Cải tiến thiết kế sản phẩm"
+  },
+  {
+    "id": 164,
+    "topic": "TOEIC Reading Part 5 (Q128)",
+    "word": "innovatively (adv)",
+    "meaning": "một cách sáng tạo / đổi mới",
+    "hint": "Trạng từ đứng trước động từ designed"
+  },
+  {
+    "id": 165,
+    "topic": "TOEIC Reading Part 5 (Q128)",
+    "word": "innovate (v)",
+    "meaning": "đổi mới / sáng tạo",
+    "hint": "Động từ nguyên mẫu"
+  },
+  {
+    "id": 166,
+    "topic": "TOEIC Reading Part 5 (Q128)",
+    "word": "innovative (adj)",
+    "meaning": "mang tính sáng tạo",
+    "hint": "Tính từ"
+  },
+  {
+    "id": 167,
+    "topic": "TOEIC Reading Part 5 (Q128)",
+    "word": "innovation (n)",
+    "meaning": "sự đổi mới / sáng kiến",
+    "hint": "Danh từ"
+  },
+  {
+    "id": 168,
+    "topic": "TOEIC Reading Part 5 (Q129)",
+    "word": "Because the weather was warmer than usual this summer",
+    "meaning": "Bởi vì thời tiết mùa hè này ấm hơn bình thường",
+    "hint": "Điều kiện thời tiết thuận lợi"
+  },
+  {
+    "id": 169,
+    "topic": "TOEIC Reading Part 5 (Q129)",
+    "word": "the crops will be harvested a few weeks early",
+    "meaning": "nông sản sẽ được thu hoạch sớm hơn một vài tuần",
+    "hint": "Dạng bị động thì tương lai 'will be harvested'"
+  },
+  {
+    "id": 170,
+    "topic": "TOEIC Reading Part 5 (Q129)",
+    "word": "have been harvesting (v)",
+    "meaning": "đã và đang thu hoạch",
+    "hint": "Dạng chủ động hiện tại hoàn thành tiếp diễn"
+  },
+  {
+    "id": 171,
+    "topic": "TOEIC Reading Part 5 (Q129)",
+    "word": "will have harvested (v)",
+    "meaning": "sẽ thu hoạch xong",
+    "hint": "Dạng chủ động tương lai hoàn thành"
+  },
+  {
+    "id": 172,
+    "topic": "TOEIC Reading Part 5 (Q129)",
+    "word": "are harvesting (v)",
+    "meaning": "đang thu hoạch",
+    "hint": "Dạng chủ động hiện tại tiếp diễn"
+  },
+  {
+    "id": 173,
+    "topic": "TOEIC Reading Part 5 (Q129)",
+    "word": "will be harvested (v)",
+    "meaning": "sẽ được thu hoạch",
+    "hint": "Dạng bị động tương lai đơn bổ nghĩa cho chủ ngữ chỉ vật 'the crops'"
+  },
+  {
+    "id": 174,
+    "topic": "TOEIC Reading Part 5 (Q130)",
+    "word": "Upon auditing the financial records of Rockford Consulting",
+    "meaning": "Ngay khi kiểm toán các hồ sơ tài chính của Rockford Consulting",
+    "hint": "Cụm 'Upon + V-ing' nghĩa là ngay khi thực hiện hành động"
+  },
+  {
+    "id": 175,
+    "topic": "TOEIC Reading Part 5 (Q130)",
+    "word": "the accountant will submit an official report",
+    "meaning": "nhân viên kế toán sẽ nộp một bản báo cáo chính thức",
+    "hint": "Nộp báo cáo sau khi hoàn tất rà soát"
+  },
+  {
+    "id": 176,
+    "topic": "TOEIC Reading Part 5 (Q130)",
+    "word": "In addition (adv phrase)",
+    "meaning": "ngoài ra / thêm vào đó",
+    "hint": "Trạng từ bổ sung thông tin"
+  },
+  {
+    "id": 177,
+    "topic": "TOEIC Reading Part 5 (Q130)",
+    "word": "Given (prep)",
+    "meaning": "căn cứ vào / dựa trên",
+    "hint": "Giới từ xét đến yếu tố"
+  },
+  {
+    "id": 178,
+    "topic": "TOEIC Reading Part 5 (Q130)",
+    "word": "For example (adv phrase)",
+    "meaning": "ví dụ như",
+    "hint": "Trạng từ chỉ ví dụ minh họa"
+  },
+  {
+    "id": 179,
+    "topic": "TOEIC Reading Part 5 (Q130)",
+    "word": "Upon (prep)",
+    "meaning": "ngay khi / sau khi (Upon + V-ing)",
+    "hint": "Giới từ đứng trước V-ing auditing chỉ mốc thời gian diễn ra ngay sau đó"
+  }
+]

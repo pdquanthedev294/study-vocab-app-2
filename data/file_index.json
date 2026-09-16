@@ -1,0 +1,13 @@
+[
+  { "id": "all", "title": "📚 Tất cả các File (Gộp chung)", "file": "all" },
+  { "id": "file_07_Luyen_Nghe", "title": "File 07 - Luyện Nghe - Part 03", "file": "data/Luyen_Nghe/Part_03/file07.json" },
+  { "id": "file_08_Luyen_Nghe", "title": "File 08 - Luyện Nghe - Part 03", "file": "data/Luyen_Nghe/Part_03/file08.json" },
+  { "id": "file_09_Luyen_Nghe", "title": "File 09 - Luyện Nghe - Part 03", "file": "data/Luyen_Nghe/Part_03/file09.json" },
+  { "id": "file_10_Luyen_Nghe", "title": "File 10 - Luyện Nghe - Part 03", "file": "data/Luyen_Nghe/Part_03/file10.json" },
+  { "id": "file_11_Luyen_Nghe", "title": "File 11 - Luyện Nghe - Part 03", "file": "data/Luyen_Nghe/Part_03/file11.json" },
+  { "id": "file_12_Luyen_Nghe", "title": "File 12 - Luyện Nghe - Part 03", "file": "data/Luyen_Nghe/Part_03/file12.json" },
+  { "id": "file_50_Luyen_Doc", "title": "File 50 - Luyện Đọc", "file": "data/Luyen_Doc/Part_05/file50.json" },
+  { "id": "file_01_Tu_Vung_Doc", "title": "File 01 - Từ Vựng Đọc", "file": "data/Tu_Vung_Doc/file01.json" }
+]
+
+

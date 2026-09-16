@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "topic": "File 12",
+    "word": "insert a card",
+    "meaning": "chèn/chèn thẻ vào máy",
+    "hint": "Đút thẻ ngân hàng hoặc thẻ từ vào khe",
+    "image": "https://live.staticflickr.com/7156/6417062389_e0977e58d2.jpg"
+  },
+  {
+    "id": 2,
+    "topic": "File 12",
+    "word": "arrange a meeting",
+    "meaning": "sắp xếp một cuộc họp",
+    "hint": "Lên lịch và chuẩn bị cho buổi họp",
+    "image": "https://live.staticflickr.com/96/423230060_c5c8e25ae7_b.jpg"
+  },
+  {
+    "id": 3,
+    "topic": "File 12",
+    "word": "discard old files",
+    "meaning": "vứt bỏ/loại bỏ tài liệu cũ",
+    "hint": "Bỏ đi những hồ sơ không còn sử dụng",
+    "image": "https://live.staticflickr.com/3283/3156240086_8770cfda55_b.jpg"
+  },
+  {
+    "id": 4,
+    "topic": "File 12",
+    "word": "empty the trash bin",
+    "meaning": "đổ/làm trống thùng rác",
+    "hint": "Dọn dẹp rác ra khỏi thùng",
+    "image": "https://live.staticflickr.com/4/9355920_ba6ac30c1e_b.jpg"
+  },
+  {
+    "id": 5,
+    "topic": "File 12",
+    "word": "scatter papers",
+    "meaning": "vứt rải rác giấy tờ",
+    "hint": "Làm giấy tờ văng vãi khắp nơi",
+    "image": "https://live.staticflickr.com/3571/4597920168_296ed14bc9_b.jpg"
+  },
+  {
+    "id": 6,
+    "topic": "File 12",
+    "word": "outdoor canopy",
+    "meaning": "mái che ngoài trời",
+    "hint": "Mái râm che mưa che nắng",
+    "image": "https://loremflickr.com/600/400/outdoor%20%2Ccanopy"
+  },
+  {
+    "id": 7,
+    "topic": "File 12",
+    "word": "display a product",
+    "meaning": "trưng bày sản phẩm",
+    "hint": "Đặt hàng hóa ở nơi dễ thấy",
+    "image": "https://live.staticflickr.com/4066/4249183272_f79726ffa4_b.jpg"
+  },
+  {
+    "id": 8,
+    "topic": "File 12",
+    "word": "approve a budget",
+    "meaning": "phê duyệt ngân sách",
+    "hint": "Chấp thuận khoản tiền chi tiêu",
+    "image": "https://live.staticflickr.com/2877/10320387414_70975c36e5_b.jpg"
+  },
+  {
+    "id": 9,
+    "topic": "File 12",
+    "word": "visit the main branch",
+    "meaning": "ghé thăm chi nhánh chính",
+    "hint": "Đến trụ sở chính của công ty",
+    "image": "https://live.staticflickr.com/2544/3853622011_af1e0366ac_b.jpg"
+  },
+  {
+    "id": 10,
+    "topic": "File 12",
+    "word": "schedule an appointment",
+    "meaning": "lên lịch một cuộc hẹn",
+    "hint": "Đặt giờ hẹn gặp đối tác hoặc bác sĩ",
+    "image": "https://live.staticflickr.com/4659/39642685554_37be2db8a8_b.jpg"
+  },
+  {
+    "id": 11,
+    "topic": "File 12",
+    "word": "stop by the office",
+    "meaning": "ghé ngang qua văn phòng",
+    "hint": "Tạt qua văn phòng một chút",
+    "image": "https://live.staticflickr.com/7288/8741646967_14be9d7d59_b.jpg"
+  },
+  {
+    "id": 12,
+    "topic": "File 12",
+    "word": "make it to the event",
+    "meaning": "đến kịp / tham dự sự kiện",
+    "hint": "Sắp xếp thời gian có mặt đúng giờ",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Liraz_Russo_%28Static%29%2C_Yoseph_Haddad_and_Lior_Suchard_in_Make-A-Wish_Foundation%27s_event.jpg"
+  },
+  {
+    "id": 13,
+    "topic": "File 12",
+    "word": "fill the vacant position",
+    "meaning": "tuyển người lấp vào vị trí trống",
+    "hint": "Tuyển nhân viên mới cho vị trí đang thiếu",
+    "image": "https://loremflickr.com/600/400/fill%20%2Cthe%20%2Cvacant%20%2Cposition"
+  },
+  {
+    "id": 14,
+    "topic": "File 12",
+    "word": "innovative design",
+    "meaning": "thiết kế có tính đổi mới / sáng tạo",
+    "hint": "Thiết kế hiện đại, đầy ý tưởng mới",
+    "image": "https://loremflickr.com/600/400/innovative%20%2Cdesign"
+  },
+  {
+    "id": 15,
+    "topic": "File 12",
+    "word": "special feature",
+    "meaning": "đặc điểm / tính năng đặc biệt",
+    "hint": "Điểm nổi bật của sản phẩm hoặc dịch vụ",
+    "image": "https://live.staticflickr.com/8844/28613846221_a466c22449_b.jpg"
+  },
+  {
+    "id": 16,
+    "topic": "File 12",
+    "word": "revise a proposal",
+    "meaning": "sửa đổi bản đề xuất",
+    "hint": "Chỉnh sửa lại nội dung đề xuất",
+    "image": "https://live.staticflickr.com/3105/2808499535_edda81cfa6_b.jpg"
+  },
+  {
+    "id": 17,
+    "topic": "File 12",
+    "word": "under warranty",
+    "meaning": "trong thời gian bảo hành",
+    "hint": "Sản phẩm vẫn còn hạn bảo hành miễn phí",
+    "image": "https://live.staticflickr.com/7237/7340403488_10798e345d_b.jpg"
+  },
+  {
+    "id": 18,
+    "topic": "File 12",
+    "word": "company property",
+    "meaning": "tài sản của công ty",
+    "hint": "Đồ đạc, thiết bị thuộc sở hữu công ty",
+    "image": "https://live.staticflickr.com/7511/16326754101_c97374e08f_b.jpg"
+  },
+  {
+    "id": 19,
+    "topic": "File 12",
+    "word": "order confirmation",
+    "meaning": "xác nhận đơn hàng",
+    "hint": "Thư hoặc tin nhắn xác nhận đã đặt hàng thành công",
+    "image": "https://live.staticflickr.com/1194/540070703_9e561f06d6.jpg"
+  },
+  {
+    "id": 20,
+    "topic": "File 12",
+    "word": "avoid delays",
+    "meaning": "tránh sự trì hoãn / chậm trễ",
+    "hint": "Hành động để không bị trễ tiến độ",
+    "image": "https://live.staticflickr.com/4139/4941186903_5f1b0252f0_b.jpg"
+  },
+  {
+    "id": 21,
+    "topic": "File 12",
+    "word": "cause an electrical failure",
+    "meaning": "gây ra sự mất điện / sự cố điện",
+    "hint": "Hệ thống điện gặp trục trặc",
+    "image": "https://live.staticflickr.com/3898/14723233060_05c35a9898_b.jpg"
+  },
+  {
+    "id": 22,
+    "topic": "File 12",
+    "word": "occur unexpectedly",
+    "meaning": "xảy ra một cách bất ngờ",
+    "hint": "Sự việc diễn ra không báo trước",
+    "image": "https://live.staticflickr.com/3863/14842859452_130e8c9b1b_b.jpg"
+  },
+  {
+    "id": 23,
+    "topic": "File 12",
+    "word": "currently unavailable",
+    "meaning": "hiện tại không có sẵn / tạm hết",
+    "hint": "Sản phẩm hoặc dịch vụ đang tạm ngừng cung cấp",
+    "image": "https://live.staticflickr.com/2556/3744471332_361265ed16.jpg"
+  },
+  {
+    "id": 24,
+    "topic": "File 12",
+    "word": "incorrect information",
+    "meaning": "thông tin không chính xác",
+    "hint": "Thông tin sai lệch, có sai sót",
+    "image": "https://live.staticflickr.com/7023/6799871307_2f6430ee4a.jpg"
+  },
+  {
+    "id": 25,
+    "topic": "File 12",
+    "word": "absolutely free",
+    "meaning": "hoàn toàn miễn phí",
+    "hint": "Không tốn bất kỳ chi phí nào",
+    "image": "https://live.staticflickr.com/1489/25827093325_5980099f46_b.jpg"
+  },
+  {
+    "id": 26,
+    "topic": "File 12",
+    "word": "acquire a company",
+    "meaning": "thâu tóm / đạt được một công ty",
+    "hint": "Mua lại hoặc sở hữu doanh nghiệp",
+    "image": "https://live.staticflickr.com/5296/5429335563_ebe9be20dc.jpg"
+  },
+  {
+    "id": 27,
+    "topic": "File 12",
+    "word": "significant increase",
+    "meaning": "sự tăng trưởng đáng kể",
+    "hint": "Mức tăng lớn, rõ rệt",
+    "image": "https://live.staticflickr.com/8074/8270262595_5345eb2392_b.jpg"
+  },
+  {
+    "id": 28,
+    "topic": "File 12",
+    "word": "building restoration",
+    "meaning": "sự khôi phục / phục hồi tòa nhà",
+    "hint": "Trùng tu, sửa sang lại công trình",
+    "image": "https://live.staticflickr.com/65535/52456646413_d55d153179_b.jpg"
+  },
+  {
+    "id": 29,
+    "topic": "File 12",
+    "word": "stunning view",
+    "meaning": "khung cảnh tuyệt đẹp",
+    "hint": "Cảnh quan rất ấn tượng và bắt mắt",
+    "image": "https://live.staticflickr.com/4087/5038531149_44f8ffc699_b.jpg"
+  },
+  {
+    "id": 30,
+    "topic": "File 12",
+    "word": "unveil a new product",
+    "meaning": "tiết lộ / ra mắt sản phẩm mới",
+    "hint": "Công bố sản phẩm mới tới công chúng",
+    "image": "https://loremflickr.com/600/400/unveil%20%2Ca%20%2Cnew%20%2Cproduct"
+  },
+  {
+    "id": 31,
+    "topic": "File 12",
+    "word": "celebrate an anniversary",
+    "meaning": "kỷ niệm ngày lễ / ngày thành lập",
+    "hint": "Tổ chức tiệc mừng ngày đặc biệt",
+    "image": "https://live.staticflickr.com/3759/9257668636_9bef104ef4.jpg"
+  },
+  {
+    "id": 32,
+    "topic": "File 12",
+    "word": "informal meeting",
+    "meaning": "cuộc họp không trang trọng / thân mật",
+    "hint": "Thảo luận thoải mái, không cầu kỳ thủ tục",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Informal_meeting_of_ministers_responsible_for_development_%28FAC%29._Arrivals_Alexander_De_Croo_%2836766610160%29_%28cropped2%29.jpg"
+  },
+  {
+    "id": 33,
+    "topic": "File 12",
+    "word": "pharmaceutical company",
+    "meaning": "công ty dược phẩm / thuộc về dược",
+    "hint": "Doanh nghiệp sản xuất và bán thuốc",
+    "image": "https://live.staticflickr.com/3709/11567106013_628aee85b0_b.jpg"
+  },
+  {
+    "id": 34,
+    "topic": "File 12",
+    "word": "leading manufacturer",
+    "meaning": "nhà sản xuất hàng đầu",
+    "hint": "Đơn vị chế tạo sản phẩm uy tín",
+    "image": "https://live.staticflickr.com/2607/4078735356_be16c71a38_b.jpg"
+  },
+  {
+    "id": 35,
+    "topic": "File 12",
+    "word": "mandatory training",
+    "meaning": "buổi đào tạo bắt buộc",
+    "hint": "Khóa học nhân viên nhất định phải tham gia",
+    "image": "https://live.staticflickr.com/65535/51555286499_d01ec12659_b.jpg"
+  },
+  {
+    "id": 36,
+    "topic": "File 12",
+    "word": "entire department",
+    "meaning": "toàn bộ phòng ban",
+    "hint": "Tất cả mọi người trong bộ phận",
+    "image": "https://live.staticflickr.com/65535/51688942619_06c0a06f67_b.jpg"
+  },
+  {
+    "id": 37,
+    "topic": "File 12",
+    "word": "secure funding",
+    "meaning": "đảm bảo nguồn tiền tài trợ",
+    "hint": "Xin hoặc huy động được vốn đầu tư",
+    "image": "https://live.staticflickr.com/65535/51769647959_7e3e64974e_b.jpg"
+  },
+  {
+    "id": 38,
+    "topic": "File 12",
+    "word": "extend a deadline",
+    "meaning": "gia hạn thời hạn",
+    "hint": "Kéo dài thêm thời gian hoàn thành",
+    "image": "https://live.staticflickr.com/4303/35728622772_0b3c00fc0a_b.jpg"
+  },
+  {
+    "id": 39,
+    "topic": "File 12",
+    "word": "financial assistance",
+    "meaning": "sự hỗ trợ tài chính",
+    "hint": "Giúp đỡ về tiền bạc",
+    "image": "https://live.staticflickr.com/65535/52182741829_c17c3653da_b.jpg"
+  },
+  {
+    "id": 40,
+    "topic": "File 12",
+    "word": "apply for a job",
+    "meaning": "nộp đơn ứng tuyển công việc",
+    "hint": "Gửi hồ sơ xin việc vào vị trí mới",
+    "image": "https://live.staticflickr.com/4014/4635962625_a310283dd7.jpg"
+  },
+  {
+    "id": 41,
+    "topic": "File 12",
+    "word": "receive a government grant",
+    "meaning": "nhận khoản trợ cấp từ chính phủ",
+    "hint": "Tiền hỗ trợ từ cơ bản hoặc tổ chức",
+    "image": "https://live.staticflickr.com/3509/4079624152_e32239c7a1_b.jpg"
+  },
+  {
+    "id": 42,
+    "topic": "File 12",
+    "word": "market segment",
+    "meaning": "phân khúc thị trường",
+    "hint": "Nhóm khách hàng mục tiêu cụ thể",
+    "image": "https://live.staticflickr.com/134/327009647_c1baec0fc2_b.jpg"
+  },
+  {
+    "id": 43,
+    "topic": "File 12",
+    "word": "state-of-the-art facility",
+    "meaning": "cơ sở vật chất hiện đại nhất",
+    "hint": "Trang thiết bị vô cùng tân tiến",
+    "image": "https://live.staticflickr.com/5018/5546862804_3d28f45ecf_b.jpg"
+  },
+  {
+    "id": 44,
+    "topic": "File 12",
+    "word": "professional athlete",
+    "meaning": "vận động viên chuyên nghiệp",
+    "hint": "Người thi đấu thể thao kiếm sống",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Presenters_Brad_Sellers%2C_NBA_and_Carlos_Baerga%2C_Cleveland_Indians_with_Professional_Athlete_of_the_Year%2C_Asdrubal_Cabrera%2C_Cleveland_Indians_%286842241839%29_%28cropped%29.jpg"
+  },
+  {
+    "id": 45,
+    "topic": "File 12",
+    "word": "compete for market share",
+    "meaning": "cạnh tranh thị phần",
+    "hint": "Đối đầu để giành khách hàng",
+    "image": "https://live.staticflickr.com/4108/5054064083_712691ef17_b.jpg"
+  },
+  {
+    "id": 46,
+    "topic": "File 12",
+    "word": "delighted with the results",
+    "meaning": "rất hài lòng / vui vẻ với kết quả",
+    "hint": "Cảm giác vui mừng khi mọi việc tốt đẹp",
+    "image": "https://live.staticflickr.com/7577/15653004525_3a55a1fd83_b.jpg"
+  },
+  {
+    "id": 47,
+    "topic": "File 12",
+    "word": "research institute",
+    "meaning": "viện / cơ sở nghiên cứu",
+    "hint": "Tổ chức chuyên làm về nghiên cứu khoa học",
+    "image": "https://live.staticflickr.com/3884/14633238509_64ac14da5c.jpg"
+  },
+  {
+    "id": 48,
+    "topic": "File 12",
+    "word": "launch an initiative",
+    "meaning": "khởi xướng một sáng kiến / kế hoạch mới",
+    "hint": "Bắt đầu triển khai ý tưởng mới",
+    "image": "https://live.staticflickr.com/4352/37063231000_c14c38a7bf_b.jpg"
+  },
+  {
+    "id": 49,
+    "topic": "File 12",
+    "word": "preserve historic sites",
+    "meaning": "gìn giữ / bảo vệ di tích lịch sử",
+    "hint": "Bảo tồn các công trình lâu đời",
+    "image": "https://live.staticflickr.com/65535/51677522764_e65d077440_b.jpg"
+  },
+  {
+    "id": 50,
+    "topic": "File 12",
+    "word": "allocate resources",
+    "meaning": "phân bổ nguồn lực / ngân sách",
+    "hint": "Chia nhỏ nguồn vốn, nhân sự cho các dự án",
+    "image": "https://live.staticflickr.com/8737/28319162830_9381279a20_b.jpg"
+  },
+  {
+    "id": 51,
+    "topic": "File 12",
+    "word": "preliminary results",
+    "meaning": "kết quả sơ bộ",
+    "hint": "Kết quả ban đầu chưa chính thức",
+    "image": "https://live.staticflickr.com/7092/7328566844_25b1ef8898_b.jpg"
+  },
+  {
+    "id": 52,
+    "topic": "File 12",
+    "word": "key findings",
+    "meaning": "các phát hiện / thông tin quan trọng tìm được",
+    "hint": "Kết quả rút ra sau cuộc điều tra, khảo sát",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Key_Findings_icon.svg"
+  },
+  {
+    "id": 53,
+    "topic": "File 12",
+    "word": "sales forecasting",
+    "meaning": "công việc dự báo doanh số",
+    "hint": "Tính toán, ước lượng doanh thu tương lai",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Itanium_Sales_Forecasts_edit.png"
+  },
+  {
+    "id": 54,
+    "topic": "File 12",
+    "word": "customize an order",
+    "meaning": "tùy chỉnh đơn hàng",
+    "hint": "Thay đổi thiết kế theo ý khách hàng",
+    "image": "https://live.staticflickr.com/4294/35136021124_517df8cc5f_b.jpg"
+  },
+  {
+    "id": 55,
+    "topic": "File 12",
+    "word": "organ transplant",
+    "meaning": "cấy ghép nội tạng",
+    "hint": "Thao tác y khoa chuyển giao bộ phận cơ thể",
+    "image": "https://live.staticflickr.com/3699/13394787333_04089ea915_b.jpg"
+  },
+  {
+    "id": 56,
+    "topic": "File 12",
+    "word": "a wide variety of products",
+    "meaning": "nhiều / đa dạng các sản phẩm",
+    "hint": "Rất nhiều sự lựa chọn phong phú",
+    "image": "https://live.staticflickr.com/4056/4704995291_3c8de4f3d1_b.jpg"
+  },
+  {
+    "id": 57,
+    "topic": "File 12",
+    "word": "local resident",
+    "meaning": "cư dân địa phương",
+    "hint": "Người dân sống ở khu vực đó",
+    "image": "https://live.staticflickr.com/65535/47983071762_626a5b3514_b.jpg"
+  },
+  {
+    "id": 58,
+    "topic": "File 12",
+    "word": "job promotion",
+    "meaning": "sự thăng tiến công việc / quảng bá",
+    "hint": "Được lên chức hoặc hoạt động tiếp thị",
+    "image": "https://live.staticflickr.com/7157/6483204125_b8021d78b4.jpg"
+  },
+  {
+    "id": 59,
+    "topic": "File 12",
+    "word": "fill out a form",
+    "meaning": "điền vào đơn",
+    "hint": "Ghi đầy đủ thông tin vào tờ khai",
+    "image": "https://live.staticflickr.com/2411/2367327672_ff00ffbdab_b.jpg"
+  },
+  {
+    "id": 60,
+    "topic": "File 12",
+    "word": "keep the receipt",
+    "meaning": "giữ lại hóa đơn / biên lai",
+    "hint": "Cất giữ tờ phiếu xác nhận đã trả tiền",
+    "image": "https://live.staticflickr.com/1534/23553520153_a984e7e84c_b.jpg"
+  },
+  {
+    "id": 61,
+    "topic": "File 12",
+    "word": "engage new customers",
+    "meaning": "thu hút / tương tác với khách hàng mới",
+    "hint": "Làm cho khách hàng quan tâm đến mình",
+    "image": "https://live.staticflickr.com/3062/2651367890_5945137d48_b.jpg"
+  },
+  {
+    "id": 62,
+    "topic": "File 12",
+    "word": "reside in the area",
+    "meaning": "cư trú / sinh sống ở khu vực",
+    "hint": "Ở cố định tại một nơi",
+    "image": "https://live.staticflickr.com/5548/31357427501_510bd2ed96_b.jpg"
+  },
+  {
+    "id": 63,
+    "topic": "File 12",
+    "word": "economic stimulation",
+    "meaning": "sự kích thích kinh tế",
+    "hint": "Tạo đà thúc đẩy kinh tế phát triển",
+    "image": "https://live.staticflickr.com/4072/4543346318_dc69fd727d_b.jpg"
+  },
+  {
+    "id": 64,
+    "topic": "File 12",
+    "word": "sales representative",
+    "meaning": "người đại diện kinh doanh",
+    "hint": "Nhân viên đại diện bán hàng cho công ty",
+    "image": "https://live.staticflickr.com/4284/34590993394_b72962ab84_b.jpg"
+  },
+  {
+    "id": 65,
+    "topic": "File 12",
+    "word": "ask for permission",
+    "meaning": "xin sự cho phép",
+    "hint": "Hỏi ý kiến cấp trên trước khi làm",
+    "image": "https://live.staticflickr.com/5285/5243121852_445fb7f652.jpg"
+  },
+  {
+    "id": 66,
+    "topic": "File 12",
+    "word": "certified professional",
+    "meaning": "chuyên gia được chứng nhận",
+    "hint": "Người có chứng chỉ hành nghề chuẩn",
+    "image": "https://live.staticflickr.com/7182/6988078255_aa6f3d4654_b.jpg"
+  },
+  {
+    "id": 67,
+    "topic": "File 12",
+    "word": "determine the cause",
+    "meaning": "xác định nguyên nhân",
+    "hint": "Tìm ra lý do dẫn đến sự việc",
+    "image": "https://live.staticflickr.com/2871/9325026507_6918f15e14_b.jpg"
+  },
+  {
+    "id": 68,
+    "topic": "File 12",
+    "word": "upcoming event",
+    "meaning": "sự kiện sắp tới",
+    "hint": "Chương trình chuẩn bị diễn ra",
+    "image": "https://live.staticflickr.com/6022/5919574409_e0d4ae2ff2.jpg"
+  },
+  {
+    "id": 69,
+    "topic": "File 12",
+    "word": "dependable service",
+    "meaning": "dịch vụ đáng tin cậy / có thể dựa vào",
+    "hint": "Dịch vụ chất lượng, ổn định",
+    "image": "https://live.staticflickr.com/7168/6432757509_231bc2a64e_b.jpg"
+  },
+  {
+    "id": 70,
+    "topic": "File 12",
+    "word": "send a friendly reminder",
+    "meaning": "gửi lời nhắc nhở nhẹ nhàng",
+    "hint": "Thông báo nhắc ai đó làm gì",
+    "image": "https://live.staticflickr.com/3055/3035481904_e5bc7f273b_b.jpg"
+  },
+  {
+    "id": 71,
+    "topic": "File 12",
+    "word": "surrounding area",
+    "meaning": "khu vực xung quanh",
+    "hint": "Vùng không gian bao quanh một vị trí",
+    "image": "https://live.staticflickr.com/1789/42611170915_fb4c9c28e3_b.jpg"
+  },
+  {
+    "id": 72,
+    "topic": "File 12",
+    "word": "face strong opposition",
+    "meaning": "gặp phải sự phản đối gay gắt",
+    "hint": "Bị nhiều người không đồng tình",
+    "image": "https://live.staticflickr.com/3674/33589238162_91db2aa7c5_b.jpg"
+  },
+  {
+    "id": 73,
+    "topic": "File 12",
+    "word": "adjust the schedule",
+    "meaning": "điều chỉnh lịch trình",
+    "hint": "Thay đổi lại thời gian cho phù hợp",
+    "image": "https://live.staticflickr.com/65535/51358392274_cf12bafd45_b.jpg"
+  },
+  {
+    "id": 74,
+    "topic": "File 12",
+    "word": "durable material",
+    "meaning": "vật liệu bền bỉ",
+    "hint": "Chất liệu dùng được lâu, khó hỏng",
+    "image": "https://live.staticflickr.com/2097/1935983008_b8877708bc_b.jpg"
+  },
+  {
+    "id": 75,
+    "topic": "File 12",
+    "word": "receive a rave review",
+    "meaning": "nhận được đánh giá khen ngợi nhiệt liệt",
+    "hint": "Được phản hồi rất tích cực từ khách hàng",
+    "image": "https://live.staticflickr.com/7598/16597796347_7a512ae1e0_b.jpg"
+  },
+  {
+    "id": 76,
+    "topic": "File 12",
+    "word": "good nutrition",
+    "meaning": "dinh dưỡng tốt",
+    "hint": "Chế độ ăn uống đầy đủ chất",
+    "image": "https://live.staticflickr.com/8621/16546320430_d864fa088f_b.jpg"
+  },
+  {
+    "id": 77,
+    "topic": "File 12",
+    "word": "justify the cost",
+    "meaning": "biện minh / chứng minh chi phí là hợp lý",
+    "hint": "Giải thích lý do phải tốn số tiền đó",
+    "image": "https://live.staticflickr.com/5237/14470225301_8b4ab9a6b2.jpg"
+  },
+  {
+    "id": 78,
+    "topic": "File 12",
+    "word": "criticise a decision",
+    "meaning": "chỉ trích một quyết định",
+    "hint": "Chê bai hoặc chê trách ý kiến của người khác",
+    "image": "https://live.staticflickr.com/8676/16610422166_a0e0bb9d34_b.jpg"
+  },
+  {
+    "id": 79,
+    "topic": "File 12",
+    "word": "apologise for the inconvenience",
+    "meaning": "xin lỗi vì sự bất tiện",
+    "hint": "Lời xin lỗi xã giao khi làm phiền khách",
+    "image": "https://live.staticflickr.com/4033/4315022564_0064cfd3b5_b.jpg"
+  },
+  {
+    "id": 80,
+    "topic": "File 12",
+    "word": "anticipate changes",
+    "meaning": "dự đoán trước các thay đổi",
+    "hint": "Lường trước những khả năng có thể xảy ra",
+    "image": "https://live.staticflickr.com/45/189544199_7560bc62a2.jpg"
+  }
+]

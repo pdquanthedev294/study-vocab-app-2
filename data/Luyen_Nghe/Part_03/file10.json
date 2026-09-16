@@ -1,0 +1,1298 @@
+[
+  {
+    "id": 1,
+    "topic": "Common Words and Phrases",
+    "word": "attend a conference",
+    "meaning": "tham dự hội nghị",
+    "hint": "Tham gia một cuộc họp lớn hoặc hội thảo chuyên đề",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800"
+  },
+  {
+    "id": 2,
+    "topic": "Common Words and Phrases",
+    "word": "visit the offices",
+    "meaning": "ghé thăm văn phòng",
+    "hint": "Đến trụ sở làm việc của ai đó",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
+  },
+  {
+    "id": 3,
+    "topic": "Common Words and Phrases",
+    "word": "a good opportunity",
+    "meaning": "một cơ hội tốt",
+    "hint": "Thời cơ thuận lợi để làm điều gì đó",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 4,
+    "topic": "Common Words and Phrases",
+    "word": "move up the deadline",
+    "meaning": "đẩy hạn chót lên",
+    "hint": "Thay đổi thời gian hoàn thành sớm hơn dự định",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 5,
+    "topic": "Common Words and Phrases",
+    "word": "a client visit",
+    "meaning": "chuyến ghé thăm của khách hàng",
+    "hint": "Khi đối tác hoặc người mua đến gặp công ty",
+    "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800"
+  },
+  {
+    "id": 6,
+    "topic": "Common Words and Phrases",
+    "word": "a productive meeting",
+    "meaning": "một cuộc họp hiệu quả",
+    "hint": "Buổi thảo luận đạt được nhiều kết quả tốt",
+    "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800"
+  },
+  {
+    "id": 7,
+    "topic": "Common Words and Phrases",
+    "word": "do a terrific job",
+    "meaning": "thực hiện xuất sắc",
+    "hint": "Hoàn thành công việc rất tuyệt vời",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 8,
+    "topic": "Common Words and Phrases",
+    "word": "negotiate a company merger",
+    "meaning": "đàm phán việc sát nhập công ty",
+    "hint": "Thương lượng để hợp nhất hai doanh nghiệp",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800"
+  },
+  {
+    "id": 9,
+    "topic": "Common Words and Phrases",
+    "word": "increase the budget",
+    "meaning": "tăng ngân sách",
+    "hint": "Cấp thêm tiền cho một dự án hoặc bộ phận",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 10,
+    "topic": "Common Words and Phrases",
+    "word": "digital advertising specialist",
+    "meaning": "chuyên gia quảng cáo kỹ thuật số",
+    "hint": "Người giỏi về truyền thông tiếp thị trực tuyến",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800"
+  },
+  {
+    "id": 11,
+    "topic": "Common Words and Phrases",
+    "word": "open position",
+    "meaning": "vị trí còn trống",
+    "hint": "Chỗ làm việc đang tuyển nhân sự mới",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800"
+  },
+  {
+    "id": 12,
+    "topic": "Common Words and Phrases",
+    "word": "vacant position",
+    "meaning": "vị trí còn trống",
+    "hint": "Chức vụ chưa có người đảm nhận",
+    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=800"
+  },
+  {
+    "id": 13,
+    "topic": "Common Words and Phrases",
+    "word": "sales figures",
+    "meaning": "doanh số bán hàng",
+    "hint": "Số liệu thống kê tiền hoặc sản phẩm bán ra",
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800"
+  },
+  {
+    "id": 14,
+    "topic": "Common Words and Phrases",
+    "word": "laboratory technician training",
+    "meaning": "buổi đào tạo kỹ thuật viên trong phòng thí nghiệm",
+    "hint": "Khóa học kĩ năng cho người làm việc phòng lab",
+    "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=800"
+  },
+  {
+    "id": 15,
+    "topic": "Common Words and Phrases",
+    "word": "monitoring the thermostat batteries",
+    "meaning": "giám sát pin điều nhiệt",
+    "hint": "Theo dõi năng lượng của thiết bị kiểm soát nhiệt độ",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 16,
+    "topic": "Common Words and Phrases",
+    "word": "spare batteries",
+    "meaning": "pin dự phòng",
+    "hint": "Pin dùng thay thế khi pin chính hết điện",
+    "image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?w=800"
+  },
+  {
+    "id": 17,
+    "topic": "Common Words and Phrases",
+    "word": "trainee manual",
+    "meaning": "sách hướng dẫn học viên",
+    "hint": "Tài liệu đọc cho người đang trong quá trình thực tập",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800"
+  },
+  {
+    "id": 18,
+    "topic": "Listening Translation (mp3.2)",
+    "word": "e-mail",
+    "meaning": "thư điện tử / email",
+    "hint": "Thư gửi qua mạng internet",
+    "image": "https://images.unsplash.com/photo-1596526131083-e8c633c948d2?w=800"
+  },
+  {
+    "id": 19,
+    "topic": "Listening Translation (mp3.2)",
+    "word": "at the end of the month",
+    "meaning": "vào cuối tháng",
+    "hint": "Thời điểm những ngày cuối trong một tháng",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800"
+  },
+  {
+    "id": 20,
+    "topic": "Listening Translation (mp3.2)",
+    "word": "in the area",
+    "meaning": "ở trong khu vực này",
+    "hint": "Đang có mặt xung quanh địa điểm được nhắc tới",
+    "image": "https://images.unsplash.com/photo-1477959858617-67f30ac4ce78?w=800"
+  },
+  {
+    "id": 21,
+    "topic": "Listening Translation (mp3.2)",
+    "word": "mobile phone app",
+    "meaning": "ứng dụng trên điện thoại di động",
+    "hint": "Phần mềm chạy trên smartphone",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800"
+  },
+  {
+    "id": 22,
+    "topic": "Listening Translation (mp3.2)",
+    "word": "design team",
+    "meaning": "đội thiết kế",
+    "hint": "Nhóm chịu trách nhiệm tạo bản vẽ hoặc giao diện",
+    "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=800"
+  },
+  {
+    "id": 23,
+    "topic": "Listening Translation (mp3.2)",
+    "word": "in time",
+    "meaning": "đúng hạn / kịp giờ",
+    "hint": "Hoàn thành trước hoặc đúng thời gian quy định",
+    "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?w=800"
+  },
+  {
+    "id": 24,
+    "topic": "Listening Translation (mp3.2)",
+    "word": "right away",
+    "meaning": "ngay lập tức",
+    "hint": "Thực hiện hành động không chậm trễ",
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800"
+  },
+  {
+    "id": 25,
+    "topic": "Listening Translation (mp3.2)",
+    "word": "complete the work",
+    "meaning": "hoàn thành công việc",
+    "hint": "Làm xong nhiệm vụ được giao",
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800"
+  },
+  {
+    "id": 26,
+    "topic": "Listening Translation (mp3.5)",
+    "word": "building project",
+    "meaning": "dự án xây dựng",
+    "hint": "Công trình thi công nhà cửa hoặc hạ tầng",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800"
+  },
+  {
+    "id": 27,
+    "topic": "Listening Translation (mp3.5)",
+    "word": "so far",
+    "meaning": "cho đến giờ / cho tới nay",
+    "hint": "Tính từ quá khứ đến thời điểm hiện tại",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 28,
+    "topic": "Listening Translation (mp3.5)",
+    "word": "look forward to",
+    "meaning": "mong muốn / trông chờ",
+    "hint": "Cảm giác háo hức chờ đợi điều gì đó diễn ra",
+    "image": "https://images.unsplash.com/photo-1499209974431-9dac3ada00d7?w=800"
+  },
+  {
+    "id": 29,
+    "topic": "Listening Translation (mp3.5)",
+    "word": "take over",
+    "meaning": "tiếp quản",
+    "hint": "Nhận lại trách nhiệm hoặc công việc từ người khác",
+    "image": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=800"
+  },
+  {
+    "id": 30,
+    "topic": "Listening Translation (mp3.5)",
+    "word": "anything else",
+    "meaning": "điều gì khác",
+    "hint": "Thêm một thứ hay nội dung nào khác nữa",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 31,
+    "topic": "Listening Translation (mp3.5)",
+    "word": "one more thing",
+    "meaning": "còn một việc nữa",
+    "hint": "Chi tiết bổ sung cuối cùng",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800"
+  },
+  {
+    "id": 32,
+    "topic": "Listening Translation (mp3.5)",
+    "word": "in writing",
+    "meaning": "dưới dạng văn bản",
+    "hint": "Được ghi lại bằng chữ viết chứ không nói miệng",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800"
+  },
+  {
+    "id": 33,
+    "topic": "Listening Translation (mp3.5)",
+    "word": "make sure",
+    "meaning": "chắc chắn / đảm bảo",
+    "hint": "Kiểm tra kỹ để không xảy ra sai sót",
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800"
+  },
+  {
+    "id": 34,
+    "topic": "Listening Translation (mp3.5)",
+    "word": "over the phone",
+    "meaning": "qua điện thoại",
+    "hint": "Trao đổi bằng cách gọi điện",
+    "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=800"
+  },
+  {
+    "id": 35,
+    "topic": "Listening Translation (mp3.5)",
+    "word": "in person",
+    "meaning": "trực tiếp",
+    "hint": "Gặp mặt đối mặt ngoài đời thực",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 36,
+    "topic": "Listening Translation (mp3.5)",
+    "word": "work overseas",
+    "meaning": "làm việc ra nước ngoài",
+    "hint": "Công tác ở quốc gia khác",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800"
+  },
+  {
+    "id": 37,
+    "topic": "Listening Translation (mp3.8)",
+    "word": "marketing meeting",
+    "meaning": "cuộc họp tiếp thị",
+    "hint": "Buổi bàn thảo chiến lược quảng cáo sản phẩm",
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800"
+  },
+  {
+    "id": 38,
+    "topic": "Listening Translation (mp3.8)",
+    "word": "ask for help",
+    "meaning": "yêu cầu giúp đỡ",
+    "hint": "Đề nghị người khác hỗ trợ mình",
+    "image": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=800"
+  },
+  {
+    "id": 39,
+    "topic": "Listening Translation (mp3.8)",
+    "word": "department's workload",
+    "meaning": "khối lượng công việc của bộ phận",
+    "hint": "Số lượng công việc mà cả phòng ban phải làm",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 40,
+    "topic": "Listening Translation (mp3.8)",
+    "word": "company director",
+    "meaning": "giám đốc công ty",
+    "hint": "Người quản lý điều hành cao nhất doanh nghiệp",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800"
+  },
+  {
+    "id": 41,
+    "topic": "Listening Translation (mp3.8)",
+    "word": "agree to",
+    "meaning": "đồng ý",
+    "hint": "Chấp thuận đề xuất hoặc ý kiến",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800"
+  },
+  {
+    "id": 42,
+    "topic": "Listening Translation (mp3.8)",
+    "word": "big increase",
+    "meaning": "sự tăng nhiều / tăng lớn",
+    "hint": "Mức tăng trưởng vượt trội về số lượng hay giá trị",
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800"
+  },
+  {
+    "id": 43,
+    "topic": "Listening Translation (mp3.8)",
+    "word": "last year",
+    "meaning": "năm ngoái",
+    "hint": "Năm liền trước năm hiện tại",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800"
+  },
+  {
+    "id": 44,
+    "topic": "Listening Translation (mp3.8)",
+    "word": "department managers",
+    "meaning": "các nhà quản lý bộ phận",
+    "hint": "Trưởng phòng phụ trách các bộ phận",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800"
+  },
+  {
+    "id": 45,
+    "topic": "Listening Translation (mp3.8)",
+    "word": "hire staff members",
+    "meaning": "thuê / tuyển nhân viên",
+    "hint": "Tuyển người mới vào làm việc",
+    "image": "https://images.unsplash.com/photo-1565688534245-05d6b5be184a?w=800"
+  },
+  {
+    "id": 46,
+    "topic": "Listening Translation (mp3.8)",
+    "word": "deal with",
+    "meaning": "giải quyết",
+    "hint": "Xử lý khó khăn hoặc tình huống công việc",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 47,
+    "topic": "Listening Translation (mp3.11)",
+    "word": "customer support manager",
+    "meaning": "vị trí quản lý hỗ trợ khách hàng",
+    "hint": "Người đứng đầu bộ phận giải đáp thắc mắc người dùng",
+    "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=800"
+  },
+  {
+    "id": 48,
+    "topic": "Listening Translation (mp3.11)",
+    "word": "pool of candidates",
+    "meaning": "nhóm ứng cử viên",
+    "hint": "Tập hợp những người cùng nộp đơn xin việc",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800"
+  },
+  {
+    "id": 49,
+    "topic": "Listening Translation (mp3.11)",
+    "word": "applications from outside",
+    "meaning": "đơn đăng ký từ bên ngoài",
+    "hint": "Hồ sơ tuyển dụng gửi từ người ngoài công ty",
+    "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800"
+  },
+  {
+    "id": 50,
+    "topic": "Listening Translation (mp3.11)",
+    "word": "service representatives",
+    "meaning": "đại diện dịch vụ",
+    "hint": "Nhân viên làm việc chăm sóc khách hàng",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 51,
+    "topic": "Listening Translation (mp3.11)",
+    "word": "move up into management",
+    "meaning": "chuyển sang làm quản lý",
+    "hint": "Thăng tiến lên các vị trí lãnh đạo",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800"
+  },
+  {
+    "id": 52,
+    "topic": "Listening Translation (mp3.11)",
+    "word": "apply for",
+    "meaning": "nộp đơn xin vào",
+    "hint": "Gửi hồ sơ đăng ký ứng tuyển một vị trí",
+    "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800"
+  },
+  {
+    "id": 53,
+    "topic": "Listening Translation (mp3.11)",
+    "word": "agree with",
+    "meaning": "đồng ý với",
+    "hint": "Có cùng quan điểm với ai đó",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800"
+  },
+  {
+    "id": 54,
+    "topic": "Listening Translation (mp3.11)",
+    "word": "take another look at",
+    "meaning": "xem xét lại",
+    "hint": "Kiểm tra hoặc đánh giá lại một lần nữa",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 55,
+    "topic": "Listening Translation (mp3.11)",
+    "word": "recent performance results",
+    "meaning": "kết quả hiệu suất làm việc gần đây nhất",
+    "hint": "Đánh giá năng lực làm việc trong thời gian qua",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800"
+  },
+  {
+    "id": 56,
+    "topic": "Listening Translation (mp3.11)",
+    "word": "make a decision",
+    "meaning": "đưa ra quyết định",
+    "hint": "Chốt lựa chọn cuối cùng",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800"
+  },
+  {
+    "id": 57,
+    "topic": "Listening Translation (mp3.11)",
+    "word": "start reviewing",
+    "meaning": "bắt đầu xem xét",
+    "hint": "Khởi động quá trình kiểm tra hồ sơ hay thông tin",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 58,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "calling about",
+    "meaning": "gọi điện để hỏi về",
+    "hint": "Thực hiện cuộc gọi nhằm tìm hiểu thông tin về điều gì đó",
+    "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=800"
+  },
+  {
+    "id": 59,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "Medical Research Conference",
+    "meaning": "Hội nghị Nghiên cứu Y khoa",
+    "hint": "Sự kiện gặp gỡ báo cáo các kết quả nghiên cứu trong ngành y",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+  },
+  {
+    "id": 60,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "want to register",
+    "meaning": "muốn đăng ký",
+    "hint": "Mong muốn ghi danh tham gia một chương trình hay sự kiện",
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800"
+  },
+  {
+    "id": 61,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "website is down",
+    "meaning": "trang web bị lỗi / ngưng hoạt động",
+    "hint": "Trạng thái hệ thống mạng tạm thời không thể truy cập",
+    "image": "https://images.unsplash.com/photo-1525785967371-87ba5459e5b3?w=800"
+  },
+  {
+    "id": 62,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "sorry for the inconvenience",
+    "meaning": "xin lỗi vì sự bất tiện",
+    "hint": "Lời xin lỗi lịch sự khi gây ra rắc rối cho khách hàng",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 63,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "take your registration over the phone",
+    "meaning": "đăng ký giúp bà qua điện thoại",
+    "hint": "Hỗ trợ ghi nhận thông tin đăng ký trực tiếp bằng cuộc gọi",
+    "image": "https://images.unsplash.com/photo-1520923642038-b4259acecbd7?w=800"
+  },
+  {
+    "id": 64,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "attending both days",
+    "meaning": "tham dự cả hai ngày",
+    "hint": "Có mặt đầy đủ trong suốt khoảng thời gian 2 ngày",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800"
+  },
+  {
+    "id": 65,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "interested in",
+    "meaning": "quan tâm đến",
+    "hint": "Dành sự chú ý hoặc yêu thích cho một chủ đề/ngày cụ thể",
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800"
+  },
+  {
+    "id": 66,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "the second day",
+    "meaning": "ngày thứ hai",
+    "hint": "Ngày làm việc/diễn ra tiếp theo trong lịch trình",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 67,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "institute member",
+    "meaning": "thành viên của viện",
+    "hint": "Người thuộc danh sách hội viên chính thức của tổ chức",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
+  },
+  {
+    "id": 68,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "give me your membership ID number",
+    "meaning": "cung cấp mã số thành viên",
+    "hint": "Đọc hoặc gửi mã định danh thẻ hội viên",
+    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800"
+  },
+  {
+    "id": 69,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "get the discount",
+    "meaning": "được giảm giá",
+    "hint": "Hưởng mức giá ưu đãi thấp hơn bình thường",
+    "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800"
+  },
+  {
+    "id": 70,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "give me a second",
+    "meaning": "đợi tôi một lát",
+    "hint": "Yêu cầu ai đó chờ đợi trong thời gian rất ngắn",
+    "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?w=800"
+  },
+  {
+    "id": 71,
+    "topic": "Listening Translation (mp3.15)",
+    "word": "get my ID card",
+    "meaning": "lấy thẻ của mình",
+    "hint": "Đi tìm hoặc lấy giấy tờ tùy thân / thẻ chứng minh",
+    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800"
+  },
+  {
+    "id": 72,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "laboratory technician training",
+    "meaning": "buổi đào tạo kỹ thuật viên phòng thí nghiệm",
+    "hint": "Khóa hướng dẫn nghiệp vụ cho người làm việc trong lab",
+    "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=800"
+  },
+  {
+    "id": 73,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "discuss monitoring",
+    "meaning": "thảo luận về việc giám sát",
+    "hint": "Trao đổi ý kiến về quá trình theo dõi hệ thống",
+    "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800"
+  },
+  {
+    "id": 74,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "thermostat batteries",
+    "meaning": "pin điều nhiệt",
+    "hint": "Nguồn điện cấp cho thiết bị kiểm soát nhiệt độ",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 75,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "power is too low",
+    "meaning": "điện năng quá thấp",
+    "hint": "Mức năng lượng hoặc dung lượng pin không đủ hoạt động tốt",
+    "image": "https://images.unsplash.com/photo-1544717297-fa95b6ee9643?w=800"
+  },
+  {
+    "id": 76,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "exact temperature",
+    "meaning": "nhiệt độ chính xác",
+    "hint": "Chỉ số độ C hoặc độ F hoàn toàn chuẩn xác",
+    "image": "https://images.unsplash.com/photo-1510519138161-58446232f71b?w=800"
+  },
+  {
+    "id": 77,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "equipment",
+    "meaning": "thiết bị",
+    "hint": "Máy móc, công cụ dùng cho mục đích chuyên môn",
+    "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?w=800"
+  },
+  {
+    "id": 78,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "spare batteries",
+    "meaning": "pin hay nguồn pin phụ",
+    "hint": "Pin có sẵn để dự phòng thay thế",
+    "image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?w=800"
+  },
+  {
+    "id": 79,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "backup power source",
+    "meaning": "nguồn điện dự phòng",
+    "hint": "Hệ thống cấp điện phụ khi nguồn điện chính gặp sự cố",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800"
+  },
+  {
+    "id": 80,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "just in case",
+    "meaning": "phòng trường hợp / nhỡ khi",
+    "hint": "Dự phòng cho tình huống bất ngờ có thể xảy ra",
+    "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?w=800"
+  },
+  {
+    "id": 81,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "no backup",
+    "meaning": "không có bản dự phòng nào cả",
+    "hint": "Trạng thái hoàn toàn không có phương án thay thế",
+    "image": "https://images.unsplash.com/photo-1525785967371-87ba5459e5b3?w=800"
+  },
+  {
+    "id": 82,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "monitor the battery closely",
+    "meaning": "theo dõi chặt chẽ pin",
+    "hint": "Quan sát sát sao tình trạng dung lượng năng lượng",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 83,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "display screen",
+    "meaning": "màn hình hiển thị",
+    "hint": "Màn hình điện tử hiện thông số của thiết bị",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800"
+  },
+  {
+    "id": 84,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "change the batteries",
+    "meaning": "thay pin",
+    "hint": "Tháo pin cũ ra và lắp pin mới vào",
+    "image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?w=800"
+  },
+  {
+    "id": 85,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "trainee manual",
+    "meaning": "sách hướng dẫn học viên",
+    "hint": "Tài liệu đào tạo dành cho người thực tập",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800"
+  },
+  {
+    "id": 86,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "battery-power levels",
+    "meaning": "mức độ pin",
+    "hint": "Tỷ lệ dung lượng điện năng còn lại trong pin",
+    "image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?w=800"
+  },
+  {
+    "id": 87,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "appear on the display",
+    "meaning": "xuất hiện trên màn hình",
+    "hint": "Hiển thị thông tin rõ ràng ra mặt ngoài máy",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800"
+  },
+  {
+    "id": 88,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "replace batteries",
+    "meaning": "thay thế pin",
+    "hint": "Thực hiện đổi viên pin mới để máy hoạt động",
+    "image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?w=800"
+  },
+  {
+    "id": 89,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "reach twenty-five percent",
+    "meaning": "chạm mốc / còn 25%",
+    "hint": "Dung lượng giảm xuống còn một phần tư",
+    "image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?w=800"
+  },
+  {
+    "id": 90,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "earlier than we have to",
+    "meaning": "sớm hơn mức cần thiết",
+    "hint": "Thực hiện hành động trước thời điểm bắt buộc",
+    "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?w=800"
+  },
+  {
+    "id": 91,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "run out",
+    "meaning": "cạn pin / hết",
+    "hint": "Dùng sạch năng lượng hoàn toàn không còn gì",
+    "image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?w=800"
+  },
+  {
+    "id": 92,
+    "topic": "Listening Translation (mp3.18)",
+    "word": "lose valuable data",
+    "meaning": "mất những dữ liệu có giá trị",
+    "hint": "Bị thất thoát các thông tin quan trọng do lỗi điện năng",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800"
+  },
+  {
+    "id": 93,
+    "topic": "Questions & Answers (Part 1)",
+    "word": "mainly discussing",
+    "meaning": "thảo luận chính về",
+    "hint": "Nội dung chủ yếu đang được các bên bàn bạc",
+    "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800"
+  },
+  {
+    "id": 94,
+    "topic": "Questions & Answers (Part 1)",
+    "word": "marketing survey",
+    "meaning": "khảo sát tiếp thị",
+    "hint": "Chương trình thu thập ý kiến về thị trường",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800"
+  },
+  {
+    "id": 95,
+    "topic": "Questions & Answers (Part 1)",
+    "word": "grand opening celebration",
+    "meaning": "lễ khai trương",
+    "hint": "Sự kiện chào mừng địa điểm kinh doanh mới",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=800"
+  },
+  {
+    "id": 96,
+    "topic": "Questions & Answers (Part 1)",
+    "word": "conference presentation",
+    "meaning": "bài thuyết trình tại hội nghị",
+    "hint": "Phần trình bày thông tin trước diễn đàn nhiều người",
+    "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800"
+  },
+  {
+    "id": 97,
+    "topic": "Questions & Answers (Part 1)",
+    "word": "suggest doing",
+    "meaning": "đề xuất làm",
+    "hint": "Đưa ra lời khuyên hoặc gợi ý hành động",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 98,
+    "topic": "Questions & Answers (Part 1)",
+    "word": "offering a discount",
+    "meaning": "đề xuất / cung cấp giảm giá",
+    "hint": "Mức giá ưu đãi áp dụng cho người mua",
+    "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800"
+  },
+  {
+    "id": 99,
+    "topic": "Questions & Answers (Part 1)",
+    "word": "presenting a product design",
+    "meaning": "trình bày thiết kế sản phẩm",
+    "hint": "Giới thiệu bản vẽ kiểu dáng của mặt hàng mới",
+    "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=800"
+  },
+  {
+    "id": 100,
+    "topic": "Questions & Answers (Part 1)",
+    "word": "organizing a staff luncheon",
+    "meaning": "tổ chức bữa ăn trưa cho nhân viên",
+    "hint": "Buổi ăn tiệc giữa trưa cho các đồng nghiệp",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+  },
+  {
+    "id": 101,
+    "topic": "Questions & Answers (Part 1)",
+    "word": "distributing a questionnaire",
+    "meaning": "phát phiếu khảo sát",
+    "hint": "Gửi phiếu câu hỏi cho mọi người điền thông tin",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 102,
+    "topic": "Questions & Answers (Part 1)",
+    "word": "reserve a meeting room",
+    "meaning": "đặt phòng họp",
+    "hint": "Đăng ký sử dụng không gian hội họp trước",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
+  },
+  {
+    "id": 103,
+    "topic": "Questions & Answers (Part 1)",
+    "word": "prepare a financial statement",
+    "meaning": "chuẩn bị báo cáo tài chính",
+    "hint": "Lập tài liệu thống kê thu chi doanh nghiệp",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 104,
+    "topic": "Questions & Answers (Part 1)",
+    "word": "post information on a website",
+    "meaning": "đăng thông tin lên trang web",
+    "hint": "Cập nhật dữ liệu công khai trên mạng",
+    "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=800"
+  },
+  {
+    "id": 105,
+    "topic": "Questions & Answers (Part 1)",
+    "word": "notify a group of a new deadline",
+    "meaning": "thông báo hạn chót mới cho một nhóm",
+    "hint": "Gửi tin thông báo lịch hoàn thành mới",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 106,
+    "topic": "Questions & Answers (mp3.6)",
+    "word": "securing financial backing",
+    "meaning": "đảm bảo nguồn hỗ trợ tài chính",
+    "hint": "Tìm kiếm vống đầu tư ổn định cho dự án",
+    "image": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=800"
+  },
+  {
+    "id": 107,
+    "topic": "Questions & Answers (mp3.6)",
+    "word": "making travel arrangements",
+    "meaning": "sắp xếp lịch trình chuyến đi",
+    "hint": "Đặt vé và chuẩn bị cho chuyến công tác",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800"
+  },
+  {
+    "id": 108,
+    "topic": "Questions & Answers (mp3.6)",
+    "word": "changing the leader of a project",
+    "meaning": "thay đổi người dẫn đầu dự án",
+    "hint": "Bổ nhiệm quản lý mới cho công trình hay kế hoạch",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800"
+  },
+  {
+    "id": 109,
+    "topic": "Questions & Answers (mp3.6)",
+    "word": "advise the woman to do",
+    "meaning": "khuyên người phụ nữ nên làm",
+    "hint": "Gợi ý định hướng hành động cho ai đó",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 110,
+    "topic": "Questions & Answers (mp3.6)",
+    "word": "hold face-to-face negotiations",
+    "meaning": "tiến hành đàm phán trực tiếp",
+    "hint": "Thương lượng gặp mặt đối mặt ngoài đời",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800"
+  },
+  {
+    "id": 111,
+    "topic": "Questions & Answers (mp3.6)",
+    "word": "minimize overhead costs",
+    "meaning": "giảm thiểu chi phí vận hành",
+    "hint": "Cắt giảm tiền điện nước hay mặt bằng cố định",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 112,
+    "topic": "Questions & Answers (mp3.6)",
+    "word": "send confirmation e-mails",
+    "meaning": "gửi email xác nhận",
+    "hint": "Phản hồi thông tin qua thư điện tử",
+    "image": "https://images.unsplash.com/photo-1596526131083-e8c633c948d2?w=800"
+  },
+  {
+    "id": 113,
+    "topic": "Questions & Answers (mp3.6)",
+    "word": "revise a budget",
+    "meaning": "chỉnh sửa ngân sách",
+    "hint": "Điều chỉnh dự toán thu chi tiền bạc",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 114,
+    "topic": "Questions & Answers (mp3.6)",
+    "word": "excited about",
+    "meaning": "hào hứng về",
+    "hint": "Cảm giác vui vẻ mong đợi một việc gì đó",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 115,
+    "topic": "Questions & Answers (mp3.6)",
+    "word": "meeting new colleagues",
+    "meaning": "gặp gỡ các đồng nghiệp mới",
+    "hint": "Làm quen với những người mới cùng công ty",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800"
+  },
+  {
+    "id": 116,
+    "topic": "Questions & Answers (mp3.6)",
+    "word": "hiring an assistant",
+    "meaning": "thuê một trợ lý",
+    "hint": "Tuyển thêm người phụ giúp việc cá nhân/quản lý",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 117,
+    "topic": "Questions & Answers (mp3.6)",
+    "word": "earning a higher salary",
+    "meaning": "nhận mức lương cao hơn",
+    "hint": "Được tăng thu nhập hàng tháng",
+    "image": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=800"
+  },
+  {
+    "id": 118,
+    "topic": "Questions & Answers (mp3.6)",
+    "word": "working in another country",
+    "meaning": "làm việc ở một quốc gia khác",
+    "hint": "Đi làm tại nước ngoài",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800"
+  },
+  {
+    "id": 119,
+    "topic": "Questions & Answers (mp3.9)",
+    "word": "accounting department",
+    "meaning": "bộ phận kế toán",
+    "hint": "Phòng ban xử lý tiền bạc thu chi",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 120,
+    "topic": "Questions & Answers (mp3.9)",
+    "word": "product development",
+    "meaning": "phát triển sản phẩm",
+    "hint": "Nghiên cứu tạo ra mặt hàng mới",
+    "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=800"
+  },
+  {
+    "id": 121,
+    "topic": "Questions & Answers (mp3.9)",
+    "word": "human resources",
+    "meaning": "bộ phận nhân sự",
+    "hint": "Phòng phụ trách tuyển dụng và quản lý nhân viên",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800"
+  },
+  {
+    "id": 122,
+    "topic": "Questions & Answers (mp3.9)",
+    "word": "indicate that some news is good",
+    "meaning": "biểu thị rằng tin tức là tốt",
+    "hint": "Thể hiện thông điệp mang tính tích cực",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 123,
+    "topic": "Questions & Answers (mp3.9)",
+    "word": "deny a requested budget change",
+    "meaning": "từ chối yêu cầu thay đổi ngân sách",
+    "hint": "Bác bỏ việc điều chỉnh chi phí",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 124,
+    "topic": "Questions & Answers (mp3.9)",
+    "word": "suggest that a fee is appropriate",
+    "meaning": "gợi ý rằng một mức phí là phù hợp",
+    "hint": "Đánh giá khoản tiền đề ra là hợp lý",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 125,
+    "topic": "Questions & Answers (mp3.9)",
+    "word": "correct some mistaken information",
+    "meaning": "đính chính thông tin bị nhầm lẫn",
+    "hint": "Sửa lại thông tin chưa đúng",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800"
+  },
+  {
+    "id": 126,
+    "topic": "Questions & Answers (mp3.9)",
+    "word": "purchase new furniture",
+    "meaning": "mua sắm nội thất mới",
+    "hint": "Sắm bàn ghế tủ kệ mới cho văn phòng",
+    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=800"
+  },
+  {
+    "id": 127,
+    "topic": "Questions & Answers (mp3.9)",
+    "word": "host a conference",
+    "meaning": "đứng ra tổ chức hội nghị",
+    "hint": "Đăng cai một sự kiện họp lớn",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800"
+  },
+  {
+    "id": 128,
+    "topic": "Questions & Answers (mp3.9)",
+    "word": "hire some more employees",
+    "meaning": "tuyển thêm nhân viên",
+    "hint": "Bổ sung lực lượng lao động mới",
+    "image": "https://images.unsplash.com/photo-1565688534245-05d6b5be184a?w=800"
+  },
+  {
+    "id": 129,
+    "topic": "Questions & Answers (mp3.9)",
+    "word": "expand a product line",
+    "meaning": "mở rộng dòng sản phẩm",
+    "hint": "Tăng thêm các mẫu mã hay dịch vụ kinh doanh",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800"
+  },
+  {
+    "id": 130,
+    "topic": "Questions & Answers (mp3.12)",
+    "word": "filling a job opening",
+    "meaning": "tuyển người cho vị trí đang trống",
+    "hint": "Tìm nhân sự thích hợp lấp chỗ trống",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800"
+  },
+  {
+    "id": 131,
+    "topic": "Questions & Answers (mp3.12)",
+    "word": "planning a customer presentation",
+    "meaning": "lên kế hoạch cho buổi thuyết trình khách hàng",
+    "hint": "Chuẩn bị bài báo cáo cho đối tác",
+    "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800"
+  },
+  {
+    "id": 132,
+    "topic": "Questions & Answers (mp3.12)",
+    "word": "organizing a research committee",
+    "meaning": "thành lập ủy ban nghiên cứu",
+    "hint": "Tổ chức nhóm chịu trách nhiệm tìm hiểu đề tài",
+    "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800"
+  },
+  {
+    "id": 133,
+    "topic": "Questions & Answers (mp3.12)",
+    "word": "revising some sales figures",
+    "meaning": "sửa đổi một số số liệu bán hàng",
+    "hint": "Điều chỉnh doanh số thống kê",
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800"
+  },
+  {
+    "id": 134,
+    "topic": "Questions & Answers (mp3.12)",
+    "word": "change a vacation policy",
+    "meaning": "thay đổi quy định nghỉ phép",
+    "hint": "Sửa chính sách ngày nghỉ của doanh nghiệp",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 135,
+    "topic": "Questions & Answers (mp3.12)",
+    "word": "move to a new facility",
+    "meaning": "chuyển sang cơ sở mới",
+    "hint": "Dời địa điểm làm việc sang cơ sở khác",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
+  },
+  {
+    "id": 136,
+    "topic": "Questions & Answers (mp3.12)",
+    "word": "win a client contract",
+    "meaning": "giành được hợp đồng khách hàng",
+    "hint": "Ký kết thành công thỏa thuận với đối tác",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800"
+  },
+  {
+    "id": 137,
+    "topic": "Questions & Answers (mp3.12)",
+    "word": "promote an employee",
+    "meaning": "thăng chức cho một nhân viên",
+    "hint": "Đưa nhân sự lên vị trí cao hơn",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800"
+  },
+  {
+    "id": 138,
+    "topic": "Questions & Answers (mp3.12)",
+    "word": "review some documents",
+    "meaning": "xem xét một số tài liệu",
+    "hint": "Kiểm tra văn bản giấy tờ",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 139,
+    "topic": "Questions & Answers (mp3.12)",
+    "word": "contact a manager",
+    "meaning": "liên hệ với quản lý",
+    "hint": "Gọi hoặc nhắn cho trưởng phòng/sếp",
+    "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=800"
+  },
+  {
+    "id": 140,
+    "topic": "Questions & Answers (mp3.12)",
+    "word": "submit some questions",
+    "meaning": "nộp / gửi một số câu hỏi",
+    "hint": "Gửi thắc mắc cho ban tổ chức hoặc sếp",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800"
+  },
+  {
+    "id": 141,
+    "topic": "Questions & Answers (Part 2)",
+    "word": "problem mention",
+    "meaning": "vấn đề được nhắc tới",
+    "hint": "Rắc rối hoặc khó khăn đang gặp phải",
+    "image": "https://images.unsplash.com/photo-1525785967371-87ba5459e5b3?w=800"
+  },
+  {
+    "id": 142,
+    "topic": "Questions & Answers (Part 2)",
+    "word": "website is not working",
+    "meaning": "trang web không hoạt động",
+    "hint": "Sự cố mạng khiến không thể vào được trang web",
+    "image": "https://images.unsplash.com/photo-1525785967371-87ba5459e5b3?w=800"
+  },
+  {
+    "id": 143,
+    "topic": "Questions & Answers (Part 2)",
+    "word": "bill is incorrect",
+    "meaning": "hóa đơn bị sai",
+    "hint": "Số tiền trong hóa đơn thanh toán không chính xác",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 144,
+    "topic": "Questions & Answers (Part 2)",
+    "word": "records are missing",
+    "meaning": "hồ sơ / dữ liệu bị thất lạc",
+    "hint": "Giấy tờ lưu trữ bị vắng mặt hoặc bị mất",
+    "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800"
+  },
+  {
+    "id": 145,
+    "topic": "Questions & Answers (Part 2)",
+    "word": "staff are unavailable",
+    "meaning": "nhân viên không có mặt",
+    "hint": "Nhân sự đang bận hoặc vắng mặt",
+    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=800"
+  },
+  {
+    "id": 146,
+    "topic": "Questions & Answers (Part 2)",
+    "word": "look at the graphic",
+    "meaning": "nhìn vào biểu đồ / hình ảnh",
+    "hint": "Quan sát sơ đồ hoặc bảng dữ liệu kèm theo",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800"
+  },
+  {
+    "id": 147,
+    "topic": "Questions & Answers (Part 2)",
+    "word": "ask the woman to provide",
+    "meaning": "yêu cầu người phụ nữ cung cấp",
+    "hint": "Đề nghị ai đó đưa ra thông tin hoặc tài liệu",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 148,
+    "topic": "Questions & Answers (Part 2)",
+    "word": "meal preference",
+    "meaning": "sở thích ăn uống",
+    "hint": "Lựa chọn món ăn ưa thích của cá nhân",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+  },
+  {
+    "id": 149,
+    "topic": "Questions & Answers (Part 2)",
+    "word": "hospital name",
+    "meaning": "tên bệnh viện",
+    "hint": "Tên gọi của cơ sở y tế khám chữa bệnh",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+  },
+  {
+    "id": 150,
+    "topic": "Questions & Answers (Part 2)",
+    "word": "product specification",
+    "meaning": "thông số kỹ thuật sản phẩm",
+    "hint": "Mô tả chi tiết cấu tạo hoặc đặc tính mặt hàng",
+    "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?w=800"
+  },
+  {
+    "id": 151,
+    "topic": "Questions & Answers (Part 2)",
+    "word": "identification number",
+    "meaning": "mã số định danh / số ID",
+    "hint": "Dãy số dùng để xác minh danh tính cá nhân",
+    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800"
+  },
+  {
+    "id": 152,
+    "topic": "Questions & Answers (Part 3)",
+    "word": "event is taking place",
+    "meaning": "sự kiện đang diễn ra",
+    "hint": "Chương trình đang được tổ chức",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800"
+  },
+  {
+    "id": 153,
+    "topic": "Questions & Answers (Part 3)",
+    "word": "training session",
+    "meaning": "buổi đào tạo",
+    "hint": "Lớp học hướng dẫn kĩ năng chuyên môn",
+    "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=800"
+  },
+  {
+    "id": 154,
+    "topic": "Questions & Answers (Part 3)",
+    "word": "job interview",
+    "meaning": "buổi phỏng vấn xin việc",
+    "hint": "Cuộc trao đổi giữa nhà tuyển dụng và ứng viên",
+    "image": "https://images.unsplash.com/photo-1565688534245-05d6b5be184a?w=800"
+  },
+  {
+    "id": 155,
+    "topic": "Questions & Answers (Part 3)",
+    "word": "management meeting",
+    "meaning": "cuộc họp ban quản lý",
+    "hint": "Buổi gặp mặt thảo luận của dàn lãnh đạo",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800"
+  },
+  {
+    "id": 156,
+    "topic": "Questions & Answers (Part 3)",
+    "word": "award ceremony",
+    "meaning": "lễ trao giải",
+    "hint": "Sự kiện vinh danh các cá nhân xuất sắc",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=800"
+  },
+  {
+    "id": 157,
+    "topic": "Questions & Answers (Part 3)",
+    "word": "experiment results",
+    "meaning": "kết quả thí nghiệm",
+    "hint": "Dữ liệu thu được sau khi thực hiện kiểm nghiệm",
+    "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=800"
+  },
+  {
+    "id": 158,
+    "topic": "Questions & Answers (Part 3)",
+    "word": "alternative power sources",
+    "meaning": "các nguồn điện thay thế",
+    "hint": "Nguồn năng lượng phụ khi nguồn chính gặp sự cố",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800"
+  },
+  {
+    "id": 159,
+    "topic": "Questions & Answers (Part 3)",
+    "word": "additional order requests",
+    "meaning": "yêu cầu đặt hàng bổ sung",
+    "hint": "Đơn hàng xin mua thêm sản phẩm/thiết bị",
+    "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800"
+  },
+  {
+    "id": 160,
+    "topic": "Questions & Answers (Part 3)",
+    "word": "different model types",
+    "meaning": "các loại kiểu dáng / mẫu mã khác nhau",
+    "hint": "Sự đa dạng về dòng máy hay phiên bản sản phẩm",
+    "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?w=800"
+  },
+  {
+    "id": 161,
+    "topic": "Questions & Answers (Part 3)",
+    "word": "bars displayed",
+    "meaning": "các vạch được hiển thị",
+    "hint": "Vạch chỉ số pin hay sóng trên màn hình",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800"
+  },
+  {
+    "id": 162,
+    "topic": "Questions & Answers (Part 3)",
+    "word": "battery should be replaced",
+    "meaning": "pin nên được thay thế",
+    "hint": "Thời điểm viên pin cần đổi mới",
+    "image": "https://images.unsplash.com/photo-1619725002198-6a689b72f41d?w=800"
+  }
+]

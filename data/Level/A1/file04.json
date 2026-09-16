@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "topic": "Level A1 Vocabulary",
+    "word": "Until",
+    "meaning": "cho đến khi (conj., prep.)",
+    "hint": "Wait until I come back.",
+    "image": "https://live.staticflickr.com/2933/14239698741_61818479e7_b.jpg"
+  },
+  {
+    "id": 2,
+    "topic": "Level A1 Vocabulary",
+    "word": "Up",
+    "meaning": "lên (adv., prep.)",
+    "hint": "She climbed up the ladder.",
+    "image": "https://live.staticflickr.com/26/62447705_b90bbe834a_b.jpg"
+  },
+  {
+    "id": 3,
+    "topic": "Level A1 Vocabulary",
+    "word": "Upstairs",
+    "meaning": "lên tầng trên (adv.)",
+    "hint": "The bedrooms are upstairs.",
+    "image": "https://live.staticflickr.com/7150/6696311643_b8cbf37688_b.jpg"
+  },
+  {
+    "id": 4,
+    "topic": "Level A1 Vocabulary",
+    "word": "Us",
+    "meaning": "chúng tôi (pron.)",
+    "hint": "They gave us a gift.",
+    "image": "https://live.staticflickr.com/8389/8637208806_9fa00bd06f_b.jpg"
+  },
+  {
+    "id": 5,
+    "topic": "Level A1 Vocabulary",
+    "word": "Use",
+    "meaning": "sử dụng (v.)",
+    "hint": "Can I use your phone?",
+    "image": "https://live.staticflickr.com/8389/8637208806_9fa00bd06f_b.jpg"
+  },
+  {
+    "id": 6,
+    "topic": "Level A1 Vocabulary",
+    "word": "Useful",
+    "meaning": "hữu ích (adj.)",
+    "hint": "This tool is very useful.",
+    "image": "https://live.staticflickr.com/8389/8637208806_9fa00bd06f_b.jpg"
+  },
+  {
+    "id": 7,
+    "topic": "Level A1 Vocabulary",
+    "word": "Usually",
+    "meaning": "thường xuyên (adv.)",
+    "hint": "I usually get up early.",
+    "image": "https://live.staticflickr.com/4102/4744511210_23f0a33335_b.jpg"
+  },
+  {
+    "id": 8,
+    "topic": "Level A1 Vocabulary",
+    "word": "Vacation",
+    "meaning": "kỳ nghỉ (n.)",
+    "hint": "We're planning a summer vacation.",
+    "image": "https://live.staticflickr.com/7086/27795374262_5355f90886_b.jpg"
+  },
+  {
+    "id": 9,
+    "topic": "Level A1 Vocabulary",
+    "word": "Vegetable",
+    "meaning": "rau củ (n.)",
+    "hint": "Eat your vegetables.",
+    "image": "https://live.staticflickr.com/2442/3553160869_1332dac4ec_b.jpg"
+  },
+  {
+    "id": 10,
+    "topic": "Level A1 Vocabulary",
+    "word": "Very",
+    "meaning": "rất (adv.)",
+    "hint": "She is very happy.",
+    "image": "https://live.staticflickr.com/4022/4631310135_56111eb2e2_b.jpg"
+  },
+  {
+    "id": 11,
+    "topic": "Level A1 Vocabulary",
+    "word": "Video",
+    "meaning": "video (n.)",
+    "hint": "I watched a video on YouTube.",
+    "image": "https://live.staticflickr.com/2129/2400984258_9d5029eab9.jpg"
+  },
+  {
+    "id": 12,
+    "topic": "Level A1 Vocabulary",
+    "word": "Village",
+    "meaning": "làng (n.)",
+    "hint": "He lives in a small village.",
+    "image": "https://live.staticflickr.com/4119/4745485299_112163eda3_b.jpg"
+  },
+  {
+    "id": 13,
+    "topic": "Level A1 Vocabulary",
+    "word": "Visit",
+    "meaning": "thăm, chuyến thăm (v., n.)",
+    "hint": "I will visit my grandparents.",
+    "image": "https://live.staticflickr.com/718/23473590950_5bba0cbf50_b.jpg"
+  },
+  {
+    "id": 14,
+    "topic": "Level A1 Vocabulary",
+    "word": "Visitor",
+    "meaning": "khách thăm (n.)",
+    "hint": "We have a visitor today.",
+    "image": "https://live.staticflickr.com/8615/16645117422_bde36565e7_b.jpg"
+  },
+  {
+    "id": 15,
+    "topic": "Level A1 Vocabulary",
+    "word": "Wait",
+    "meaning": "chờ (v.)",
+    "hint": "Please wait here.",
+    "image": "https://live.staticflickr.com/7147/6496264699_7704f1859c_b.jpg"
+  },
+  {
+    "id": 16,
+    "topic": "Level A1 Vocabulary",
+    "word": "Waiter",
+    "meaning": "bồi bàn nam (n.)",
+    "hint": "The waiter took our order.",
+    "image": "https://live.staticflickr.com/5041/5337695316_0a50575c0a.jpg"
+  },
+  {
+    "id": 17,
+    "topic": "Level A1 Vocabulary",
+    "word": "Wake",
+    "meaning": "thức dậy (v.)",
+    "hint": "I wake up at 7 AM.",
+    "image": "https://live.staticflickr.com/2414/2510846222_eb89bce1e8_b.jpg"
+  },
+  {
+    "id": 18,
+    "topic": "Level A1 Vocabulary",
+    "word": "Walk",
+    "meaning": "đi bộ, cuộc đi bộ (v., n.)",
+    "hint": "I walk to work.",
+    "image": "https://live.staticflickr.com/2401/2255493967_4c9901aa6a_b.jpg"
+  },
+  {
+    "id": 19,
+    "topic": "Level A1 Vocabulary",
+    "word": "Wall",
+    "meaning": "tường (n.)",
+    "hint": "There is a picture on the wall.",
+    "image": "https://live.staticflickr.com/8303/7999472052_98bf1f4819_b.jpg"
+  },
+  {
+    "id": 20,
+    "topic": "Level A1 Vocabulary",
+    "word": "Want",
+    "meaning": "muốn (v.)",
+    "hint": "I want a cup of coffee.",
+    "image": "https://loremflickr.com/600/400/Want"
+  },
+  {
+    "id": 21,
+    "topic": "Level A1 Vocabulary",
+    "word": "Warm",
+    "meaning": "ấm áp (adj.)",
+    "hint": "The weather is warm today.",
+    "image": "https://live.staticflickr.com/658/20277042023_cf099dd1a6_b.jpg"
+  },
+  {
+    "id": 22,
+    "topic": "Level A1 Vocabulary",
+    "word": "Wash",
+    "meaning": "rửa (v.)",
+    "hint": "Please wash the dishes.",
+    "image": "https://live.staticflickr.com/7507/15689988879_8b345d0ece_b.jpg"
+  },
+  {
+    "id": 23,
+    "topic": "Level A1 Vocabulary",
+    "word": "Watch",
+    "meaning": "xem, đồng hồ (v., n.)",
+    "hint": "I watch TV every night.",
+    "image": "https://live.staticflickr.com/147/407425544_d3497fe68d_b.jpg"
+  },
+  {
+    "id": 24,
+    "topic": "Level A1 Vocabulary",
+    "word": "Water",
+    "meaning": "nước (n.)",
+    "hint": "Drink plenty of water.",
+    "image": "https://live.staticflickr.com/2703/4464699723_7725eb5601_b.jpg"
+  },
+  {
+    "id": 25,
+    "topic": "Level A1 Vocabulary",
+    "word": "Way",
+    "meaning": "cách, đường (n.)",
+    "hint": "Show me the way.",
+    "image": "https://live.staticflickr.com/5471/18865867402_46001d4ac8_b.jpg"
+  },
+  {
+    "id": 26,
+    "topic": "Level A1 Vocabulary",
+    "word": "We",
+    "meaning": "chúng tôi (pron.)",
+    "hint": "We are going to the park.",
+    "image": "https://live.staticflickr.com/3083/3220424667_1ffb05b499_b.jpg"
+  },
+  {
+    "id": 27,
+    "topic": "Level A1 Vocabulary",
+    "word": "Wear",
+    "meaning": "mặc, đeo (v.)",
+    "hint": "She likes to wear hats.",
+    "image": "https://live.staticflickr.com/235/518988891_ee82adc6a8.jpg"
+  },
+  {
+    "id": 28,
+    "topic": "Level A1 Vocabulary",
+    "word": "Weather",
+    "meaning": "thời tiết (n.)",
+    "hint": "The weather is sunny.",
+    "image": "https://live.staticflickr.com/6085/6209722727_3554ca82cc_b.jpg"
+  },
+  {
+    "id": 29,
+    "topic": "Level A1 Vocabulary",
+    "word": "Website",
+    "meaning": "trang web (n.)",
+    "hint": "Visit our website for more information.",
+    "image": "https://live.staticflickr.com/4148/4838330315_24deb3806e.jpg"
+  },
+  {
+    "id": 30,
+    "topic": "Level A1 Vocabulary",
+    "word": "Wednesday",
+    "meaning": "thứ Tư (n.)",
+    "hint": "We have a meeting on Wednesday.",
+    "image": "https://live.staticflickr.com/3385/3423360043_4d7857daa5_b.jpg"
+  },
+  {
+    "id": 31,
+    "topic": "Level A1 Vocabulary",
+    "word": "Week",
+    "meaning": "tuần (n.)",
+    "hint": "There are seven days in a week.",
+    "image": "https://live.staticflickr.com/5059/5400412425_2d721e1697_b.jpg"
+  },
+  {
+    "id": 32,
+    "topic": "Level A1 Vocabulary",
+    "word": "Weekend",
+    "meaning": "cuối tuần (n.)",
+    "hint": "What are your plans for the weekend?",
+    "image": "https://live.staticflickr.com/5187/5553369302_7fd0256964_b.jpg"
+  },
+  {
+    "id": 33,
+    "topic": "Level A1 Vocabulary",
+    "word": "Welcome",
+    "meaning": "chào mừng, đón chào (exclam., v., adj.)",
+    "hint": "Welcome to our home!",
+    "image": "https://live.staticflickr.com/3376/3668440985_1097b2b50f_b.jpg"
+  },
+  {
+    "id": 34,
+    "topic": "Level A1 Vocabulary",
+    "word": "Well",
+    "meaning": "tốt, khỏe, được (adv., adj., exclam.)",
+    "hint": "She did well on the test.",
+    "image": "https://live.staticflickr.com/5016/5528944337_a14495e9e3_b.jpg"
+  },
+  {
+    "id": 35,
+    "topic": "Level A1 Vocabulary",
+    "word": "West",
+    "meaning": "phía Tây (n., adj., adv.)",
+    "hint": "The sun sets in the west.",
+    "image": "https://live.staticflickr.com/857/43182384044_d84d1336fa_b.jpg"
+  },
+  {
+    "id": 36,
+    "topic": "Level A1 Vocabulary",
+    "word": "What",
+    "meaning": "cái gì (pron./det.)",
+    "hint": "What is your name?",
+    "image": "https://live.staticflickr.com/2284/1728327775_8507171b42.jpg"
+  },
+  {
+    "id": 37,
+    "topic": "Level A1 Vocabulary",
+    "word": "When",
+    "meaning": "khi nào (adv., pron., conj.)",
+    "hint": "When will you arrive?",
+    "image": "https://live.staticflickr.com/7090/7079313057_7e33a669db_b.jpg"
+  },
+  {
+    "id": 38,
+    "topic": "Level A1 Vocabulary",
+    "word": "Where",
+    "meaning": "ở đâu (adv., conj.)",
+    "hint": "Where do you live?",
+    "image": "https://live.staticflickr.com/3770/11391816256_effb8d7fcf_b.jpg"
+  },
+  {
+    "id": 39,
+    "topic": "Level A1 Vocabulary",
+    "word": "Which",
+    "meaning": "nào (pron./det.)",
+    "hint": "Which color do you prefer?",
+    "image": "https://live.staticflickr.com/7476/16162307230_ec1f9b507e_b.jpg"
+  },
+  {
+    "id": 40,
+    "topic": "Level A1 Vocabulary",
+    "word": "White",
+    "meaning": "màu trắng (adj., n.)",
+    "hint": "She wore a white dress.",
+    "image": "https://live.staticflickr.com/8497/8320814459_2679d484b3_b.jpg"
+  },
+  {
+    "id": 41,
+    "topic": "Level A1 Vocabulary",
+    "word": "Who",
+    "meaning": "ai (pron.)",
+    "hint": "Who is that person?",
+    "image": "https://live.staticflickr.com/3155/13080874113_8fecbd5eae_b.jpg"
+  },
+  {
+    "id": 42,
+    "topic": "Level A1 Vocabulary",
+    "word": "Why",
+    "meaning": "tại sao (adv.)",
+    "hint": "Why are you late?",
+    "image": "https://live.staticflickr.com/3508/3864076061_cc32cb6a10_b.jpg"
+  },
+  {
+    "id": 43,
+    "topic": "Level A1 Vocabulary",
+    "word": "Wife",
+    "meaning": "vợ (n.)",
+    "hint": "My wife is a teacher.",
+    "image": "https://live.staticflickr.com/1465/24913126435_bf778db1a2_b.jpg"
+  },
+  {
+    "id": 44,
+    "topic": "Level A1 Vocabulary",
+    "word": "Will",
+    "meaning": "sẽ (modal v.)",
+    "hint": "I will call you later.",
+    "image": "https://loremflickr.com/600/400/Will"
+  },
+  {
+    "id": 45,
+    "topic": "Level A1 Vocabulary",
+    "word": "Win",
+    "meaning": "thắng (v.)",
+    "hint": "He wants to win the game.",
+    "image": "https://live.staticflickr.com/4088/4838601594_4250cc0401_b.jpg"
+  },
+  {
+    "id": 46,
+    "topic": "Level A1 Vocabulary",
+    "word": "Window",
+    "meaning": "cửa sổ (n.)",
+    "hint": "Open the window, please.",
+    "image": "https://live.staticflickr.com/8454/8031440441_e189954b87_b.jpg"
+  },
+  {
+    "id": 47,
+    "topic": "Level A1 Vocabulary",
+    "word": "Wine",
+    "meaning": "rượu vang (n.)",
+    "hint": "She prefers red wine.",
+    "image": "https://live.staticflickr.com/3185/2975056471_0975c5bd40_b.jpg"
+  },
+  {
+    "id": 48,
+    "topic": "Level A1 Vocabulary",
+    "word": "Winter",
+    "meaning": "mùa đông (n.)",
+    "hint": "Winter is very cold here.",
+    "image": "https://live.staticflickr.com/7169/6695833555_cbd32dceaa_b.jpg"
+  },
+  {
+    "id": 49,
+    "topic": "Level A1 Vocabulary",
+    "word": "With",
+    "meaning": "với (prep.)",
+    "hint": "I went with my friend.",
+    "image": "https://loremflickr.com/600/400/With"
+  },
+  {
+    "id": 50,
+    "topic": "Level A1 Vocabulary",
+    "word": "Without",
+    "meaning": "không có (prep.)",
+    "hint": "I can't live without you.",
+    "image": "https://live.staticflickr.com/2732/4277609349_1dd2d285f4_m.jpg"
+  },
+  {
+    "id": 51,
+    "topic": "Level A1 Vocabulary",
+    "word": "Woman",
+    "meaning": "phụ nữ (n.)",
+    "hint": "She is a kind woman.",
+    "image": "https://live.staticflickr.com/3889/15154189400_bf63aa8400_b.jpg"
+  },
+  {
+    "id": 52,
+    "topic": "Level A1 Vocabulary",
+    "word": "Wonderful",
+    "meaning": "tuyệt vời (adj.)",
+    "hint": "The weather is wonderful today.",
+    "image": "https://live.staticflickr.com/4199/34273881353_56632433e1_b.jpg"
+  },
+  {
+    "id": 53,
+    "topic": "Level A1 Vocabulary",
+    "word": "Word",
+    "meaning": "từ (n.)",
+    "hint": "Can you spell this word?",
+    "image": "https://live.staticflickr.com/1046/1158260369_3ba07950e5_b.jpg"
+  },
+  {
+    "id": 54,
+    "topic": "Level A1 Vocabulary",
+    "word": "Work",
+    "meaning": "làm việc, công việc (v., n.)",
+    "hint": "I work from home.",
+    "image": "https://live.staticflickr.com/29/55336393_5ca1d61b0f.jpg"
+  },
+  {
+    "id": 55,
+    "topic": "Level A1 Vocabulary",
+    "word": "Worker",
+    "meaning": "công nhân, người lao động (n.)",
+    "hint": "The factory workers are on strike.",
+    "image": "https://live.staticflickr.com/7256/6982829606_25ed348b90_b.jpg"
+  },
+  {
+    "id": 56,
+    "topic": "Level A1 Vocabulary",
+    "word": "World",
+    "meaning": "thế giới (n.)",
+    "hint": "We live in a beautiful world.",
+    "image": "https://live.staticflickr.com/6071/6093591982_6431ed8985_b.jpg"
+  },
+  {
+    "id": 57,
+    "topic": "Level A1 Vocabulary",
+    "word": "Would",
+    "meaning": "sẽ (modal v.)",
+    "hint": "I would like some coffee.",
+    "image": "https://live.staticflickr.com/2284/1728327775_8507171b42.jpg"
+  },
+  {
+    "id": 58,
+    "topic": "Level A1 Vocabulary",
+    "word": "Write",
+    "meaning": "viết (v.)",
+    "hint": "I will write a letter.",
+    "image": "https://live.staticflickr.com/5239/5905866509_355ff74412.jpg"
+  },
+  {
+    "id": 59,
+    "topic": "Level A1 Vocabulary",
+    "word": "Writer",
+    "meaning": "nhà văn (n.)",
+    "hint": "She is a famous writer.",
+    "image": "https://live.staticflickr.com/8065/8226570181_e9e2fde4fd.jpg"
+  },
+  {
+    "id": 60,
+    "topic": "Level A1 Vocabulary",
+    "word": "Writing",
+    "meaning": "bài viết, việc viết (n.)",
+    "hint": "His writing is very clear.",
+    "image": "https://live.staticflickr.com/5239/5905866509_355ff74412.jpg"
+  },
+  {
+    "id": 61,
+    "topic": "Level A1 Vocabulary",
+    "word": "Wrong",
+    "meaning": "sai (adj.)",
+    "hint": "That answer is wrong.",
+    "image": "https://live.staticflickr.com/2154/2421967468_c82182fa32.jpg"
+  },
+  {
+    "id": 62,
+    "topic": "Level A1 Vocabulary",
+    "word": "Yeah",
+    "meaning": "vâng (exclam.)",
+    "hint": "Yeah, I agree with you.",
+    "image": "https://live.staticflickr.com/3937/14970383813_3fc93619c0_b.jpg"
+  },
+  {
+    "id": 63,
+    "topic": "Level A1 Vocabulary",
+    "word": "Year",
+    "meaning": "năm (n.)",
+    "hint": "This year is going by fast.",
+    "image": "https://live.staticflickr.com/7073/7350058078_8d28aedce0_b.jpg"
+  },
+  {
+    "id": 64,
+    "topic": "Level A1 Vocabulary",
+    "word": "Yellow",
+    "meaning": "màu vàng (adj., n.)",
+    "hint": "She wore a yellow dress.",
+    "image": "https://live.staticflickr.com/4306/35665102480_d3e3659068_b.jpg"
+  },
+  {
+    "id": 65,
+    "topic": "Level A1 Vocabulary",
+    "word": "Yes",
+    "meaning": "vâng (exclam.)",
+    "hint": "Yes, I can help you.",
+    "image": "https://live.staticflickr.com/7084/7182076168_797527351a_b.jpg"
+  },
+  {
+    "id": 66,
+    "topic": "Level A1 Vocabulary",
+    "word": "Yesterday",
+    "meaning": "hôm qua (adv., n.)",
+    "hint": "I saw him yesterday.",
+    "image": "https://live.staticflickr.com/3239/2861690380_a55a15c8e0_b.jpg"
+  },
+  {
+    "id": 67,
+    "topic": "Level A1 Vocabulary",
+    "word": "You",
+    "meaning": "bạn (pron.)",
+    "hint": "You are very kind.",
+    "image": "https://live.staticflickr.com/3165/2830853287_1b00eb2736_b.jpg"
+  },
+  {
+    "id": 68,
+    "topic": "Level A1 Vocabulary",
+    "word": "Young",
+    "meaning": "trẻ (adj.)",
+    "hint": "He is very young.",
+    "image": "https://live.staticflickr.com/3849/14516455936_fbfe4ff467_b.jpg"
+  },
+  {
+    "id": 69,
+    "topic": "Level A1 Vocabulary",
+    "word": "Your",
+    "meaning": "của bạn (det.)",
+    "hint": "Is this your book?",
+    "image": "https://live.staticflickr.com/8511/8461250876_8ca81c90d6_b.jpg"
+  },
+  {
+    "id": 70,
+    "topic": "Level A1 Vocabulary",
+    "word": "Yourself",
+    "meaning": "bản thân bạn (pron.)",
+    "hint": "Take care of yourself.",
+    "image": "https://live.staticflickr.com/7181/6893965785_a19e721503_b.jpg"
+  }
+]

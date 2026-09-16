@@ -1,0 +1,1130 @@
+[
+  {
+    "id": 1,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "Welcome to",
+    "meaning": "Chào mừng đến với",
+    "hint": "Lời chào đón khách khi họ đến một địa điểm",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800"
+  },
+  {
+    "id": 2,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "prefer to dine out",
+    "meaning": "thích dùng bữa bên ngoài",
+    "hint": "Lựa chọn ăn uống ngoài trời thay vì trong nhà",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+  },
+  {
+    "id": 3,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "on the patio",
+    "meaning": "ngoài sân",
+    "hint": "Khu vực sảnh ngoài trời của nhà hàng hay quán cà phê",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+  },
+  {
+    "id": 4,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "indoors",
+    "meaning": "trong nhà",
+    "hint": "Không gian bên trong gian phòng",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800"
+  },
+  {
+    "id": 5,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "Follow me",
+    "meaning": "Phiền cô theo tôi",
+    "hint": "Lời dẫn đường khách đến vị trí bàn ăn",
+    "image": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=800"
+  },
+  {
+    "id": 6,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "get a bigger table",
+    "meaning": "đặt bàn lớn hơn",
+    "hint": "Yêu cầu bàn ăn có diện tích rộng hơn cho nhiều người",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+  },
+  {
+    "id": 7,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "joining me",
+    "meaning": "đến cùng tôi / tham gia cùng tôi",
+    "hint": "Gặp gỡ và cùng ngồi ăn chung",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 8,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "in a few minutes",
+    "meaning": "trong vài phút nữa",
+    "hint": "Khoảng thời gian rất ngắn sắp tới",
+    "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?w=800"
+  },
+  {
+    "id": 9,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "wait for your friends",
+    "meaning": "đợi bạn mình",
+    "hint": "Chờ đợi bạn bè cùng đến",
+    "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800"
+  },
+  {
+    "id": 10,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "take a look at our menu",
+    "meaning": "xem thực đơn của chúng tôi",
+    "hint": "Mở danh sách các món ăn thức uống ra xem",
+    "image": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?w=800"
+  },
+  {
+    "id": 11,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "Today's specials",
+    "meaning": "Món đặc biệt hôm nay",
+    "hint": "Các món ăn tiêu biểu trong ngày của nhà hàng",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800"
+  },
+  {
+    "id": 12,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "maple waffles",
+    "meaning": "bánh quế phong",
+    "hint": "Loại bánh quế phủ si rô cây phong",
+    "image": "https://images.unsplash.com/photo-1562376552-0d160a2f238d?w=800"
+  },
+  {
+    "id": 13,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "strawberry-mango smoothie",
+    "meaning": "sinh tố dâu tây - xoài",
+    "hint": "Thức uống sinh tố kết hợp quả dâu và xoài",
+    "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=800"
+  },
+  {
+    "id": 14,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "sound great",
+    "meaning": "nghe có vẻ ngon / tuyệt vời",
+    "hint": "Cảm nhận tích cực khi nghe giới thiệu về món ăn",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800"
+  },
+  {
+    "id": 15,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "Just so you know",
+    "meaning": "À vâng / Để bạn biết rằng",
+    "hint": "Cụm từ dùng để cung cấp thêm thông tin",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 16,
+    "topic": "Restaurant Conversation (Scripts)",
+    "word": "selling quickly",
+    "meaning": "bán rất chạy",
+    "hint": "Món ăn đang được mua nhanh chóng với số lượng lớn",
+    "image": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=800"
+  },
+  {
+    "id": 17,
+    "topic": "Questions & Options (Q1)",
+    "word": "most likely",
+    "meaning": "có khả năng cao nhất",
+    "hint": "Dự đoán chuẩn xác nhất dựa theo ngữ cảnh",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800"
+  },
+  {
+    "id": 18,
+    "topic": "Questions & Options (Q1)",
+    "word": "at a farm",
+    "meaning": "ở trang trại",
+    "hint": "Khu vực chăn nuôi nông nghiệp ngoài trời",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800"
+  },
+  {
+    "id": 19,
+    "topic": "Questions & Options (Q1)",
+    "word": "at a restaurant",
+    "meaning": "ở nhà hàng",
+    "hint": "Địa điểm phục vụ các bữa ăn cho khách hàng",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+  },
+  {
+    "id": 20,
+    "topic": "Questions & Options (Q1)",
+    "word": "at a grocery store",
+    "meaning": "ở tiệm tạp hóa",
+    "hint": "Cửa hàng bán đồ ăn và thực phẩm thiết yếu",
+    "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=800"
+  },
+  {
+    "id": 21,
+    "topic": "Questions & Options (Q1)",
+    "word": "at a catering company",
+    "meaning": "tại một công ty dịch vụ tiệc",
+    "hint": "Đơn vị chuyên cung cấp thức ăn cho sự kiện",
+    "image": "https://images.unsplash.com/photo-1555244162-803834f70033?w=800"
+  },
+  {
+    "id": 22,
+    "topic": "Questions & Options (Q2)",
+    "word": "happen soon",
+    "meaning": "sớm xảy ra",
+    "hint": "Sự việc sẽ diễn ra trong thời gian ngắn tới",
+    "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?w=800"
+  },
+  {
+    "id": 23,
+    "topic": "Questions & Options (Q2)",
+    "word": "some friends will join her",
+    "meaning": "một vài người bạn sẽ đến cùng cô ấy",
+    "hint": "Có thêm bạn bè tụ họp chung bàn",
+    "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800"
+  },
+  {
+    "id": 24,
+    "topic": "Questions & Options (Q2)",
+    "word": "apply for a job",
+    "meaning": "ứng tuyển công việc",
+    "hint": "Nộp hồ sơ xin việc làm mới",
+    "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800"
+  },
+  {
+    "id": 25,
+    "topic": "Questions & Options (Q2)",
+    "word": "pay her bill",
+    "meaning": "trả hóa đơn",
+    "hint": "Thanh toán tiền ăn uống cho nhà hàng",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 26,
+    "topic": "Questions & Options (Q2)",
+    "word": "anniversary will be celebrated",
+    "meaning": "một buổi lễ kỷ niệm sẽ được tổ chức",
+    "hint": "Tổ chức sự kiện chào mừng ngày đặc biệt",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=800"
+  },
+  {
+    "id": 27,
+    "topic": "Questions & Options (Q3)",
+    "word": "imply when he says",
+    "meaning": "ngụ ý gì khi nói",
+    "hint": "Ý nghĩa gián tiếp ẩn sau câu nói của nhân vật",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 28,
+    "topic": "Questions & Options (Q3)",
+    "word": "item may be unavailable soon",
+    "meaning": "một mặt hàng có thể sớm hết hàng",
+    "hint": "Món ăn sắp hết do bán quá nhanh",
+    "image": "https://images.unsplash.com/photo-1525785967371-87ba5459e5b3?w=800"
+  },
+  {
+    "id": 29,
+    "topic": "Questions & Options (Q3)",
+    "word": "item is not expensive",
+    "meaning": "một mặt hàng không đắt tiền",
+    "hint": "Món ăn có mức giá vừa phải, bình dân",
+    "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800"
+  },
+  {
+    "id": 30,
+    "topic": "Questions & Options (Q3)",
+    "word": "delivery should be made immediately",
+    "meaning": "việc giao hàng nên được thực hiện ngay lập tức",
+    "hint": "Yêu cầu mang thức ăn/hàng hóa đến ngay",
+    "image": "https://images.unsplash.com/photo-1526367790999-0150786686a2?w=800"
+  },
+  {
+    "id": 31,
+    "topic": "Questions & Options (Q3)",
+    "word": "some help will be needed",
+    "meaning": "một chút giúp đỡ sẽ cần thiết",
+    "hint": "Cần thêm sự hỗ trợ từ người khác",
+    "image": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=800"
+  },
+  {
+    "id": 32,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "Builders Trade Show",
+    "meaning": "Chương trình Trao đổi Công nhân / Triển lãm Thương mại Xây dựng",
+    "hint": "Sự kiện triển lãm giới thiệu ngành xây dựng",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800"
+  },
+  {
+    "id": 33,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "extremely interesting",
+    "meaning": "cực kỳ thú vị",
+    "hint": "Cảm giác rất thu hút và hấp dẫn",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 34,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "glad that",
+    "meaning": "vui mừng vì",
+    "hint": "Cảm giác hài lòng về một quyết định",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 35,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "decided to send us",
+    "meaning": "quyết định cử chúng ta đi",
+    "hint": "Lãnh đạo phân công nhân viên đi công tác",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800"
+  },
+  {
+    "id": 36,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "construction business",
+    "meaning": "việc kinh doanh xây dựng",
+    "hint": "Doanh nghiệp trong lĩnh vực thi công công trình",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800"
+  },
+  {
+    "id": 37,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "benefit a lot from",
+    "meaning": "có lợi rất nhiều từ",
+    "hint": "Thu nhận được nhiều giá trị và hiệu quả",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 38,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "helpful information",
+    "meaning": "thông tin hữu ích",
+    "hint": "Dữ liệu có giá trị tham khảo tốt",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 39,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "look at this booth",
+    "meaning": "nhìn gian hàng / buồng này",
+    "hint": "Quan sát gian hàng trưng bày sản phẩm",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800"
+  },
+  {
+    "id": 40,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "textile concrete",
+    "meaning": "bê tông cốt sợi",
+    "hint": "Vật liệu bê tông gia cường sợi dệt",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800"
+  },
+  {
+    "id": 41,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "answer any questions",
+    "meaning": "trả lời bất kỳ câu hỏi nào",
+    "hint": "Giải đáp thắc mắc của khách hàng",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 42,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "sales team",
+    "meaning": "nhóm kinh doanh",
+    "hint": "Bộ phận phụ trách bán hàng của công ty",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 43,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "Innovative Construction Materials",
+    "meaning": "Vật liệu Xây dựng Sáng tạo",
+    "hint": "Tên công ty phát triển vật liệu mới",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800"
+  },
+  {
+    "id": 44,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "Never heard of it",
+    "meaning": "Tôi chưa từng nghe đến nó",
+    "hint": "Thừa nhận chưa có thông tin về khái niệm này",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 45,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "lighter",
+    "meaning": "nhẹ hơn",
+    "hint": "Trọng lượng bé hơn so với thông thường",
+    "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?w=800"
+  },
+  {
+    "id": 46,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "less expensive to make",
+    "meaning": "chi phí chế tạo cũng rẻ hơn",
+    "hint": "Tốn ít chi phí sản xuất hơn",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 47,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "much stronger",
+    "meaning": "chắc hơn nhiều",
+    "hint": "Độ bền và khả năng chịu lực vượt trội",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800"
+  },
+  {
+    "id": 48,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "regular reinforced concrete",
+    "meaning": "bê tông cốt thép thông thường",
+    "hint": "Vật liệu bê tông gia cố thép truyền thống",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800"
+  },
+  {
+    "id": 49,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "product demonstration",
+    "meaning": "buổi giới thiệu / trình diễn sản phẩm",
+    "hint": "Hoạt động dùng thử và minh họa tính năng sản phẩm",
+    "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=800"
+  },
+  {
+    "id": 50,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "conference call",
+    "meaning": "hội thảo qua điện thoại / cuộc gọi hội nghị",
+    "hint": "Cuộc họp qua mạng hoặc điện thoại với nhiều bên",
+    "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=800"
+  },
+  {
+    "id": 51,
+    "topic": "Construction Trade Show (Scripts)",
+    "word": "should attend",
+    "meaning": "nên tham dự",
+    "hint": "Lời khuyên nên có mặt tại sự kiện",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800"
+  },
+  {
+    "id": 52,
+    "topic": "Questions & Options (Q4)",
+    "word": "construction company",
+    "meaning": "công ty xây dựng",
+    "hint": "Doanh nghiệp hoạt động trong ngành xây dựng",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800"
+  },
+  {
+    "id": 53,
+    "topic": "Questions & Options (Q4)",
+    "word": "automotive factory",
+    "meaning": "nhà máy ô tô",
+    "hint": "Xưởng sản xuất và lắp ráp xe hơi",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 54,
+    "topic": "Questions & Options (Q4)",
+    "word": "chemical plant",
+    "meaning": "nhà máy hóa chất",
+    "hint": "Cơ sở chế biến và sản xuất hợp chất hóa học",
+    "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=800"
+  },
+  {
+    "id": 55,
+    "topic": "Questions & Options (Q4)",
+    "word": "interior design firm",
+    "meaning": "công ty thiết kế nội thất",
+    "hint": "Đơn vị chuyên trang trí không gian bên trong nhà",
+    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=800"
+  },
+  {
+    "id": 56,
+    "topic": "Questions & Options (Q5)",
+    "word": "man's job",
+    "meaning": "nghề nghiệp của người đàn ông",
+    "hint": "Vị trí công việc người nam đảm nhận",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800"
+  },
+  {
+    "id": 57,
+    "topic": "Questions & Options (Q5)",
+    "word": "warehouse manager",
+    "meaning": "quản lý kho",
+    "hint": "Người giám sát kho hàng và hàng hóa",
+    "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800"
+  },
+  {
+    "id": 58,
+    "topic": "Questions & Options (Q5)",
+    "word": "computer engineer",
+    "meaning": "kỹ sư máy tính",
+    "hint": "Chuyên gia phát triển phần cứng hoặc phần mềm",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800"
+  },
+  {
+    "id": 59,
+    "topic": "Questions & Options (Q5)",
+    "word": "sales representative",
+    "meaning": "đại diện bán hàng / nhân viên kinh doanh",
+    "hint": "Người phụ trách tiếp thị và giới thiệu sản phẩm",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 60,
+    "topic": "Questions & Options (Q5)",
+    "word": "building",
+    "meaning": "xây dựng / tòa nhà",
+    "hint": "Lĩnh vực kiến trúc hoặc công trình",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800"
+  },
+  {
+    "id": 61,
+    "topic": "Questions & Options (Q6)",
+    "word": "plan to do",
+    "meaning": "có kế hoạch làm gì",
+    "hint": "Dự định thực hiện hành động trong tương lai",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 62,
+    "topic": "Questions & Options (Q6)",
+    "word": "in the afternoon",
+    "meaning": "vào buổi chiều",
+    "hint": "Khoảng thời gian từ sau giữa trưa đến chiều tối",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800"
+  },
+  {
+    "id": 63,
+    "topic": "Questions & Options (Q6)",
+    "word": "finalize a contract",
+    "meaning": "hoàn tất hợp đồng",
+    "hint": "Ký kết chốt các điều khoản văn bản thỏa thuận",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800"
+  },
+  {
+    "id": 64,
+    "topic": "Questions & Options (Q6)",
+    "word": "watch a demonstration",
+    "meaning": "xem một cuộc giới thiệu / trình diễn",
+    "hint": "Theo dõi phần minh họa sử dụng sản phẩm",
+    "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=800"
+  },
+  {
+    "id": 65,
+    "topic": "Questions & Options (Q6)",
+    "word": "visit a property",
+    "meaning": "ghé thăm một cơ sở kinh doanh / bất động sản",
+    "hint": "Đến quan sát địa điểm hay công trình thực tế",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
+  },
+  {
+    "id": 66,
+    "topic": "Questions & Options (Q6)",
+    "word": "meet with potential investors",
+    "meaning": "gặp gỡ nhà đầu tư tiềm năng",
+    "hint": "Trao đổi cùng người có khả năng rót vốn",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800"
+  },
+  {
+    "id": 67,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "manager",
+    "meaning": "quản lý",
+    "hint": "Người điều hành hoạt động tại cửa hàng",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800"
+  },
+  {
+    "id": 68,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "How can I help you today?",
+    "meaning": "Cô có cần giúp đỡ gì không nhỉ?",
+    "hint": "Lời đề nghị hỗ trợ khách hàng",
+    "image": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=800"
+  },
+  {
+    "id": 69,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "bought an office building nearby",
+    "meaning": "mua một tòa nhà văn phòng gần đây",
+    "hint": "Sở hữu bất động sản thương mại ở khu vực lân cận",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
+  },
+  {
+    "id": 70,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "planning to have all the interior walls repainted",
+    "meaning": "đang định sơn lại tất cả các bức tường bên trong",
+    "hint": "Kế hoạch cải tạo màu sơn không gian bên trong tòa nhà",
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800"
+  },
+  {
+    "id": 71,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "Welcome to the neighborhood!",
+    "meaning": "Chào mừng đến với khu phố này nha!",
+    "hint": "Lời chào đón cư dân hoặc doanh nghiệp mới tới khu vực",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+  },
+  {
+    "id": 72,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "decided on a color for your walls",
+    "meaning": "quyết định màu sơn tường",
+    "hint": "Lựa chọn tông màu thích hợp cho bức tường",
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800"
+  },
+  {
+    "id": 73,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "Not yet",
+    "meaning": "Vẫn chưa",
+    "hint": "Trạng thái chưa hoàn thành hoặc chưa lựa chọn",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 74,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "hoping you would have some samples",
+    "meaning": "hi vọng anh có một số mẫu thử",
+    "hint": "Mong muốn xem qua các mẫu màu sơn thực tế",
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800"
+  },
+  {
+    "id": 75,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "mobile phone application",
+    "meaning": "ứng dụng điện thoại di động",
+    "hint": "Phần mềm cài đặt trên thiết bị thông minh",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800"
+  },
+  {
+    "id": 76,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "find useful",
+    "meaning": "thấy hữu ích",
+    "hint": "Đánh giá một công cụ có lợi cho công việc",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 77,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "visualize what your office will look like",
+    "meaning": "hình dung văn phòng của mình sẽ trông ra sao",
+    "hint": "Mô phỏng hình ảnh trực quan của không gian",
+    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=800"
+  },
+  {
+    "id": 78,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "different-colored walls",
+    "meaning": "tường màu khác nhau",
+    "hint": "Các bức tường được trang trí nhiều tông màu riêng biệt",
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800"
+  },
+  {
+    "id": 79,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "take a picture of the space",
+    "meaning": "chụp ảnh không gian",
+    "hint": "Ghi lại hình ảnh quang cảnh căn phòng",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800"
+  },
+  {
+    "id": 80,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "upload it to the app",
+    "meaning": "tải nó lên ứng dụng",
+    "hint": "Đưa tệp hình ảnh lên phần mềm hệ thống",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800"
+  },
+  {
+    "id": 81,
+    "topic": "Paint Store Conversation (Scripts)",
+    "word": "prompted to enter different color codes",
+    "meaning": "được gợi ý nhập các mã màu khác nhau",
+    "hint": "Hệ thống nhắc nhở điền số hiệu màu sắc",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800"
+  },
+  {
+    "id": 82,
+    "topic": "Questions & Options (Q7)",
+    "word": "art gallery owner",
+    "meaning": "chủ triển lãm nghệ thuật",
+    "hint": "Người sở hữu không gian trưng bày tác phẩm hội họa",
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=800"
+  },
+  {
+    "id": 83,
+    "topic": "Questions & Options (Q7)",
+    "word": "store manager",
+    "meaning": "quản lý cửa hàng",
+    "hint": "Người đứng đầu và điều hành cửa hàng",
+    "image": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=800"
+  },
+  {
+    "id": 84,
+    "topic": "Questions & Options (Q7)",
+    "word": "hair stylist",
+    "meaning": "nhà tạo mẫu tóc",
+    "hint": "Chuyên gia làm đẹp và cắt tóc",
+    "image": "https://images.unsplash.com/photo-1562322140-8baeececf3df?w=800"
+  },
+  {
+    "id": 85,
+    "topic": "Questions & Options (Q7)",
+    "word": "real estate agent",
+    "meaning": "đại lý bất động sản / môi giới nhà đất",
+    "hint": "Người tư vấn và hỗ trợ mua bán nhà đất",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800"
+  },
+  {
+    "id": 86,
+    "topic": "Questions & Options (Q8)",
+    "word": "visited some relatives",
+    "meaning": "đến thăm họ hàng",
+    "hint": "Đi thăm những người thân trong gia đình",
+    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800"
+  },
+  {
+    "id": 87,
+    "topic": "Questions & Options (Q8)",
+    "word": "received a raise",
+    "meaning": "được tăng lương",
+    "hint": "Nhận mức thu nhập cao hơn trong công việc",
+    "image": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=800"
+  },
+  {
+    "id": 88,
+    "topic": "Questions & Options (Q8)",
+    "word": "gave a presentation",
+    "meaning": "đã thuyết trình",
+    "hint": "Trình bày thông tin trước tập thể",
+    "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800"
+  },
+  {
+    "id": 89,
+    "topic": "Questions & Options (Q8)",
+    "word": "purchased a building",
+    "meaning": "đã mua một tòa nhà",
+    "hint": "Thực hiện giao dịch sở hữu công trình kiến trúc",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800"
+  },
+  {
+    "id": 90,
+    "topic": "Questions & Options (Q9)",
+    "word": "recommend doing",
+    "meaning": "đề xuất làm gì",
+    "hint": "Gợi ý hành động nên thực hiện",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 91,
+    "topic": "Questions & Options (Q9)",
+    "word": "postponing a project",
+    "meaning": "hoãn một dự án",
+    "hint": "Tạm dừng tiến độ công việc sang thời gian khác",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 92,
+    "topic": "Questions & Options (Q9)",
+    "word": "using a mobile phone application",
+    "meaning": "sử dụng một ứng dụng điện thoại di động",
+    "hint": "Dùng phần mềm trên smartphone để hỗ trợ",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800"
+  },
+  {
+    "id": 93,
+    "topic": "Questions & Options (Q9)",
+    "word": "creating some promotional flyers",
+    "meaning": "làm một số tờ rơi quảng cáo",
+    "hint": "In ấn tài liệu truyền thông tiếp thị",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800"
+  },
+  {
+    "id": 94,
+    "topic": "Questions & Options (Q9)",
+    "word": "ordering some name tags",
+    "meaning": "sắp xếp / đặt mua một số thẻ tên",
+    "hint": "Đặt làm bảng tên đeo ngực cho nhân sự",
+    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800"
+  },
+  {
+    "id": 95,
+    "topic": "Video Editing Conversation (Scripts)",
+    "word": "add music to the video",
+    "meaning": "thêm nhạc vào video",
+    "hint": "Chèn thêm giai điệu âm thanh vào tệp video",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800"
+  },
+  {
+    "id": 96,
+    "topic": "Video Editing Conversation (Scripts)",
+    "word": "uploaded",
+    "meaning": "đã tải lên",
+    "hint": "Đã đưa tệp dữ liệu lên hệ thống mạng",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800"
+  },
+  {
+    "id": 97,
+    "topic": "Video Editing Conversation (Scripts)",
+    "word": "video file wouldn't open",
+    "meaning": "tệp video lại không mở được",
+    "hint": "Sự cố kỹ thuật khiến tệp hình ảnh không hiển thị",
+    "image": "https://images.unsplash.com/photo-1525785967371-87ba5459e5b3?w=800"
+  },
+  {
+    "id": 98,
+    "topic": "Video Editing Conversation (Scripts)",
+    "word": "something wrong with it",
+    "meaning": "nó bị sao nữa / có rắc rối gì đó",
+    "hint": "Trạng thái bị lỗi hoặc hỏng hóc",
+    "image": "https://images.unsplash.com/photo-1525785967371-87ba5459e5b3?w=800"
+  },
+  {
+    "id": 99,
+    "topic": "Video Editing Conversation (Scripts)",
+    "word": "promotional video",
+    "meaning": "video dùng để quảng cáo",
+    "hint": "Phim ngắn phục vụ mục đích truyền thông tiếp thị",
+    "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800"
+  },
+  {
+    "id": 100,
+    "topic": "Video Editing Conversation (Scripts)",
+    "word": "odd that it's not working",
+    "meaning": "Lạ nhỉ khi nó không hoạt động",
+    "hint": "Bất ngờ trước sự cố lỗi hệ thống",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 101,
+    "topic": "Video Editing Conversation (Scripts)",
+    "word": "got an e-mail earlier",
+    "meaning": "đã nhận được e-mail trước đó",
+    "hint": "Đã nhận được thư điện tử từ trước",
+    "image": "https://images.unsplash.com/photo-1596526131083-e8c633c948d2?w=800"
+  },
+  {
+    "id": 102,
+    "topic": "Video Editing Conversation (Scripts)",
+    "word": "about to answer it",
+    "meaning": "đang định trả lời email đó",
+    "hint": "Sắp thực hiện thao tác gửi thư phản hồi",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800"
+  },
+  {
+    "id": 103,
+    "topic": "Video Editing Conversation (Scripts)",
+    "word": "send another copy of the file",
+    "meaning": "gửi một bản khác của tệp",
+    "hint": "Chuyển lại bản sao dữ liệu mới",
+    "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800"
+  },
+  {
+    "id": 104,
+    "topic": "Video Editing Conversation (Scripts)",
+    "word": "finish the video by Friday",
+    "meaning": "hoàn thành video đó trước thứ Sáu",
+    "hint": "Chốt thời hạn hoàn thiện dự án phim",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 105,
+    "topic": "Video Editing Conversation (Scripts)",
+    "word": "annual Cultural Festival",
+    "meaning": "Lễ hội Văn hóa thường niên",
+    "hint": "Sự kiện văn hóa diễn ra mỗi năm một lần",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=800"
+  },
+  {
+    "id": 106,
+    "topic": "Video Editing Conversation (Scripts)",
+    "word": "this weekend",
+    "meaning": "vào cuối tuần này",
+    "hint": "Khoảng thời gian thứ Bảy và Chủ Nhật sắp tới",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800"
+  },
+  {
+    "id": 107,
+    "topic": "Video Editing Conversation (Scripts)",
+    "word": "planning to debut it there",
+    "meaning": "có kế hoạch cho ra mắt nó ở đó",
+    "hint": "Dự định công chiếu sản phẩm lần đầu tiên",
+    "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800"
+  },
+  {
+    "id": 108,
+    "topic": "Questions & Options (Q10)",
+    "word": "problem mainly discussing",
+    "meaning": "vấn đề chủ yếu bàn luận",
+    "hint": "Nội dung rắc rối chính đang được thảo luận",
+    "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800"
+  },
+  {
+    "id": 109,
+    "topic": "Questions & Options (Q10)",
+    "word": "event venue is unavailable",
+    "meaning": "địa điểm sự kiện không có sẵn",
+    "hint": "Nơi tổ chức chương trình không thể sử dụng",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800"
+  },
+  {
+    "id": 110,
+    "topic": "Questions & Options (Q10)",
+    "word": "project deadline has passed",
+    "meaning": "thời hạn dự án đã qua",
+    "hint": "Quá hạn hoàn thành công việc đã cam kết",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 111,
+    "topic": "Questions & Options (Q10)",
+    "word": "document contains spelling errors",
+    "meaning": "tài liệu có lỗi chính tả",
+    "hint": "Văn bản bị viết sai từ ngữ ngữ pháp",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800"
+  },
+  {
+    "id": 112,
+    "topic": "Questions & Options (Q10)",
+    "word": "video file is not working",
+    "meaning": "tệp video không hoạt động",
+    "hint": "Tệp phim bị hỏng không thể trình chiếu",
+    "image": "https://images.unsplash.com/photo-1525785967371-87ba5459e5b3?w=800"
+  },
+  {
+    "id": 113,
+    "topic": "Questions & Options (Q11)",
+    "word": "whose e-mail",
+    "meaning": "E-mail của ai",
+    "hint": "Thư điện tử thuộc về cá nhân nào",
+    "image": "https://images.unsplash.com/photo-1596526131083-e8c633c948d2?w=800"
+  },
+  {
+    "id": 114,
+    "topic": "Questions & Options (Q11)",
+    "word": "woman mention",
+    "meaning": "người phụ nữ nhắc đến",
+    "hint": "Đối tượng được nhân vật nữ đề cập trong câu chuyện",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 115,
+    "topic": "Questions & Options (Q12)",
+    "word": "event will happen",
+    "meaning": "sự kiện sẽ diễn ra",
+    "hint": "Chương trình hoạt động sắp tới",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=800"
+  },
+  {
+    "id": 116,
+    "topic": "Questions & Options (Q12)",
+    "word": "local election",
+    "meaning": "cuộc tranh cử địa phương",
+    "hint": "Hoạt động bầu cử các vị trí chính quyền khu vực",
+    "image": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800"
+  },
+  {
+    "id": 117,
+    "topic": "Questions & Options (Q12)",
+    "word": "corporate fund-raiser",
+    "meaning": "sự kiện gây quỹ của công ty",
+    "hint": "Hoạt động quyên góp tiền cho dự án/tổ chức",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 118,
+    "topic": "Questions & Options (Q12)",
+    "word": "city festival",
+    "meaning": "lễ hội thành phố",
+    "hint": "Ngày hội kỷ niệm chung của toàn khu vực đô thị",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=800"
+  },
+  {
+    "id": 119,
+    "topic": "Questions & Options (Q12)",
+    "word": "sports competition",
+    "meaning": "cuộc thi thể thao",
+    "hint": "Giải đấu tranh tài giữa các vận động viên",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800"
+  },
+  {
+    "id": 120,
+    "topic": "Store Order Conversation (Scripts)",
+    "word": "ordered the new shopping bags",
+    "meaning": "đặt túi mua sắm mới",
+    "hint": "Đặt mua túi xách dùng cho khách hàng khi mua sắm",
+    "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=800"
+  },
+  {
+    "id": 121,
+    "topic": "Store Order Conversation (Scripts)",
+    "word": "recently updated our logo",
+    "meaning": "gần đây mới cập nhật logo",
+    "hint": "Thay đổi nhận diện thương hiệu hoặc biểu tượng mới",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800"
+  },
+  {
+    "id": 122,
+    "topic": "Store Order Conversation (Scripts)",
+    "word": "look at our options online",
+    "meaning": "nhìn các lựa chọn của chúng ta trên mạng",
+    "hint": "Tham khảo các mẫu mã sản phẩm trực tuyến",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800"
+  },
+  {
+    "id": 123,
+    "topic": "Store Order Conversation (Scripts)",
+    "word": "large plastic bags",
+    "meaning": "túi nhựa lớn",
+    "hint": "Túi làm bằng chất liệu nilon có kích thước to",
+    "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=800"
+  },
+  {
+    "id": 124,
+    "topic": "Store Order Conversation (Scripts)",
+    "word": "switching to large paper bags",
+    "meaning": "chuyển sang túi giấy lớn",
+    "hint": "Đổi từ túi nilon sang dùng túi chất liệu bằng giấy",
+    "image": "https://images.unsplash.com/photo-1530587191325-3db32d826c18?w=800"
+  },
+  {
+    "id": 125,
+    "topic": "Store Order Conversation (Scripts)",
+    "word": "easier to see",
+    "meaning": "dễ hơn để thấy",
+    "hint": "Rõ ràng hơn để quan sát",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 126,
+    "topic": "Store Order Conversation (Scripts)",
+    "word": "better way to promote our store",
+    "meaning": "việc quảng bá cho cửa hàng của chúng ta cũng tốt hơn",
+    "hint": "Phương pháp truyền thông thương hiệu hiệu quả hơn",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800"
+  },
+  {
+    "id": 127,
+    "topic": "Store Order Conversation (Scripts)",
+    "word": "Good point",
+    "meaning": "Ý hay đó",
+    "hint": "Tán thành với ý kiến hợp lý của người khác",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 128,
+    "topic": "Store Order Conversation (Scripts)",
+    "word": "stock the displays",
+    "meaning": "cho hàng lên trưng bày",
+    "hint": "Sắp xếp hàng hóa ra các kệ trưng bày",
+    "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=800"
+  },
+  {
+    "id": 129,
+    "topic": "Store Order Conversation (Scripts)",
+    "word": "shelves are looking a little empty",
+    "meaning": "các kệ đang trông hơi trống",
+    "hint": "Các giá để hàng không còn nhiều sản phẩm",
+    "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=800"
+  },
+  {
+    "id": 130,
+    "topic": "Questions & Options (Q13)",
+    "word": "recently done",
+    "meaning": "gần đây đã làm",
+    "hint": "Hành động mới thực hiện thời gian qua",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 131,
+    "topic": "Questions & Options (Q13)",
+    "word": "replaced some equipment",
+    "meaning": "thay thế vài thiết bị",
+    "hint": "Đổi mới máy móc thiết bị cũ",
+    "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?w=800"
+  },
+  {
+    "id": 132,
+    "topic": "Questions & Options (Q13)",
+    "word": "updated a company logo",
+    "meaning": "cập nhật logo công ty",
+    "hint": "Chỉnh sửa lại biểu tượng thương hiệu",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800"
+  },
+  {
+    "id": 133,
+    "topic": "Questions & Options (Q13)",
+    "word": "installed a security system",
+    "meaning": "cài đặt một hệ thống an ninh mới",
+    "hint": "Lắp đặt hệ thống camera bảo vệ",
+    "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=800"
+  },
+  {
+    "id": 134,
+    "topic": "Questions & Options (Q13)",
+    "word": "painted some shelving units",
+    "meaning": "sơn một số kệ hàng",
+    "hint": "Sơn lại các kệ để sản phẩm",
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800"
+  },
+  {
+    "id": 135,
+    "topic": "Questions & Options (Q14)",
+    "word": "which item",
+    "meaning": "mặt hàng nào",
+    "hint": "Sản phẩm cụ thể được lựa chọn",
+    "image": "https://images.unsplash.com/photo-1530587191325-3db32d826c18?w=800"
+  },
+  {
+    "id": 136,
+    "topic": "Questions & Options (Q14)",
+    "word": "store order",
+    "meaning": "cửa hàng sẽ đặt",
+    "hint": "Việc đặt mua hàng hóa của cửa hàng",
+    "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=800"
+  },
+  {
+    "id": 137,
+    "topic": "Questions & Options (Q15)",
+    "word": "will do next",
+    "meaning": "sẽ làm gì tiếp theo",
+    "hint": "Hành động sắp sửa tiến hành ngay sau đó",
+    "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?w=800"
+  },
+  {
+    "id": 138,
+    "topic": "Questions & Options (Q15)",
+    "word": "print a receipt",
+    "meaning": "in hóa đơn",
+    "hint": "In giấy chứng nhận thanh toán cho khách",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 139,
+    "topic": "Questions & Options (Q15)",
+    "word": "stock some shelves",
+    "meaning": "bày gian hàng / bổ sung hàng lên kệ",
+    "hint": "Xếp thêm hàng hóa lên kệ trưng bày",
+    "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=800"
+  },
+  {
+    "id": 140,
+    "topic": "Questions & Options (Q15)",
+    "word": "finalize a schedule",
+    "meaning": "hoàn thành lịch trình",
+    "hint": "Chốt thời gian làm việc chính thức",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 141,
+    "topic": "Questions & Options (Q15)",
+    "word": "find a credit card",
+    "meaning": "tìm thẻ tín dụng",
+    "hint": "Đi tìm lại thẻ thanh toán ngân hàng",
+    "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800"
+  }
+]

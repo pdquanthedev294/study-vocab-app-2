@@ -1,0 +1,1946 @@
+[
+  {
+    "id": 1,
+    "topic": "Level A1 Vocabulary",
+    "word": "picture",
+    "meaning": "bức tranh (n.)",
+    "hint": "I like this picture.",
+    "image": "https://live.staticflickr.com/6004/6017642048_60a740ea8e_b.jpg"
+  },
+  {
+    "id": 2,
+    "topic": "Level A1 Vocabulary",
+    "word": "piece",
+    "meaning": "mảnh, miếng (n.)",
+    "hint": "Can I have a piece of cake?",
+    "image": "https://live.staticflickr.com/7192/14051239812_3a1f28e9de_b.jpg"
+  },
+  {
+    "id": 3,
+    "topic": "Level A1 Vocabulary",
+    "word": "pig",
+    "meaning": "con heo (n.)",
+    "hint": "The pig is in the pen.",
+    "image": "https://live.staticflickr.com/6144/5920147794_27cdd3ff45_b.jpg"
+  },
+  {
+    "id": 4,
+    "topic": "Level A1 Vocabulary",
+    "word": "pink",
+    "meaning": "màu hồng (adj., n.)",
+    "hint": "She wore a pink dress.",
+    "image": "https://live.staticflickr.com/3024/2860093801_e812e634d4_b.jpg"
+  },
+  {
+    "id": 5,
+    "topic": "Level A1 Vocabulary",
+    "word": "place",
+    "meaning": "nơi chốn (n.)",
+    "hint": "This is a nice place.",
+    "image": "https://live.staticflickr.com/5533/14122287790_8c4ab00125_b.jpg"
+  },
+  {
+    "id": 6,
+    "topic": "Level A1 Vocabulary",
+    "word": "plan",
+    "meaning": "kế hoạch, lên kế hoạch (n., v.)",
+    "hint": "We need to plan our trip.",
+    "image": "https://live.staticflickr.com/39/122469223_7bb85274a7_b.jpg"
+  },
+  {
+    "id": 7,
+    "topic": "Level A1 Vocabulary",
+    "word": "plane",
+    "meaning": "máy bay (n.)",
+    "hint": "The plane is taking off.",
+    "image": "https://live.staticflickr.com/1108/543886960_04fd553ba3.jpg"
+  },
+  {
+    "id": 8,
+    "topic": "Level A1 Vocabulary",
+    "word": "plant",
+    "meaning": "cây trồng (n.)",
+    "hint": "She watered the plant.",
+    "image": "https://live.staticflickr.com/7046/8688450328_1f716ceb7f_b.jpg"
+  },
+  {
+    "id": 9,
+    "topic": "Level A1 Vocabulary",
+    "word": "play",
+    "meaning": "chơi, vở kịch (v., n.)",
+    "hint": "The children love to play.",
+    "image": "https://live.staticflickr.com/22/28113864_dcf152cd8b_b.jpg"
+  },
+  {
+    "id": 10,
+    "topic": "Level A1 Vocabulary",
+    "word": "player",
+    "meaning": "người chơi (n.)",
+    "hint": "He is a good player.",
+    "image": "https://live.staticflickr.com/2914/13992521580_11a4b755bd_b.jpg"
+  },
+  {
+    "id": 11,
+    "topic": "Level A1 Vocabulary",
+    "word": "please",
+    "meaning": "làm ơn (exclam.)",
+    "hint": "Please help me.",
+    "image": "https://live.staticflickr.com/3780/14071874157_1fdac41fa9_b.jpg"
+  },
+  {
+    "id": 12,
+    "topic": "Level A1 Vocabulary",
+    "word": "point",
+    "meaning": "điểm (n.)",
+    "hint": "What is the point of this exercise?",
+    "image": "https://live.staticflickr.com/3544/3781765732_ecd4f7e119_b.jpg"
+  },
+  {
+    "id": 13,
+    "topic": "Level A1 Vocabulary",
+    "word": "police",
+    "meaning": "cảnh sát (n.)",
+    "hint": "The police are investigating.",
+    "image": "https://live.staticflickr.com/3034/2934419412_b05da41368.jpg"
+  },
+  {
+    "id": 14,
+    "topic": "Level A1 Vocabulary",
+    "word": "policeman",
+    "meaning": "cảnh sát (nam) (n.)",
+    "hint": "The policeman is on duty.",
+    "image": "https://live.staticflickr.com/5046/5643465733_d2627f3e72_b.jpg"
+  },
+  {
+    "id": 15,
+    "topic": "Level A1 Vocabulary",
+    "word": "pool",
+    "meaning": "bể bơi (n.)",
+    "hint": "They swam in the pool.",
+    "image": "https://live.staticflickr.com/44/137068485_6b76d225ee_b.jpg"
+  },
+  {
+    "id": 16,
+    "topic": "Level A1 Vocabulary",
+    "word": "poor",
+    "meaning": "nghèo (adj.)",
+    "hint": "They are poor but happy.",
+    "image": "https://live.staticflickr.com/7473/15893297987_50ca84d6e7_b.jpg"
+  },
+  {
+    "id": 17,
+    "topic": "Level A1 Vocabulary",
+    "word": "popular",
+    "meaning": "phổ biến (adj.)",
+    "hint": "She is very popular in school.",
+    "image": "https://live.staticflickr.com/1914/45333877592_2b5ed82f51_b.jpg"
+  },
+  {
+    "id": 18,
+    "topic": "Level A1 Vocabulary",
+    "word": "positive",
+    "meaning": "tích cực (adj.)",
+    "hint": "He has a positive attitude.",
+    "image": "https://live.staticflickr.com/3028/2781683852_e49e8d0ba2_m.jpg"
+  },
+  {
+    "id": 19,
+    "topic": "Level A1 Vocabulary",
+    "word": "possible",
+    "meaning": "có thể (adj.)",
+    "hint": "Is it possible to finish by tomorrow?",
+    "image": "https://live.staticflickr.com/3483/3842815564_638f380b67_b.jpg"
+  },
+  {
+    "id": 20,
+    "topic": "Level A1 Vocabulary",
+    "word": "post",
+    "meaning": "bưu kiện, đăng (n., v.)",
+    "hint": "Did you post the letter?",
+    "image": "https://live.staticflickr.com/1464/24310667322_df1667df93_b.jpg"
+  },
+  {
+    "id": 21,
+    "topic": "Level A1 Vocabulary",
+    "word": "potato",
+    "meaning": "khoai tây (n.)",
+    "hint": "She baked a potato.",
+    "image": "https://live.staticflickr.com/7018/6762195603_1fcb006a42_b.jpg"
+  },
+  {
+    "id": 22,
+    "topic": "Level A1 Vocabulary",
+    "word": "pound",
+    "meaning": "bảng Anh (n.)",
+    "hint": "The book costs ten pounds.",
+    "image": "https://live.staticflickr.com/6010/5929545825_be9e096f4f_b.jpg"
+  },
+  {
+    "id": 23,
+    "topic": "Level A1 Vocabulary",
+    "word": "practice",
+    "meaning": "luyện tập (n.)",
+    "hint": "He needs more practice.",
+    "image": "https://live.staticflickr.com/3617/3629129074_48f554ed7b_b.jpg"
+  },
+  {
+    "id": 24,
+    "topic": "Level A1 Vocabulary",
+    "word": "practise",
+    "meaning": "thực hành (v.)",
+    "hint": "She practises the piano every day.",
+    "image": "https://live.staticflickr.com/7057/6941931511_b7f65fd56b_b.jpg"
+  },
+  {
+    "id": 25,
+    "topic": "Level A1 Vocabulary",
+    "word": "prefer",
+    "meaning": "thích hơn (v.)",
+    "hint": "I prefer tea to coffee.",
+    "image": "https://live.staticflickr.com/3365/3278939940_17929d9431_b.jpg"
+  },
+  {
+    "id": 26,
+    "topic": "Level A1 Vocabulary",
+    "word": "prepare",
+    "meaning": "chuẩn bị (v.)",
+    "hint": "She prepared dinner.",
+    "image": "https://live.staticflickr.com/567/22153889942_6a5d8661ab_b.jpg"
+  },
+  {
+    "id": 27,
+    "topic": "Level A1 Vocabulary",
+    "word": "present",
+    "meaning": "hiện tại, món quà (adj., n.)",
+    "hint": "She gave him a present.",
+    "image": "https://live.staticflickr.com/9/69095307_94cb82d0b9_b.jpg"
+  },
+  {
+    "id": 28,
+    "topic": "Level A1 Vocabulary",
+    "word": "pretty",
+    "meaning": "xinh đẹp, khá (adj., adv.)",
+    "hint": "She is pretty.",
+    "image": "https://live.staticflickr.com/5562/14436035657_e6134acdfa_b.jpg"
+  },
+  {
+    "id": 29,
+    "topic": "Level A1 Vocabulary",
+    "word": "price",
+    "meaning": "giá (n.)",
+    "hint": "The price is too high.",
+    "image": "https://live.staticflickr.com/4131/4996280833_4c44b864db_b.jpg"
+  },
+  {
+    "id": 30,
+    "topic": "Level A1 Vocabulary",
+    "word": "probably",
+    "meaning": "có lẽ (adv.)",
+    "hint": "He will probably come.",
+    "image": "https://live.staticflickr.com/65535/51911621149_bfe10078c1_b.jpg"
+  },
+  {
+    "id": 31,
+    "topic": "Level A1 Vocabulary",
+    "word": "problem",
+    "meaning": "vấn đề (n.)",
+    "hint": "There is a problem with the car.",
+    "image": "https://live.staticflickr.com/3312/3272274144_6b7b76210e_b.jpg"
+  },
+  {
+    "id": 32,
+    "topic": "Level A1 Vocabulary",
+    "word": "product",
+    "meaning": "sản phẩm (n.)",
+    "hint": "This is our latest product.",
+    "image": "https://live.staticflickr.com/4129/5029244236_80062e87eb_b.jpg"
+  },
+  {
+    "id": 33,
+    "topic": "Level A1 Vocabulary",
+    "word": "programme",
+    "meaning": "chương trình (n.)",
+    "hint": "I watched a TV programme.",
+    "image": "https://live.staticflickr.com/8388/8553577856_18e90b60b5_b.jpg"
+  },
+  {
+    "id": 34,
+    "topic": "Level A1 Vocabulary",
+    "word": "project",
+    "meaning": "dự án (n.)",
+    "hint": "They are working on a new project.",
+    "image": "https://live.staticflickr.com/4041/4616563436_55b123effa_b.jpg"
+  },
+  {
+    "id": 35,
+    "topic": "Level A1 Vocabulary",
+    "word": "purple",
+    "meaning": "màu tím (adj., n.)",
+    "hint": "She wore a purple dress.",
+    "image": "https://live.staticflickr.com/5266/5780128884_a7ed9b8816_b.jpg"
+  },
+  {
+    "id": 36,
+    "topic": "Level A1 Vocabulary",
+    "word": "put",
+    "meaning": "đặt, để (v.)",
+    "hint": "Put the book on the table.",
+    "image": "https://live.staticflickr.com/3766/9727478928_34b0f1b93d_b.jpg"
+  },
+  {
+    "id": 37,
+    "topic": "Level A1 Vocabulary",
+    "word": "quarter",
+    "meaning": "một phần tư, 15 phút (n.)",
+    "hint": "It's a quarter past three.",
+    "image": "https://live.staticflickr.com/2864/8982107461_cbb7e4b62a_b.jpg"
+  },
+  {
+    "id": 38,
+    "topic": "Level A1 Vocabulary",
+    "word": "question",
+    "meaning": "câu hỏi (n.)",
+    "hint": "Do you have a question?",
+    "image": "https://live.staticflickr.com/4002/4306369924_84a07e2b7c_b.jpg"
+  },
+  {
+    "id": 39,
+    "topic": "Level A1 Vocabulary",
+    "word": "quick",
+    "meaning": "nhanh (adj.)",
+    "hint": "He made a quick decision.",
+    "image": "https://live.staticflickr.com/7622/16641825714_d512cd6e34_b.jpg"
+  },
+  {
+    "id": 40,
+    "topic": "Level A1 Vocabulary",
+    "word": "quickly",
+    "meaning": "nhanh chóng (adv.)",
+    "hint": "She finished her work quickly.",
+    "image": "https://live.staticflickr.com/2434/3895293635_bb12e6d720.jpg"
+  },
+  {
+    "id": 41,
+    "topic": "Level A1 Vocabulary",
+    "word": "quiet",
+    "meaning": "yên lặng (adj.)",
+    "hint": "The room is very quiet.",
+    "image": "https://live.staticflickr.com/7479/16099036658_7e0594941f_b.jpg"
+  },
+  {
+    "id": 42,
+    "topic": "Level A1 Vocabulary",
+    "word": "quite",
+    "meaning": "khá (adv.)",
+    "hint": "The movie was quite good.",
+    "image": "https://live.staticflickr.com/38/76738710_0b864eeca3_b.jpg"
+  },
+  {
+    "id": 43,
+    "topic": "Level A1 Vocabulary",
+    "word": "radio",
+    "meaning": "đài phát thanh (n.)",
+    "hint": "I listen to the radio every morning.",
+    "image": "https://live.staticflickr.com/7110/7556290996_e0cfa23c64_b.jpg"
+  },
+  {
+    "id": 44,
+    "topic": "Level A1 Vocabulary",
+    "word": "rain",
+    "meaning": "mưa (n., v.)",
+    "hint": "It started to rain.",
+    "image": "https://live.staticflickr.com/3906/14674848444_e04aeab462_b.jpg"
+  },
+  {
+    "id": 45,
+    "topic": "Level A1 Vocabulary",
+    "word": "read",
+    "meaning": "đọc (v.)",
+    "hint": "I like to read books.",
+    "image": "https://live.staticflickr.com/5/10571972_09b0857aee.jpg"
+  },
+  {
+    "id": 46,
+    "topic": "Level A1 Vocabulary",
+    "word": "reader",
+    "meaning": "người đọc (n.)",
+    "hint": "She is an avid reader.",
+    "image": "https://live.staticflickr.com/7013/6486005213_aee935ce5b_b.jpg"
+  },
+  {
+    "id": 47,
+    "topic": "Level A1 Vocabulary",
+    "word": "reading",
+    "meaning": "việc đọc (n.)",
+    "hint": "Reading is my hobby.",
+    "image": "https://live.staticflickr.com/5/10571972_09b0857aee.jpg"
+  },
+  {
+    "id": 48,
+    "topic": "Level A1 Vocabulary",
+    "word": "ready",
+    "meaning": "sẵn sàng (adj.)",
+    "hint": "Are you ready to go?",
+    "image": "https://live.staticflickr.com/2934/14494363159_4f12857b6d_b.jpg"
+  },
+  {
+    "id": 49,
+    "topic": "Level A1 Vocabulary",
+    "word": "real",
+    "meaning": "thật, thực tế (adj.)",
+    "hint": "This is a real diamond.",
+    "image": "https://live.staticflickr.com/4055/4466779316_4056aca1a8_b.jpg"
+  },
+  {
+    "id": 50,
+    "topic": "Level A1 Vocabulary",
+    "word": "really",
+    "meaning": "thật sự (adv.)",
+    "hint": "I really like this song.",
+    "image": "https://live.staticflickr.com/7355/9307745642_76c34a35c9_b.jpg"
+  },
+  {
+    "id": 51,
+    "topic": "Level A1 Vocabulary",
+    "word": "reason",
+    "meaning": "lý do (n.)",
+    "hint": "What is the reason for your absence?",
+    "image": "https://live.staticflickr.com/3044/2353092517_b4d7fe91a8_b.jpg"
+  },
+  {
+    "id": 52,
+    "topic": "Level A1 Vocabulary",
+    "word": "red",
+    "meaning": "đỏ, màu đỏ (adj., n.)",
+    "hint": "She bought a red dress.",
+    "image": "https://live.staticflickr.com/3590/3392121459_4c48bc7356_b.jpg"
+  },
+  {
+    "id": 53,
+    "topic": "Level A1 Vocabulary",
+    "word": "relax",
+    "meaning": "thư giãn (v.)",
+    "hint": "She likes to relax on the beach.",
+    "image": "https://live.staticflickr.com/7170/6624665015_2be610c9de_b.jpg"
+  },
+  {
+    "id": 54,
+    "topic": "Level A1 Vocabulary",
+    "word": "remember",
+    "meaning": "nhớ (v.)",
+    "hint": "Do you remember his name?",
+    "image": "https://live.staticflickr.com/3687/13926089581_36b729b95f_b.jpg"
+  },
+  {
+    "id": 55,
+    "topic": "Level A1 Vocabulary",
+    "word": "repeat",
+    "meaning": "lặp lại (v.)",
+    "hint": "Can you repeat that, please?",
+    "image": "https://live.staticflickr.com/4048/4339183267_a76fd0a159_b.jpg"
+  },
+  {
+    "id": 56,
+    "topic": "Level A1 Vocabulary",
+    "word": "report",
+    "meaning": "báo cáo (n.)",
+    "hint": "I finished the report.",
+    "image": "https://live.staticflickr.com/5496/30222453736_76da4c7187_b.jpg"
+  },
+  {
+    "id": 57,
+    "topic": "Level A1 Vocabulary",
+    "word": "restaurant",
+    "meaning": "nhà hàng (n.)",
+    "hint": "We had dinner at a nice restaurant.",
+    "image": "https://live.staticflickr.com/109/295646011_ca5bd14ea5.jpg"
+  },
+  {
+    "id": 58,
+    "topic": "Level A1 Vocabulary",
+    "word": "result",
+    "meaning": "kết quả (n.)",
+    "hint": "The results are out.",
+    "image": "https://live.staticflickr.com/4032/4295257158_e13d32aed3.jpg"
+  },
+  {
+    "id": 59,
+    "topic": "Level A1 Vocabulary",
+    "word": "return",
+    "meaning": "trở lại, sự trở lại (v., n.)",
+    "hint": "He will return next week.",
+    "image": "https://live.staticflickr.com/3719/11978388124_dc0bca6d54_b.jpg"
+  },
+  {
+    "id": 60,
+    "topic": "Level A1 Vocabulary",
+    "word": "rice",
+    "meaning": "gạo, cơm (n.)",
+    "hint": "She cooked rice for dinner.",
+    "image": "https://live.staticflickr.com/3068/2370243789_ffe9c05ec4_b.jpg"
+  },
+  {
+    "id": 61,
+    "topic": "Level A1 Vocabulary",
+    "word": "rich",
+    "meaning": "giàu (adj.)",
+    "hint": "They are a rich family.",
+    "image": "https://live.staticflickr.com/8160/7214456962_5835297985_b.jpg"
+  },
+  {
+    "id": 62,
+    "topic": "Level A1 Vocabulary",
+    "word": "ride",
+    "meaning": "cưỡi, đi (xe) (v.)",
+    "hint": "I like to ride my bike.",
+    "image": "https://live.staticflickr.com/6029/5953132034_bd65a286d1.jpg"
+  },
+  {
+    "id": 63,
+    "topic": "Level A1 Vocabulary",
+    "word": "right",
+    "meaning": "đúng, phải, bên phải (adj., adv., n.)",
+    "hint": "Turn right at the corner.",
+    "image": "https://live.staticflickr.com/4131/5015469859_788f1b580a.jpg"
+  },
+  {
+    "id": 64,
+    "topic": "Level A1 Vocabulary",
+    "word": "river",
+    "meaning": "sông (n.)",
+    "hint": "The river flows into the sea.",
+    "image": "https://live.staticflickr.com/3538/5803043660_c03d825d2a_b.jpg"
+  },
+  {
+    "id": 65,
+    "topic": "Level A1 Vocabulary",
+    "word": "road",
+    "meaning": "con đường (n.)",
+    "hint": "The road is narrow.",
+    "image": "https://live.staticflickr.com/3797/12728044363_513cd696cf_b.jpg"
+  },
+  {
+    "id": 66,
+    "topic": "Level A1 Vocabulary",
+    "word": "room",
+    "meaning": "phòng (n.)",
+    "hint": "This room is very spacious.",
+    "image": "https://loremflickr.com/600/400/room"
+  },
+  {
+    "id": 67,
+    "topic": "Level A1 Vocabulary",
+    "word": "routine",
+    "meaning": "thói quen, công việc hàng ngày (n.)",
+    "hint": "My morning routine includes exercise.",
+    "image": "https://live.staticflickr.com/7836/46858692401_6491a3a463_b.jpg"
+  },
+  {
+    "id": 68,
+    "topic": "Level A1 Vocabulary",
+    "word": "rule",
+    "meaning": "quy tắc (n.)",
+    "hint": "Follow the rules.",
+    "image": "https://live.staticflickr.com/8353/8370904528_d0aea0ecaf_b.jpg"
+  },
+  {
+    "id": 69,
+    "topic": "Level A1 Vocabulary",
+    "word": "run",
+    "meaning": "chạy (v.)",
+    "hint": "I like to run in the park.",
+    "image": "https://live.staticflickr.com/2044/2429061604_84789fe473_b.jpg"
+  },
+  {
+    "id": 70,
+    "topic": "Level A1 Vocabulary",
+    "word": "sad",
+    "meaning": "buồn (adj.)",
+    "hint": "She felt sad after the movie.",
+    "image": "https://live.staticflickr.com/3174/2335621087_8a36a33eb1_b.jpg"
+  },
+  {
+    "id": 71,
+    "topic": "Level A1 Vocabulary",
+    "word": "salad",
+    "meaning": "món salad (n.)",
+    "hint": "She made a fresh salad.",
+    "image": "https://live.staticflickr.com/7026/6477974999_aafc7940bc_b.jpg"
+  },
+  {
+    "id": 72,
+    "topic": "Level A1 Vocabulary",
+    "word": "salt",
+    "meaning": "muối (n.)",
+    "hint": "Add a pinch of salt.",
+    "image": "https://live.staticflickr.com/1/889837_e15d7aecf3.jpg"
+  },
+  {
+    "id": 73,
+    "topic": "Level A1 Vocabulary",
+    "word": "same",
+    "meaning": "giống nhau, như nhau (adj., pron., adv.)",
+    "hint": "They have the same interests.",
+    "image": "https://live.staticflickr.com/2009/2511462555_3930857a81_b.jpg"
+  },
+  {
+    "id": 74,
+    "topic": "Level A1 Vocabulary",
+    "word": "sandwich",
+    "meaning": "bánh sandwich (n.)",
+    "hint": "I ate a sandwich for lunch.",
+    "image": "https://live.staticflickr.com/2/3764549_67118e294a.jpg"
+  },
+  {
+    "id": 75,
+    "topic": "Level A1 Vocabulary",
+    "word": "Saturday",
+    "meaning": "thứ Bảy (n.)",
+    "hint": "I always relax on Saturday.",
+    "image": "https://live.staticflickr.com/65535/51495785869_4f2478e4ed_b.jpg"
+  },
+  {
+    "id": 76,
+    "topic": "Level A1 Vocabulary",
+    "word": "say",
+    "meaning": "nói (v.)",
+    "hint": "What did you say?",
+    "image": "https://live.staticflickr.com/7843/47109902892_a6e693de77_b.jpg"
+  },
+  {
+    "id": 77,
+    "topic": "Level A1 Vocabulary",
+    "word": "school",
+    "meaning": "trường học (n.)",
+    "hint": "She goes to school every day.",
+    "image": "https://live.staticflickr.com/7378/13884976499_0eec392706_b.jpg"
+  },
+  {
+    "id": 78,
+    "topic": "Level A1 Vocabulary",
+    "word": "science",
+    "meaning": "khoa học (n.)",
+    "hint": "Science is my favorite subject.",
+    "image": "https://live.staticflickr.com/2376/5809351607_ff9853a762_b.jpg"
+  },
+  {
+    "id": 79,
+    "topic": "Level A1 Vocabulary",
+    "word": "scientist",
+    "meaning": "nhà khoa học (n.)",
+    "hint": "He is a famous scientist.",
+    "image": "https://live.staticflickr.com/7217/7336892606_4310213cf9_b.jpg"
+  },
+  {
+    "id": 80,
+    "topic": "Level A1 Vocabulary",
+    "word": "sea",
+    "meaning": "biển (n.)",
+    "hint": "We swam in the sea.",
+    "image": "https://live.staticflickr.com/7578/15724464767_5ca7aa3327_b.jpg"
+  },
+  {
+    "id": 81,
+    "topic": "Level A1 Vocabulary",
+    "word": "second",
+    "meaning": "thứ hai (next after the first) (det./number)",
+    "hint": "She finished in second place.",
+    "image": "https://live.staticflickr.com/2870/11455764415_15c06f94db_b.jpg"
+  },
+  {
+    "id": 82,
+    "topic": "Level A1 Vocabulary",
+    "word": "second",
+    "meaning": "giây (unit of time) (n.)",
+    "hint": "Wait a second.",
+    "image": "https://live.staticflickr.com/2870/11455764415_15c06f94db_b.jpg"
+  },
+  {
+    "id": 83,
+    "topic": "Level A1 Vocabulary",
+    "word": "section",
+    "meaning": "phần, mục (n.)",
+    "hint": "Read the last section of the book.",
+    "image": "https://live.staticflickr.com/5448/13874875493_73e1c48626_b.jpg"
+  },
+  {
+    "id": 84,
+    "topic": "Level A1 Vocabulary",
+    "word": "see",
+    "meaning": "thấy, nhìn thấy (v.)",
+    "hint": "I see a bird.",
+    "image": "https://live.staticflickr.com/8421/7732089708_ce243179f4_b.jpg"
+  },
+  {
+    "id": 85,
+    "topic": "Level A1 Vocabulary",
+    "word": "sell",
+    "meaning": "bán (v.)",
+    "hint": "They sell fresh fruit here.",
+    "image": "https://live.staticflickr.com/8533/8879424037_37f3065de5_b.jpg"
+  },
+  {
+    "id": 86,
+    "topic": "Level A1 Vocabulary",
+    "word": "send",
+    "meaning": "gửi (v.)",
+    "hint": "I will send you a message.",
+    "image": "https://live.staticflickr.com/4011/4657106696_f195ed0a15_b.jpg"
+  },
+  {
+    "id": 87,
+    "topic": "Level A1 Vocabulary",
+    "word": "sentence",
+    "meaning": "câu (n.)",
+    "hint": "Write a complete sentence.",
+    "image": "https://loremflickr.com/600/400/sentence"
+  },
+  {
+    "id": 88,
+    "topic": "Level A1 Vocabulary",
+    "word": "September",
+    "meaning": "tháng Chín (n.)",
+    "hint": "School starts in September.",
+    "image": "https://live.staticflickr.com/8040/8012942855_31956bc217_b.jpg"
+  },
+  {
+    "id": 89,
+    "topic": "Level A1 Vocabulary",
+    "word": "seven",
+    "meaning": "số bảy (number)",
+    "hint": "She is seven years old.",
+    "image": "https://live.staticflickr.com/41/82157975_71127d97b3.jpg"
+  },
+  {
+    "id": 90,
+    "topic": "Level A1 Vocabulary",
+    "word": "seventeen",
+    "meaning": "số mười bảy (number)",
+    "hint": "I am seventeen years old.",
+    "image": "https://live.staticflickr.com/39/74342698_d287daafe9_b.jpg"
+  },
+  {
+    "id": 91,
+    "topic": "Level A1 Vocabulary",
+    "word": "seventy",
+    "meaning": "số bảy mươi (number)",
+    "hint": "My grandmother is seventy years old.",
+    "image": "https://live.staticflickr.com/3466/3400245808_d66fd52773_b.jpg"
+  },
+  {
+    "id": 92,
+    "topic": "Level A1 Vocabulary",
+    "word": "share",
+    "meaning": "chia sẻ (v.)",
+    "hint": "Let's share the cake.",
+    "image": "https://live.staticflickr.com/6101/6408334187_782fe690ee_b.jpg"
+  },
+  {
+    "id": 93,
+    "topic": "Level A1 Vocabulary",
+    "word": "she",
+    "meaning": "cô ấy (pron.)",
+    "hint": "She is my friend.",
+    "image": "https://live.staticflickr.com/689/33448064765_17a3f98a19_b.jpg"
+  },
+  {
+    "id": 94,
+    "topic": "Level A1 Vocabulary",
+    "word": "sheep",
+    "meaning": "con cừu (n.)",
+    "hint": "There are many sheep on the farm.",
+    "image": "https://live.staticflickr.com/5229/5755385098_f1a7be0e2d_b.jpg"
+  },
+  {
+    "id": 95,
+    "topic": "Level A1 Vocabulary",
+    "word": "shirt",
+    "meaning": "áo sơ mi (n.)",
+    "hint": "He wore a white shirt.",
+    "image": "https://live.staticflickr.com/3466/3723193148_94fd7bc92a_b.jpg"
+  },
+  {
+    "id": 96,
+    "topic": "Level A1 Vocabulary",
+    "word": "shoe",
+    "meaning": "giày (n.)",
+    "hint": "I bought new shoes.",
+    "image": "https://live.staticflickr.com/2099/2384595309_e7635c6bcf.jpg"
+  },
+  {
+    "id": 97,
+    "topic": "Level A1 Vocabulary",
+    "word": "shop",
+    "meaning": "cửa hàng; mua sắm (n., v.)",
+    "hint": "I went to the shop.",
+    "image": "https://live.staticflickr.com/188/416194601_a22d0caf99.jpg"
+  },
+  {
+    "id": 98,
+    "topic": "Level A1 Vocabulary",
+    "word": "shopping",
+    "meaning": "mua sắm (n.)",
+    "hint": "I love shopping on weekends.",
+    "image": "https://live.staticflickr.com/188/416194601_a22d0caf99.jpg"
+  },
+  {
+    "id": 99,
+    "topic": "Level A1 Vocabulary",
+    "word": "short",
+    "meaning": "ngắn (adj.)",
+    "hint": "The movie was short.",
+    "image": "https://live.staticflickr.com/8475/8086770290_2a99126d7c_b.jpg"
+  },
+  {
+    "id": 100,
+    "topic": "Level A1 Vocabulary",
+    "word": "should",
+    "meaning": "nên (modal v.)",
+    "hint": "You should study more.",
+    "image": "https://live.staticflickr.com/4058/4642297856_458d165b44.jpg"
+  },
+  {
+    "id": 101,
+    "topic": "Level A1 Vocabulary",
+    "word": "show",
+    "meaning": "trình diễn, buổi trình diễn (v., n.)",
+    "hint": "Show me your homework.",
+    "image": "https://live.staticflickr.com/4072/4548657151_4cbc001ce0.jpg"
+  },
+  {
+    "id": 102,
+    "topic": "Level A1 Vocabulary",
+    "word": "shower",
+    "meaning": "vòi hoa sen, tắm vòi hoa sen (n.)",
+    "hint": "I take a shower every morning.",
+    "image": "https://live.staticflickr.com/3376/3185088822_be7da65419_b.jpg"
+  },
+  {
+    "id": 103,
+    "topic": "Level A1 Vocabulary",
+    "word": "sick",
+    "meaning": "ốm (adj.)",
+    "hint": "He is sick today.",
+    "image": "https://live.staticflickr.com/5181/5598204278_3d7a406c63.jpg"
+  },
+  {
+    "id": 104,
+    "topic": "Level A1 Vocabulary",
+    "word": "similar",
+    "meaning": "tương tự (adj.)",
+    "hint": "These two books are similar.",
+    "image": "https://live.staticflickr.com/37/90770255_12e61d80e1.jpg"
+  },
+  {
+    "id": 105,
+    "topic": "Level A1 Vocabulary",
+    "word": "sing",
+    "meaning": "hát (v.)",
+    "hint": "I like to sing.",
+    "image": "https://live.staticflickr.com/7298/8726823636_c33fd4fd24.jpg"
+  },
+  {
+    "id": 106,
+    "topic": "Level A1 Vocabulary",
+    "word": "singer",
+    "meaning": "ca sĩ (n.)",
+    "hint": "She is a famous singer.",
+    "image": "https://live.staticflickr.com/142/317601266_8d0385784c.jpg"
+  },
+  {
+    "id": 107,
+    "topic": "Level A1 Vocabulary",
+    "word": "sister",
+    "meaning": "chị/em gái (n.)",
+    "hint": "I have one sister.",
+    "image": "https://live.staticflickr.com/17/20999015_1cad7cb3b0_b.jpg"
+  },
+  {
+    "id": 108,
+    "topic": "Level A1 Vocabulary",
+    "word": "sit",
+    "meaning": "ngồi (v.)",
+    "hint": "Please sit down.",
+    "image": "https://live.staticflickr.com/2157/2117800899_12b9955175.jpg"
+  },
+  {
+    "id": 109,
+    "topic": "Level A1 Vocabulary",
+    "word": "situation",
+    "meaning": "tình huống (n.)",
+    "hint": "The situation is under control.",
+    "image": "https://live.staticflickr.com/3192/5873139941_260b866743_b.jpg"
+  },
+  {
+    "id": 110,
+    "topic": "Level A1 Vocabulary",
+    "word": "six",
+    "meaning": "số sáu (number)",
+    "hint": "I have six books.",
+    "image": "https://live.staticflickr.com/3623/3687759387_c30c3f0c61_b.jpg"
+  },
+  {
+    "id": 111,
+    "topic": "Level A1 Vocabulary",
+    "word": "sixteen",
+    "meaning": "số mười sáu (number)",
+    "hint": "He is sixteen years old.",
+    "image": "https://live.staticflickr.com/7143/6518535789_677ac18e4d_b.jpg"
+  },
+  {
+    "id": 112,
+    "topic": "Level A1 Vocabulary",
+    "word": "sixty",
+    "meaning": "số sáu mươi (number)",
+    "hint": "The building has sixty floors.",
+    "image": "https://live.staticflickr.com/4057/4455035318_01ccb15ef9.jpg"
+  },
+  {
+    "id": 113,
+    "topic": "Level A1 Vocabulary",
+    "word": "skill",
+    "meaning": "kỹ năng (n.)",
+    "hint": "He has great cooking skills.",
+    "image": "https://live.staticflickr.com/5487/9576308025_90a1c24236_b.jpg"
+  },
+  {
+    "id": 114,
+    "topic": "Level A1 Vocabulary",
+    "word": "skirt",
+    "meaning": "váy ngắn (n.)",
+    "hint": "She wore a red skirt.",
+    "image": "https://live.staticflickr.com/190/499715075_1b31baf9bb_b.jpg"
+  },
+  {
+    "id": 115,
+    "topic": "Level A1 Vocabulary",
+    "word": "sleep",
+    "meaning": "ngủ (v.)",
+    "hint": "I need to sleep.",
+    "image": "https://live.staticflickr.com/4106/5045561700_08bd773416.jpg"
+  },
+  {
+    "id": 116,
+    "topic": "Level A1 Vocabulary",
+    "word": "slow",
+    "meaning": "chậm (adj.)",
+    "hint": "The internet is very slow today.",
+    "image": "https://live.staticflickr.com/3259/2558139631_a91473daca_b.jpg"
+  },
+  {
+    "id": 117,
+    "topic": "Level A1 Vocabulary",
+    "word": "small",
+    "meaning": "nhỏ (adj.)",
+    "hint": "I live in a small house.",
+    "image": "https://live.staticflickr.com/5194/5856716576_777f6f716c.jpg"
+  },
+  {
+    "id": 118,
+    "topic": "Level A1 Vocabulary",
+    "word": "snake",
+    "meaning": "con rắn (n.)",
+    "hint": "I saw a snake in the garden.",
+    "image": "https://live.staticflickr.com/3025/2957786659_2e52996a04.jpg"
+  },
+  {
+    "id": 119,
+    "topic": "Level A1 Vocabulary",
+    "word": "snow",
+    "meaning": "tuyết; tuyết rơi (n., v.)",
+    "hint": "The snow is beautiful.",
+    "image": "https://live.staticflickr.com/3457/3247482606_958975d4a5_b.jpg"
+  },
+  {
+    "id": 120,
+    "topic": "Level A1 Vocabulary",
+    "word": "so",
+    "meaning": "vì vậy, do đó (adv., conj.)",
+    "hint": "It was raining, so I stayed inside.",
+    "image": "https://live.staticflickr.com/2723/4473109460_ed019785fa_b.jpg"
+  },
+  {
+    "id": 121,
+    "topic": "Level A1 Vocabulary",
+    "word": "some",
+    "meaning": "một số (det., pron.)",
+    "hint": "I need some help.",
+    "image": "https://live.staticflickr.com/26/62164680_943c49c041_b.jpg"
+  },
+  {
+    "id": 122,
+    "topic": "Level A1 Vocabulary",
+    "word": "somebody",
+    "meaning": "ai đó (pron.)",
+    "hint": "Somebody is at the door.",
+    "image": "https://live.staticflickr.com/3331/3278901044_604d514682_b.jpg"
+  },
+  {
+    "id": 123,
+    "topic": "Level A1 Vocabulary",
+    "word": "someone",
+    "meaning": "ai đó (pron.)",
+    "hint": "Someone is calling you.",
+    "image": "https://live.staticflickr.com/6209/6133388851_6e208cdd44_b.jpg"
+  },
+  {
+    "id": 124,
+    "topic": "Level A1 Vocabulary",
+    "word": "something",
+    "meaning": "điều gì đó (pron.)",
+    "hint": "I have something to tell you.",
+    "image": "https://live.staticflickr.com/1342/636135504_18105234f8.jpg"
+  },
+  {
+    "id": 125,
+    "topic": "Level A1 Vocabulary",
+    "word": "sometimes",
+    "meaning": "đôi khi (adv.)",
+    "hint": "Sometimes I read books.",
+    "image": "https://live.staticflickr.com/5514/31040474420_15608800ec_b.jpg"
+  },
+  {
+    "id": 126,
+    "topic": "Level A1 Vocabulary",
+    "word": "son",
+    "meaning": "con trai (n.)",
+    "hint": "He has a son.",
+    "image": "https://live.staticflickr.com/407/20105403441_7d41946fdf_b.jpg"
+  },
+  {
+    "id": 127,
+    "topic": "Level A1 Vocabulary",
+    "word": "song",
+    "meaning": "bài hát (n.)",
+    "hint": "This is my favorite song.",
+    "image": "https://live.staticflickr.com/3301/3433722965_090a2c20bd_b.jpg"
+  },
+  {
+    "id": 128,
+    "topic": "Level A1 Vocabulary",
+    "word": "soon",
+    "meaning": "sớm (adv.)",
+    "hint": "See you soon.",
+    "image": "https://live.staticflickr.com/3608/3551048293_8334a5e7bf.jpg"
+  },
+  {
+    "id": 129,
+    "topic": "Level A1 Vocabulary",
+    "word": "sorry",
+    "meaning": "xin lỗi (adj., exclam.)",
+    "hint": "I'm sorry for being late.",
+    "image": "https://live.staticflickr.com/5/10774330_d4c7dda558.jpg"
+  },
+  {
+    "id": 130,
+    "topic": "Level A1 Vocabulary",
+    "word": "sound",
+    "meaning": "âm thanh; nghe (n., v.)",
+    "hint": "The sound is too loud.",
+    "image": "https://live.staticflickr.com/8447/7912137730_e678e2a6b1_b.jpg"
+  },
+  {
+    "id": 131,
+    "topic": "Level A1 Vocabulary",
+    "word": "soup",
+    "meaning": "súp (n.)",
+    "hint": "I made chicken soup.",
+    "image": "https://live.staticflickr.com/8/6616310_b82b0c8a0b.jpg"
+  },
+  {
+    "id": 132,
+    "topic": "Level A1 Vocabulary",
+    "word": "south",
+    "meaning": "phía nam, hướng nam (n., adj., adv.)",
+    "hint": "We are going south.",
+    "image": "https://live.staticflickr.com/4016/4253864254_714085eb6b_b.jpg"
+  },
+  {
+    "id": 133,
+    "topic": "Level A1 Vocabulary",
+    "word": "space",
+    "meaning": "không gian (n.)",
+    "hint": "There is not enough space.",
+    "image": "https://live.staticflickr.com/8620/16541692129_480c600c67.jpg"
+  },
+  {
+    "id": 134,
+    "topic": "Level A1 Vocabulary",
+    "word": "speak",
+    "meaning": "nói (v.)",
+    "hint": "I can speak English.",
+    "image": "https://live.staticflickr.com/3505/3723369155_311a154376_b.jpg"
+  },
+  {
+    "id": 135,
+    "topic": "Level A1 Vocabulary",
+    "word": "special",
+    "meaning": "đặc biệt (adj.)",
+    "hint": "This is a special day.",
+    "image": "https://live.staticflickr.com/7632/16885328295_98353e52c7_b.jpg"
+  },
+  {
+    "id": 136,
+    "topic": "Level A1 Vocabulary",
+    "word": "spell",
+    "meaning": "đánh vần (v.)",
+    "hint": "Can you spell your name?",
+    "image": "https://live.staticflickr.com/4044/5131269843_a89517b7ef_b.jpg"
+  },
+  {
+    "id": 137,
+    "topic": "Level A1 Vocabulary",
+    "word": "spelling",
+    "meaning": "sự đánh vần (n.)",
+    "hint": "Check your spelling.",
+    "image": "https://live.staticflickr.com/4044/5131269843_a89517b7ef_b.jpg"
+  },
+  {
+    "id": 138,
+    "topic": "Level A1 Vocabulary",
+    "word": "spend",
+    "meaning": "chi tiêu, dành (v.)",
+    "hint": "I spend a lot of time reading.",
+    "image": "https://live.staticflickr.com/7172/6757877261_6fe7e70773_b.jpg"
+  },
+  {
+    "id": 139,
+    "topic": "Level A1 Vocabulary",
+    "word": "sport",
+    "meaning": "thể thao (n.)",
+    "hint": "Soccer is my favorite sport.",
+    "image": "https://live.staticflickr.com/7141/6673382499_9ffc765057_b.jpg"
+  },
+  {
+    "id": 140,
+    "topic": "Level A1 Vocabulary",
+    "word": "spring",
+    "meaning": "mùa xuân (n.)",
+    "hint": "I love the flowers in spring.",
+    "image": "https://live.staticflickr.com/8101/8561945042_b3d8fa7e4f_b.jpg"
+  },
+  {
+    "id": 141,
+    "topic": "Level A1 Vocabulary",
+    "word": "stand",
+    "meaning": "đứng (v.)",
+    "hint": "Please stand up.",
+    "image": "https://live.staticflickr.com/3743/9422664231_be1ee7751c_b.jpg"
+  },
+  {
+    "id": 142,
+    "topic": "Level A1 Vocabulary",
+    "word": "star",
+    "meaning": "ngôi sao (n.)",
+    "hint": "The sky is full of stars.",
+    "image": "https://live.staticflickr.com/129/421045067_6cd8273c7a_b.jpg"
+  },
+  {
+    "id": 143,
+    "topic": "Level A1 Vocabulary",
+    "word": "start",
+    "meaning": "bắt đầu (v.)",
+    "hint": "Let's start the meeting.",
+    "image": "https://live.staticflickr.com/1207/774926895_9fe0f5495a_b.jpg"
+  },
+  {
+    "id": 144,
+    "topic": "Level A1 Vocabulary",
+    "word": "statement",
+    "meaning": "lời tuyên bố (n.)",
+    "hint": "The statement was clear and concise.",
+    "image": "https://live.staticflickr.com/65535/51949300477_648bfa87e0_b.jpg"
+  },
+  {
+    "id": 145,
+    "topic": "Level A1 Vocabulary",
+    "word": "station",
+    "meaning": "nhà ga (n.)",
+    "hint": "We arrived at the station on time.",
+    "image": "https://live.staticflickr.com/3068/2814909450_23cb332007.jpg"
+  },
+  {
+    "id": 146,
+    "topic": "Level A1 Vocabulary",
+    "word": "stay",
+    "meaning": "ở lại (v.)",
+    "hint": "I decided to stay at home.",
+    "image": "https://live.staticflickr.com/3754/12443061573_5051f5fd38_b.jpg"
+  },
+  {
+    "id": 147,
+    "topic": "Level A1 Vocabulary",
+    "word": "still",
+    "meaning": "vẫn (adv.)",
+    "hint": "She is still waiting for the bus.",
+    "image": "https://live.staticflickr.com/6099/5913120646_315f8dd3a9_b.jpg"
+  },
+  {
+    "id": 148,
+    "topic": "Level A1 Vocabulary",
+    "word": "stop",
+    "meaning": "dừng lại; điểm dừng (v., n.)",
+    "hint": "Please stop talking.",
+    "image": "https://live.staticflickr.com/7067/6990128773_073a4cfb2d_b.jpg"
+  },
+  {
+    "id": 149,
+    "topic": "Level A1 Vocabulary",
+    "word": "story",
+    "meaning": "câu chuyện (n.)",
+    "hint": "He told me an interesting story.",
+    "image": "https://live.staticflickr.com/5290/5344935718_48ebecc083_b.jpg"
+  },
+  {
+    "id": 150,
+    "topic": "Level A1 Vocabulary",
+    "word": "street",
+    "meaning": "đường phố (n.)",
+    "hint": "My house is on Baker Street.",
+    "image": "https://live.staticflickr.com/5633/23604559556_bc74714e03_b.jpg"
+  },
+  {
+    "id": 151,
+    "topic": "Level A1 Vocabulary",
+    "word": "strong",
+    "meaning": "mạnh mẽ (adj.)",
+    "hint": "He is a very strong man.",
+    "image": "https://live.staticflickr.com/5598/15609258996_3a8f54ca0a_b.jpg"
+  },
+  {
+    "id": 152,
+    "topic": "Level A1 Vocabulary",
+    "word": "student",
+    "meaning": "sinh viên (n.)",
+    "hint": "She is a university student.",
+    "image": "https://live.staticflickr.com/2790/4077667914_ca78542c10_b.jpg"
+  },
+  {
+    "id": 153,
+    "topic": "Level A1 Vocabulary",
+    "word": "study",
+    "meaning": "sự học tập; học (n., v.)",
+    "hint": "My study is very important to me.",
+    "image": "https://live.staticflickr.com/5081/5373032456_9631ef4f24_b.jpg"
+  },
+  {
+    "id": 154,
+    "topic": "Level A1 Vocabulary",
+    "word": "style",
+    "meaning": "phong cách (n.)",
+    "hint": "She has a unique style.",
+    "image": "https://live.staticflickr.com/4191/34506215931_5c2cff5282_b.jpg"
+  },
+  {
+    "id": 155,
+    "topic": "Level A1 Vocabulary",
+    "word": "subject",
+    "meaning": "môn học, chủ đề (n.)",
+    "hint": "Mathematics is my favorite subject.",
+    "image": "https://live.staticflickr.com/165/401244038_9292688f2f.jpg"
+  },
+  {
+    "id": 156,
+    "topic": "Level A1 Vocabulary",
+    "word": "success",
+    "meaning": "sự thành công (n.)",
+    "hint": "Hard work is the key to success.",
+    "image": "https://live.staticflickr.com/7382/14089986765_3bd874f7d0_b.jpg"
+  },
+  {
+    "id": 157,
+    "topic": "Level A1 Vocabulary",
+    "word": "sugar",
+    "meaning": "đường (n.)",
+    "hint": "Can you pass the sugar, please?",
+    "image": "https://live.staticflickr.com/3855/14322627830_43220d443e_b.jpg"
+  },
+  {
+    "id": 158,
+    "topic": "Level A1 Vocabulary",
+    "word": "summer",
+    "meaning": "mùa hè (n.)",
+    "hint": "We go to the beach every summer.",
+    "image": "https://live.staticflickr.com/3617/3340069929_3c1561ae11_b.jpg"
+  },
+  {
+    "id": 159,
+    "topic": "Level A1 Vocabulary",
+    "word": "sun",
+    "meaning": "mặt trời (n.)",
+    "hint": "The sun is shining brightly.",
+    "image": "https://live.staticflickr.com/7147/6487199145_b4843f4cef_b.jpg"
+  },
+  {
+    "id": 160,
+    "topic": "Level A1 Vocabulary",
+    "word": "Sunday",
+    "meaning": "Chủ Nhật (n.)",
+    "hint": "We usually rest on Sunday.",
+    "image": "https://live.staticflickr.com/65535/51427426837_7a4233c55d_b.jpg"
+  },
+  {
+    "id": 161,
+    "topic": "Level A1 Vocabulary",
+    "word": "supermarket",
+    "meaning": "siêu thị (n.)",
+    "hint": "I buy groceries at the supermarket.",
+    "image": "https://loremflickr.com/600/400/supermarket"
+  },
+  {
+    "id": 162,
+    "topic": "Level A1 Vocabulary",
+    "word": "sure",
+    "meaning": "chắc chắn (adj.)",
+    "hint": "Are you sure about that?",
+    "image": "https://live.staticflickr.com/118/271841562_e9c6cc3d70_b.jpg"
+  },
+  {
+    "id": 163,
+    "topic": "Level A1 Vocabulary",
+    "word": "sweater",
+    "meaning": "áo len (n.)",
+    "hint": "I need a sweater for the cold weather.",
+    "image": "https://live.staticflickr.com/2329/2115671026_f9589024e3_b.jpg"
+  },
+  {
+    "id": 164,
+    "topic": "Level A1 Vocabulary",
+    "word": "swim",
+    "meaning": "bơi (v.)",
+    "hint": "I love to swim in the ocean.",
+    "image": "https://live.staticflickr.com/3416/3529201843_655cbe4aae_b.jpg"
+  },
+  {
+    "id": 165,
+    "topic": "Level A1 Vocabulary",
+    "word": "swimming",
+    "meaning": "bơi lội (n.)",
+    "hint": "Swimming is a good exercise.",
+    "image": "https://live.staticflickr.com/3416/3529201843_655cbe4aae_b.jpg"
+  },
+  {
+    "id": 166,
+    "topic": "Level A1 Vocabulary",
+    "word": "table",
+    "meaning": "cái bàn (n.)",
+    "hint": "The book is on the table.",
+    "image": "https://live.staticflickr.com/5304/5673687239_07f6d29671_b.jpg"
+  },
+  {
+    "id": 167,
+    "topic": "Level A1 Vocabulary",
+    "word": "take",
+    "meaning": "lấy, mang (v.)",
+    "hint": "I need to take a break.",
+    "image": "https://live.staticflickr.com/1268/1188250692_483b05fec3_b.jpg"
+  },
+  {
+    "id": 168,
+    "topic": "Level A1 Vocabulary",
+    "word": "talk",
+    "meaning": "nói chuyện (v.)",
+    "hint": "We need to talk about it.",
+    "image": "https://live.staticflickr.com/7334/8899301319_132dc3c4dd_b.jpg"
+  },
+  {
+    "id": 169,
+    "topic": "Level A1 Vocabulary",
+    "word": "tall",
+    "meaning": "cao (adj.)",
+    "hint": "He is very tall.",
+    "image": "https://live.staticflickr.com/3732/19633953702_33f8397ab3_b.jpg"
+  },
+  {
+    "id": 170,
+    "topic": "Level A1 Vocabulary",
+    "word": "taxi",
+    "meaning": "xe taxi (n.)",
+    "hint": "I called a taxi to go to the airport.",
+    "image": "https://live.staticflickr.com/8099/8503564973_cf158150d6_b.jpg"
+  },
+  {
+    "id": 171,
+    "topic": "Level A1 Vocabulary",
+    "word": "tea",
+    "meaning": "trà (n.)",
+    "hint": "Would you like some tea?",
+    "image": "https://live.staticflickr.com/8302/7942751326_4a98031474.jpg"
+  },
+  {
+    "id": 172,
+    "topic": "Level A1 Vocabulary",
+    "word": "teach",
+    "meaning": "dạy (v.)",
+    "hint": "She loves to teach children.",
+    "image": "https://live.staticflickr.com/8448/8003184667_995921e96d_b.jpg"
+  },
+  {
+    "id": 173,
+    "topic": "Level A1 Vocabulary",
+    "word": "teacher",
+    "meaning": "giáo viên (n.)",
+    "hint": "He is an excellent teacher.",
+    "image": "https://live.staticflickr.com/7073/7350058078_8d28aedce0_b.jpg"
+  },
+  {
+    "id": 174,
+    "topic": "Level A1 Vocabulary",
+    "word": "team",
+    "meaning": "đội (n.)",
+    "hint": "Our team won the match.",
+    "image": "https://live.staticflickr.com/1250/5136655861_6cc1f50ede_b.jpg"
+  },
+  {
+    "id": 175,
+    "topic": "Level A1 Vocabulary",
+    "word": "teenager",
+    "meaning": "thanh thiếu niên (n.)",
+    "hint": "My son is a teenager.",
+    "image": "https://live.staticflickr.com/3181/3090624624_f652b9a6b2_b.jpg"
+  },
+  {
+    "id": 176,
+    "topic": "Level A1 Vocabulary",
+    "word": "telephone",
+    "meaning": "điện thoại; gọi điện (n., v.)",
+    "hint": "I need to use the telephone.",
+    "image": "https://live.staticflickr.com/7253/7712675570_7b8a3c305e_b.jpg"
+  },
+  {
+    "id": 177,
+    "topic": "Level A1 Vocabulary",
+    "word": "television",
+    "meaning": "tivi (n.)",
+    "hint": "We watched the news on television.",
+    "image": "https://live.staticflickr.com/2581/3839183708_f22568676e_m.jpg"
+  },
+  {
+    "id": 178,
+    "topic": "Level A1 Vocabulary",
+    "word": "tell",
+    "meaning": "nói (v.)",
+    "hint": "Please tell me the truth.",
+    "image": "https://live.staticflickr.com/3078/2566241384_18ddca8440_b.jpg"
+  },
+  {
+    "id": 179,
+    "topic": "Level A1 Vocabulary",
+    "word": "ten",
+    "meaning": "mười (number)",
+    "hint": "She has ten apples.",
+    "image": "https://live.staticflickr.com/7544/15992380650_4b427bb700_b.jpg"
+  },
+  {
+    "id": 180,
+    "topic": "Level A1 Vocabulary",
+    "word": "tennis",
+    "meaning": "quần vợt (n.)",
+    "hint": "He plays tennis every weekend.",
+    "image": "https://live.staticflickr.com/3283/2419630939_e37540493d_b.jpg"
+  },
+  {
+    "id": 181,
+    "topic": "Level A1 Vocabulary",
+    "word": "terrible",
+    "meaning": "khủng khiếp (adj.)",
+    "hint": "The weather is terrible today.",
+    "image": "https://live.staticflickr.com/156/336845518_5fee85c8a9.jpg"
+  },
+  {
+    "id": 182,
+    "topic": "Level A1 Vocabulary",
+    "word": "test",
+    "meaning": "bài kiểm tra; kiểm tra (n., v.)",
+    "hint": "I have a math test tomorrow.",
+    "image": "https://live.staticflickr.com/2794/4386329831_865142f3c1_b.jpg"
+  },
+  {
+    "id": 183,
+    "topic": "Level A1 Vocabulary",
+    "word": "text",
+    "meaning": "văn bản (n.)",
+    "hint": "She sent me a text message.",
+    "image": "https://live.staticflickr.com/2384/2505581594_96610c0f87_m.jpg"
+  },
+  {
+    "id": 184,
+    "topic": "Level A1 Vocabulary",
+    "word": "than",
+    "meaning": "hơn (conj.)",
+    "hint": "She is taller than him.",
+    "image": "https://live.staticflickr.com/3442/3228761389_d6c07f5ae6_b.jpg"
+  },
+  {
+    "id": 185,
+    "topic": "Level A1 Vocabulary",
+    "word": "thank",
+    "meaning": "cảm ơn (v.)",
+    "hint": "I want to thank you for your help.",
+    "image": "https://live.staticflickr.com/8668/15869332484_9d0a596d27_b.jpg"
+  },
+  {
+    "id": 186,
+    "topic": "Level A1 Vocabulary",
+    "word": "thanks",
+    "meaning": "cảm ơn (exclam., n.)",
+    "hint": "Thanks for your assistance.",
+    "image": "https://live.staticflickr.com/8668/15869332484_9d0a596d27_b.jpg"
+  },
+  {
+    "id": 187,
+    "topic": "Level A1 Vocabulary",
+    "word": "that",
+    "meaning": "cái đó, rằng (det., pron., conj.)",
+    "hint": "That is my book.",
+    "image": "https://loremflickr.com/600/400/that"
+  },
+  {
+    "id": 188,
+    "topic": "Level A1 Vocabulary",
+    "word": "the",
+    "meaning": "cái, con, người (dùng trước danh từ xác định) (definite article)",
+    "hint": "The cat is on the roof.",
+    "image": "https://loremflickr.com/600/400/the"
+  },
+  {
+    "id": 189,
+    "topic": "Level A1 Vocabulary",
+    "word": "theatre",
+    "meaning": "nhà hát (n.)",
+    "hint": "We went to the theatre to watch a play.",
+    "image": "https://live.staticflickr.com/134/338594444_62ece9ef95_b.jpg"
+  },
+  {
+    "id": 190,
+    "topic": "Level A1 Vocabulary",
+    "word": "their",
+    "meaning": "của họ (det.)",
+    "hint": "Their house is very big.",
+    "image": "https://loremflickr.com/600/400/their"
+  },
+  {
+    "id": 191,
+    "topic": "Level A1 Vocabulary",
+    "word": "them",
+    "meaning": "họ, chúng (pron.)",
+    "hint": "I saw them at the park.",
+    "image": "https://live.staticflickr.com/2933/13622206905_3695edefd1_b.jpg"
+  },
+  {
+    "id": 192,
+    "topic": "Level A1 Vocabulary",
+    "word": "then",
+    "meaning": "sau đó (adv.)",
+    "hint": "We went to the store and then to the cinema.",
+    "image": "https://loremflickr.com/600/400/then"
+  },
+  {
+    "id": 193,
+    "topic": "Level A1 Vocabulary",
+    "word": "there",
+    "meaning": "ở đó (adv.)",
+    "hint": "She is over there.",
+    "image": "https://loremflickr.com/600/400/there"
+  },
+  {
+    "id": 194,
+    "topic": "Level A1 Vocabulary",
+    "word": "they",
+    "meaning": "họ (pron.)",
+    "hint": "They are my friends.",
+    "image": "https://loremflickr.com/600/400/they"
+  },
+  {
+    "id": 195,
+    "topic": "Level A1 Vocabulary",
+    "word": "thing",
+    "meaning": "điều, vật (n.)",
+    "hint": "This thing is broken.",
+    "image": "https://live.staticflickr.com/7290/12610560735_4b8a210005_b.jpg"
+  },
+  {
+    "id": 196,
+    "topic": "Level A1 Vocabulary",
+    "word": "think",
+    "meaning": "nghĩ (v.)",
+    "hint": "I think it's a good idea.",
+    "image": "https://live.staticflickr.com/5242/5302015421_20ec03f8c9_b.jpg"
+  },
+  {
+    "id": 197,
+    "topic": "Level A1 Vocabulary",
+    "word": "third",
+    "meaning": "thứ ba (number)",
+    "hint": "He finished in third place.",
+    "image": "https://live.staticflickr.com/2114/1645343791_ae3f1e696e.jpg"
+  },
+  {
+    "id": 198,
+    "topic": "Level A1 Vocabulary",
+    "word": "thirsty",
+    "meaning": "khát nước (adj.)",
+    "hint": "I am very thirsty.",
+    "image": "https://live.staticflickr.com/7076/13274152514_cefabc4cb1_b.jpg"
+  },
+  {
+    "id": 199,
+    "topic": "Level A1 Vocabulary",
+    "word": "thirteen",
+    "meaning": "mười ba (number)",
+    "hint": "She is thirteen years old.",
+    "image": "https://live.staticflickr.com/3429/3256783205_ca422fb19a_b.jpg"
+  },
+  {
+    "id": 200,
+    "topic": "Level A1 Vocabulary",
+    "word": "thirty",
+    "meaning": "ba mươi (number)",
+    "hint": "He is thirty years old.",
+    "image": "https://live.staticflickr.com/7635/27512477871_6d58891f7e_b.jpg"
+  },
+  {
+    "id": 201,
+    "topic": "Level A1 Vocabulary",
+    "word": "this",
+    "meaning": "cái này, việc này (det./pron.)",
+    "hint": "This is my car.",
+    "image": "https://loremflickr.com/600/400/this"
+  },
+  {
+    "id": 202,
+    "topic": "Level A1 Vocabulary",
+    "word": "thousand",
+    "meaning": "một nghìn (number)",
+    "hint": "There are a thousand stars in the sky.",
+    "image": "https://live.staticflickr.com/187/403089292_ce47718f04.jpg"
+  },
+  {
+    "id": 203,
+    "topic": "Level A1 Vocabulary",
+    "word": "three",
+    "meaning": "ba (number)",
+    "hint": "I have three brothers.",
+    "image": "https://live.staticflickr.com/3644/5831914532_50a533ec74_b.jpg"
+  },
+  {
+    "id": 204,
+    "topic": "Level A1 Vocabulary",
+    "word": "through",
+    "meaning": "qua, xuyên qua (prep., adv.)",
+    "hint": "We walked through the forest.",
+    "image": "https://live.staticflickr.com/4183/34564592485_fdee8950f1_b.jpg"
+  },
+  {
+    "id": 205,
+    "topic": "Level A1 Vocabulary",
+    "word": "Thursday",
+    "meaning": "Thứ Năm (n.)",
+    "hint": "I have a meeting on Thursday.",
+    "image": "https://live.staticflickr.com/65535/51421796165_362834a8b5_b.jpg"
+  },
+  {
+    "id": 206,
+    "topic": "Level A1 Vocabulary",
+    "word": "ticket",
+    "meaning": "vé (n.)",
+    "hint": "I bought a ticket for the concert.",
+    "image": "https://live.staticflickr.com/39/82693032_77592753b6_b.jpg"
+  },
+  {
+    "id": 207,
+    "topic": "Level A1 Vocabulary",
+    "word": "time",
+    "meaning": "thời gian (n.)",
+    "hint": "What time is it?",
+    "image": "https://live.staticflickr.com/380/18634815839_dd09ca1c8f_b.jpg"
+  },
+  {
+    "id": 208,
+    "topic": "Level A1 Vocabulary",
+    "word": "tired",
+    "meaning": "mệt mỏi (adj.)",
+    "hint": "I am very tired after work.",
+    "image": "https://live.staticflickr.com/153/329792907_46a8ea5b82_b.jpg"
+  },
+  {
+    "id": 209,
+    "topic": "Level A1 Vocabulary",
+    "word": "title",
+    "meaning": "tiêu đề (n.)",
+    "hint": "The title of the book is interesting.",
+    "image": "https://live.staticflickr.com/8379/8578390155_cfa0cc719d_b.jpg"
+  },
+  {
+    "id": 210,
+    "topic": "Level A1 Vocabulary",
+    "word": "to",
+    "meaning": "đến, để (prep., infinitive marker)",
+    "hint": "I am going to the store.",
+    "image": "https://loremflickr.com/600/400/to"
+  },
+  {
+    "id": 211,
+    "topic": "Level A1 Vocabulary",
+    "word": "today",
+    "meaning": "hôm nay (adv., n.)",
+    "hint": "I am busy today.",
+    "image": "https://live.staticflickr.com/6209/6108723482_54a050832a_b.jpg"
+  },
+  {
+    "id": 212,
+    "topic": "Level A1 Vocabulary",
+    "word": "together",
+    "meaning": "cùng nhau (adv.)",
+    "hint": "We worked together on the project.",
+    "image": "https://live.staticflickr.com/5307/5670443186_8836879ddd.jpg"
+  },
+  {
+    "id": 213,
+    "topic": "Level A1 Vocabulary",
+    "word": "toilet",
+    "meaning": "nhà vệ sinh (n.)",
+    "hint": "Where is the toilet?",
+    "image": "https://live.staticflickr.com/8117/8843692915_6708492106_b.jpg"
+  },
+  {
+    "id": 214,
+    "topic": "Level A1 Vocabulary",
+    "word": "Tomato",
+    "meaning": "cà chua (n.)",
+    "hint": "The tomato is ripe.",
+    "image": "https://live.staticflickr.com/3043/2694720316_4693c8051a_b.jpg"
+  },
+  {
+    "id": 215,
+    "topic": "Level A1 Vocabulary",
+    "word": "Tomorrow",
+    "meaning": "ngày mai (adv., n.)",
+    "hint": "I'll see you tomorrow.",
+    "image": "https://live.staticflickr.com/3052/2516242580_2f6991befb.jpg"
+  },
+  {
+    "id": 216,
+    "topic": "Level A1 Vocabulary",
+    "word": "Tonight",
+    "meaning": "tối nay (adv., n.)",
+    "hint": "Are you coming tonight?",
+    "image": "https://live.staticflickr.com/1008/739628341_6fabf5d660.jpg"
+  },
+  {
+    "id": 217,
+    "topic": "Level A1 Vocabulary",
+    "word": "Too",
+    "meaning": "cũng (adv.)",
+    "hint": "I want to go too.",
+    "image": "https://live.staticflickr.com/5465/10093174073_24e7676b22.jpg"
+  },
+  {
+    "id": 218,
+    "topic": "Level A1 Vocabulary",
+    "word": "Tooth",
+    "meaning": "răng (n.)",
+    "hint": "I have a toothache.",
+    "image": "https://live.staticflickr.com/3030/3058972390_01ab6f28c3.jpg"
+  },
+  {
+    "id": 219,
+    "topic": "Level A1 Vocabulary",
+    "word": "Topic",
+    "meaning": "chủ đề (n.)",
+    "hint": "The topic of the discussion was interesting.",
+    "image": "https://live.staticflickr.com/4020/4444365546_4e4e076e88_b.jpg"
+  },
+  {
+    "id": 220,
+    "topic": "Level A1 Vocabulary",
+    "word": "Tourist",
+    "meaning": "khách du lịch (n.)",
+    "hint": "The tourist visited many famous places.",
+    "image": "https://live.staticflickr.com/2940/13761147044_2d10941030.jpg"
+  },
+  {
+    "id": 221,
+    "topic": "Level A1 Vocabulary",
+    "word": "Town",
+    "meaning": "thị trấn (n.)",
+    "hint": "She lives in a small town.",
+    "image": "https://live.staticflickr.com/3154/3124972392_a573df063e_b.jpg"
+  },
+  {
+    "id": 222,
+    "topic": "Level A1 Vocabulary",
+    "word": "Traffic",
+    "meaning": "giao thông (n.)",
+    "hint": "The traffic is heavy today.",
+    "image": "https://live.staticflickr.com/4030/4672253722_3623f1055e.jpg"
+  },
+  {
+    "id": 223,
+    "topic": "Level A1 Vocabulary",
+    "word": "Train",
+    "meaning": "tàu hỏa (n.)",
+    "hint": "The train arrives at 9 AM.",
+    "image": "https://live.staticflickr.com/7084/13878098494_a2f938fe97_b.jpg"
+  },
+  {
+    "id": 224,
+    "topic": "Level A1 Vocabulary",
+    "word": "Travel",
+    "meaning": "đi du lịch, chuyến du lịch (v., n.)",
+    "hint": "I love to travel.",
+    "image": "https://live.staticflickr.com/65535/51639862921_e256840e4c_b.jpg"
+  },
+  {
+    "id": 225,
+    "topic": "Level A1 Vocabulary",
+    "word": "Tree",
+    "meaning": "cây (n.)",
+    "hint": "The tree is very tall.",
+    "image": "https://live.staticflickr.com/18/23358350_96d3091f9c_b.jpg"
+  },
+  {
+    "id": 226,
+    "topic": "Level A1 Vocabulary",
+    "word": "Trip",
+    "meaning": "chuyến đi (n.)",
+    "hint": "We went on a trip to the mountains.",
+    "image": "https://live.staticflickr.com/3299/3548437437_1ca16959c5_b.jpg"
+  },
+  {
+    "id": 227,
+    "topic": "Level A1 Vocabulary",
+    "word": "Trousers",
+    "meaning": "quần dài (n.)",
+    "hint": "He bought a new pair of trousers.",
+    "image": "https://live.staticflickr.com/3217/3127623149_d79c936596_b.jpg"
+  },
+  {
+    "id": 228,
+    "topic": "Level A1 Vocabulary",
+    "word": "True",
+    "meaning": "đúng (adj.)",
+    "hint": "The story is true.",
+    "image": "https://live.staticflickr.com/6148/6037511651_6990bfcfd7_b.jpg"
+  },
+  {
+    "id": 229,
+    "topic": "Level A1 Vocabulary",
+    "word": "Try",
+    "meaning": "thử (v.)",
+    "hint": "You should try this dish.",
+    "image": "https://live.staticflickr.com/4070/4683034709_fa91f2aabd.jpg"
+  },
+  {
+    "id": 330,
+    "topic": "Level A1 Vocabulary",
+    "word": "T-shirt",
+    "meaning": "áo thun (n.)",
+    "hint": "He wore a white T-shirt.",
+    "image": "https://live.staticflickr.com/1074/1003037750_dbab30c27a_b.jpg"
+  },
+  {
+    "id": 331,
+    "topic": "Level A1 Vocabulary",
+    "word": "Tuesday",
+    "meaning": "Thứ Ba (n.)",
+    "hint": "The meeting is on Tuesday.",
+    "image": "https://live.staticflickr.com/625/23654933132_5395a738c2_b.jpg"
+  },
+  {
+    "id": 332,
+    "topic": "Level A1 Vocabulary",
+    "word": "Turn",
+    "meaning": "rẽ, lượt (v., n.)",
+    "hint": "Turn left at the corner.",
+    "image": "https://live.staticflickr.com/3633/3487383695_3e352cf09b_b.jpg"
+  },
+  {
+    "id": 333,
+    "topic": "Level A1 Vocabulary",
+    "word": "TV",
+    "meaning": "ti vi (n.)",
+    "hint": "I watched the news on TV.",
+    "image": "https://live.staticflickr.com/4202/34715136786_4533ecd50b_b.jpg"
+  },
+  {
+    "id": 334,
+    "topic": "Level A1 Vocabulary",
+    "word": "Twelve",
+    "meaning": "mười hai (number)",
+    "hint": "There are twelve months in a year.",
+    "image": "https://live.staticflickr.com/2924/33054583244_6b8e863915_b.jpg"
+  },
+  {
+    "id": 335,
+    "topic": "Level A1 Vocabulary",
+    "word": "Twenty",
+    "meaning": "hai mươi (number)",
+    "hint": "He is twenty years old.",
+    "image": "https://live.staticflickr.com/398/19807045341_f7158d0598_b.jpg"
+  },
+  {
+    "id": 336,
+    "topic": "Level A1 Vocabulary",
+    "word": "Twice",
+    "meaning": "hai lần (adv.)",
+    "hint": "I called you twice.",
+    "image": "https://live.staticflickr.com/7673/27566428646_c0c565f12b_b.jpg"
+  },
+  {
+    "id": 337,
+    "topic": "Level A1 Vocabulary",
+    "word": "Two",
+    "meaning": "hai (number)",
+    "hint": "She has two cats.",
+    "image": "https://live.staticflickr.com/3059/2971013891_e1744297a1_b.jpg"
+  },
+  {
+    "id": 338,
+    "topic": "Level A1 Vocabulary",
+    "word": "Type",
+    "meaning": "loại (n.)",
+    "hint": "What type of music do you like?",
+    "image": "https://live.staticflickr.com/4007/4188263439_8e41d04d8a_b.jpg"
+  },
+  {
+    "id": 339,
+    "topic": "Level A1 Vocabulary",
+    "word": "Umbrella",
+    "meaning": "ô (n.)",
+    "hint": "Take an umbrella; it's going to rain.",
+    "image": "https://live.staticflickr.com/3149/2775486094_2bacbb9be4_b.jpg"
+  },
+  {
+    "id": 340,
+    "topic": "Level A1 Vocabulary",
+    "word": "Uncle",
+    "meaning": "chú, cậu, bác (n.)",
+    "hint": "My uncle is visiting us this weekend.",
+    "image": "https://live.staticflickr.com/5490/9865377756_e48f077261_b.jpg"
+  },
+  {
+    "id": 341,
+    "topic": "Level A1 Vocabulary",
+    "word": "Under",
+    "meaning": "dưới (prep., adv.)",
+    "hint": "The cat is under the table.",
+    "image": "https://live.staticflickr.com/2909/14643233066_e23855fcc0_b.jpg"
+  },
+  {
+    "id": 342,
+    "topic": "Level A1 Vocabulary",
+    "word": "Understand",
+    "meaning": "hiểu (v.)",
+    "hint": "I understand what you mean.",
+    "image": "https://live.staticflickr.com/6163/6231641551_541c96e583_b.jpg"
+  },
+  {
+    "id": 343,
+    "topic": "Level A1 Vocabulary",
+    "word": "University",
+    "meaning": "trường đại học (n.)",
+    "hint": "She graduated from university last year.",
+    "image": "https://live.staticflickr.com/228/452304380_9274ca0bbc_b.jpg"
+  }
+]

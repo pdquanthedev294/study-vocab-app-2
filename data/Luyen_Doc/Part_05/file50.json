@@ -1,0 +1,1282 @@
+[
+  {
+    "id": 1,
+    "topic": "TOEIC Reading Part 5 (Q101)",
+    "word": "difference between the two brands",
+    "meaning": "sự khác biệt giữa hai thương hiệu",
+    "hint": "Điểm không giống nhau giữa hai nhãn hàng",
+    "image": "https://images.unsplash.com/photo-1556742049-0a6798077771?w=800"
+  },
+  {
+    "id": 2,
+    "topic": "TOEIC Reading Part 5 (Q101)",
+    "word": "purchase the cheaper one",
+    "meaning": "mua cái rẻ hơn",
+    "hint": "Lựa chọn sản phẩm có giá thấp hơn",
+    "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800"
+  },
+  {
+    "id": 3,
+    "topic": "TOEIC Reading Part 5 (Q101)",
+    "word": "Until (conj / prep)",
+    "meaning": "cho đến khi",
+    "hint": "Từ chỉ mốc thời gian kéo dài cho tới một sự kiện",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 4,
+    "topic": "TOEIC Reading Part 5 (Q101)",
+    "word": "Because (conj)",
+    "meaning": "bởi vì",
+    "hint": "Từ nối chỉ nguyên nhân, lý do của sự việc",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 5,
+    "topic": "TOEIC Reading Part 5 (Q101)",
+    "word": "Before (conj / prep)",
+    "meaning": "trước khi",
+    "hint": "Từ chỉ khoảng thời gian xảy ra trước mốc khác",
+    "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?w=800"
+  },
+  {
+    "id": 6,
+    "topic": "TOEIC Reading Part 5 (Q101)",
+    "word": "so (conj)",
+    "meaning": "vì vậy / do đó",
+    "hint": "Từ nối thể hiện kết quả của hành động",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800"
+  },
+  {
+    "id": 7,
+    "topic": "TOEIC Reading Part 5 (Q102)",
+    "word": "audience members were impressed",
+    "meaning": "khán giả bị ấn tượng",
+    "hint": "Người xem cảm thấy thán phục và đánh giá cao",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800"
+  },
+  {
+    "id": 8,
+    "topic": "TOEIC Reading Part 5 (Q102)",
+    "word": "question asked of the candidate",
+    "meaning": "câu hỏi dành cho ứng viên",
+    "hint": "Thắc mắc được đưa ra cho người phỏng vấn/dự thi",
+    "image": "https://images.unsplash.com/photo-1565688534245-05d6b5be184a?w=800"
+  },
+  {
+    "id": 9,
+    "topic": "TOEIC Reading Part 5 (Q102)",
+    "word": "clearly (adv)",
+    "meaning": "một cách rõ ràng",
+    "hint": "Trạng từ thể hiện sự rành mạch, dễ hiểu",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 10,
+    "topic": "TOEIC Reading Part 5 (Q102)",
+    "word": "clear (adj)",
+    "meaning": "rõ ràng / trong sạch",
+    "hint": "Tính từ miêu tả điều gì đó dễ quan sát hoặc dễ hiểu",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 11,
+    "topic": "TOEIC Reading Part 5 (Q102)",
+    "word": "cleared (v)",
+    "meaning": "đã làm sạch / đã dọn dẹp",
+    "hint": "Động từ ở quá khứ chỉ việc giải phóng hoặc làm sạch",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 12,
+    "topic": "TOEIC Reading Part 5 (Q102)",
+    "word": "clearing (n)",
+    "meaning": "sự dọn dẹp / việc làm sạch",
+    "hint": "Danh từ hoặc danh động từ chỉ quá trình làm trống",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 13,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "in an attempt to generate",
+    "meaning": "với nỗ lực tạo ra",
+    "hint": "Cố gắng sản xuất hoặc phát ra nguồn năng lượng",
+    "image": "https://images.unsplash.com/photo-1509391365360-2e959784a276?w=800"
+  },
+  {
+    "id": 14,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "sustainable energy",
+    "meaning": "năng lượng bền vững",
+    "hint": "Nguồn năng lượng tái tạo thân thiện với môi trường",
+    "image": "https://images.unsplash.com/photo-1509391365360-2e959784a276?w=800"
+  },
+  {
+    "id": 15,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "city officials",
+    "meaning": "các quan chức thành phố",
+    "hint": "Những người đại diện chính quyền địa phương",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800"
+  },
+  {
+    "id": 16,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "solar panels affixed to public buildings",
+    "meaning": "tấm pin mặt trời gắn trên các tòa nhà công cộng",
+    "hint": "Thiết bị hấp thụ ánh sáng gắn trên mái nhà công",
+    "image": "https://images.unsplash.com/photo-1509391365360-2e959784a276?w=800"
+  },
+  {
+    "id": 17,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "generates (v)",
+    "meaning": "tạo ra / phát ra",
+    "hint": "Động từ số ít chỉ việc sản sinh ra năng lượng",
+    "image": "https://images.unsplash.com/photo-1509391365360-2e959784a276?w=800"
+  },
+  {
+    "id": 18,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "generated (v)",
+    "meaning": "đã tạo ra",
+    "hint": "Quá khứ của động từ sản sinh năng lượng",
+    "image": "https://images.unsplash.com/photo-1509391365360-2e959784a276?w=800"
+  },
+  {
+    "id": 19,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "generating (v)",
+    "meaning": "việc tạo ra",
+    "hint": "Quá trình sản xuất hoặc phát sinh nguồn điện",
+    "image": "https://images.unsplash.com/photo-1509391365360-2e959784a276?w=800"
+  },
+  {
+    "id": 20,
+    "topic": "TOEIC Reading Part 5 (Q103)",
+    "word": "to generate (v)",
+    "meaning": "để tạo ra",
+    "hint": "Dạng nguyên thể thể hiện mục đích tạo ra cái gì đó",
+    "image": "https://images.unsplash.com/photo-1509391365360-2e959784a276?w=800"
+  },
+  {
+    "id": 21,
+    "topic": "TOEIC Reading Part 5 (Q104)",
+    "word": "slow response of the fire department",
+    "meaning": "sự ứng cứu chậm trễ của đội chữa cháy",
+    "hint": "Phản ứng không kịp thời của lính cứu hỏa",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 22,
+    "topic": "TOEIC Reading Part 5 (Q104)",
+    "word": "resulted in severe damage to the building",
+    "meaning": "dẫn đến thiệt hại nặng nề cho tòa nhà",
+    "hint": "Gây ra hư hỏng nghiêm trọng cho công trình",
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800"
+  },
+  {
+    "id": 23,
+    "topic": "TOEIC Reading Part 5 (Q104)",
+    "word": "duration (n)",
+    "meaning": "thời lượng / khoảng thời gian",
+    "hint": "Độ dài thời gian một sự việc kéo dài",
+    "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?w=800"
+  },
+  {
+    "id": 24,
+    "topic": "TOEIC Reading Part 5 (Q104)",
+    "word": "treatment (n)",
+    "meaning": "sự điều trị / sự xử lý",
+    "hint": "Quá trình chăm sóc y tế hoặc giải quyết vấn đề",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+  },
+  {
+    "id": 25,
+    "topic": "TOEIC Reading Part 5 (Q104)",
+    "word": "maintenance (n)",
+    "meaning": "sự bảo trì / bảo dưỡng",
+    "hint": "Công việc kiểm tra, sửa chữa máy móc",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 26,
+    "topic": "TOEIC Reading Part 5 (Q105)",
+    "word": "hours of searching",
+    "meaning": "hàng giờ tìm kiếm",
+    "hint": "Dành nhiều thời gian để rà soát và phát hiện",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 27,
+    "topic": "TOEIC Reading Part 5 (Q105)",
+    "word": "source of the water leak",
+    "meaning": "nguồn gốc của việc rò rỉ nước",
+    "hint": "Vị trí nơi nước bị chảy tràn ra ngoài",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 28,
+    "topic": "TOEIC Reading Part 5 (Q105)",
+    "word": "routinely (adv)",
+    "meaning": "thường lệ / định kỳ",
+    "hint": "Công việc làm thường xuyên theo thói quen",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 29,
+    "topic": "TOEIC Reading Part 5 (Q105)",
+    "word": "finally (adv)",
+    "meaning": "cuối cùng",
+    "hint": "Kết quả đạt được sau khoảng thời gian chờ đợi",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 30,
+    "topic": "TOEIC Reading Part 5 (Q105)",
+    "word": "rarely (adv)",
+    "meaning": "hiếm khi",
+    "hint": "Tần suất rất ít khi xảy ra",
+    "image": "https://images.unsplash.com/photo-1525785967371-87ba5459e5b3?w=800"
+  },
+  {
+    "id": 31,
+    "topic": "TOEIC Reading Part 5 (Q105)",
+    "word": "strongly (adv)",
+    "meaning": "mạnh mẽ",
+    "hint": "Trạng từ thể hiện cường độ quyết liệt",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800"
+  },
+  {
+    "id": 32,
+    "topic": "TOEIC Reading Part 5 (Q106)",
+    "word": "workshop has been moved",
+    "meaning": "buổi hội thảo đã được dời sang",
+    "hint": "Thay đổi địa điểm tổ chức sự kiện",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800"
+  },
+  {
+    "id": 33,
+    "topic": "TOEIC Reading Part 5 (Q106)",
+    "word": "Conference Room 402",
+    "meaning": "Phòng họp số 402",
+    "hint": "Không gian dành riêng cho hội họp",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
+  },
+  {
+    "id": 34,
+    "topic": "TOEIC Reading Part 5 (Q106)",
+    "word": "whatever (pron)",
+    "meaning": "bất cứ điều gì",
+    "hint": "Từ đại chỉ mọi thứ không giới hạn cụ thể",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 35,
+    "topic": "TOEIC Reading Part 5 (Q106)",
+    "word": "themselves (pron)",
+    "meaning": "chính họ",
+    "hint": "Đại từ phản thân chỉ tập thể nhiều người",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 36,
+    "topic": "TOEIC Reading Part 5 (Q106)",
+    "word": "everyone (pron)",
+    "meaning": "mọi người",
+    "hint": "Đại từ chỉ toàn bộ tất cả mọi cá nhân",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800"
+  },
+  {
+    "id": 37,
+    "topic": "TOEIC Reading Part 5 (Q106)",
+    "word": "something (pron)",
+    "meaning": "một điều gì đó",
+    "hint": "Đại từ bất định chỉ một vật không xác định",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800"
+  },
+  {
+    "id": 38,
+    "topic": "TOEIC Reading Part 5 (Q107)",
+    "word": "widened over the summer",
+    "meaning": "được mở rộng trong suốt mùa hè",
+    "hint": "Gia tăng diện tích mặt đường trong mùa hè",
+    "image": "https://images.unsplash.com/photo-1477959858617-67f30ac4ce78?w=800"
+  },
+  {
+    "id": 39,
+    "topic": "TOEIC Reading Part 5 (Q107)",
+    "word": "accommodate the heavier traffic",
+    "meaning": "đáp ứng lượng giao thông đông đúc hơn",
+    "hint": "Phục vụ tốt hơn cho nhiều phương tiện qua lại",
+    "image": "https://images.unsplash.com/photo-1477959858617-67f30ac4ce78?w=800"
+  },
+  {
+    "id": 40,
+    "topic": "TOEIC Reading Part 5 (Q107)",
+    "word": "duplicate (v)",
+    "meaning": "sao chép / làm thành hai bản",
+    "hint": "Động từ nhân bản một văn bản hay vật thể",
+    "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800"
+  },
+  {
+    "id": 41,
+    "topic": "TOEIC Reading Part 5 (Q107)",
+    "word": "extend (v)",
+    "meaning": "mở rộng / kéo dài",
+    "hint": "Nối dài thêm thời gian hoặc diện tích",
+    "image": "https://images.unsplash.com/photo-1477959858617-67f30ac4ce78?w=800"
+  },
+  {
+    "id": 42,
+    "topic": "TOEIC Reading Part 5 (Q107)",
+    "word": "propose (v)",
+    "meaning": "đề xuất / kiến nghị",
+    "hint": "Đưa ra ý tưởng hoặc kế hoạch để xem xét",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 43,
+    "topic": "TOEIC Reading Part 5 (Q108)",
+    "word": "Meal vouchers were given to passengers",
+    "meaning": "Phiếu ăn đã được phát cho hành khách",
+    "hint": "Cung cấp vé ăn miễn phí cho người đi xe/máy bay",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+  },
+  {
+    "id": 44,
+    "topic": "TOEIC Reading Part 5 (Q108)",
+    "word": "passengers who were not able to depart on time",
+    "meaning": "những hành khách không thể khởi hành đúng giờ",
+    "hint": "Người di chuyển bị trễ chuyến bay/xe",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800"
+  },
+  {
+    "id": 45,
+    "topic": "TOEIC Reading Part 5 (Q108)",
+    "word": "because of a booking error",
+    "meaning": "vì sự cố đặt vé",
+    "hint": "Do sai sót trong hệ thống giữ chỗ",
+    "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800"
+  },
+  {
+    "id": 46,
+    "topic": "TOEIC Reading Part 5 (Q108)",
+    "word": "when (conj / adv)",
+    "meaning": "khi nào / khi",
+    "hint": "Từ liên kết chỉ thời điểm sự kiện xảy ra",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 47,
+    "topic": "TOEIC Reading Part 5 (Q108)",
+    "word": "recently (adv)",
+    "meaning": "gần đây",
+    "hint": "Trạng từ chỉ sự việc vừa mới xảy ra",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800"
+  },
+  {
+    "id": 48,
+    "topic": "TOEIC Reading Part 5 (Q108)",
+    "word": "who (pron)",
+    "meaning": "người mà",
+    "hint": "Đại từ quan hệ làm chủ ngữ chỉ người",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
+  },
+  {
+    "id": 49,
+    "topic": "TOEIC Reading Part 5 (Q109)",
+    "word": "catalog for the gallery",
+    "meaning": "danh mục cho phòng triển lãm",
+    "hint": "Sách giới thiệu các tác phẩm nghệ thuật",
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=800"
+  },
+  {
+    "id": 50,
+    "topic": "TOEIC Reading Part 5 (Q109)",
+    "word": "accurate description of each piece of artwork",
+    "meaning": "mô tả chính xác về từng tác phẩm nghệ thuật",
+    "hint": "Thông tin chi tiết và chuẩn xác về bức tranh",
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=800"
+  },
+  {
+    "id": 51,
+    "topic": "TOEIC Reading Part 5 (Q109)",
+    "word": "described (v)",
+    "meaning": "đã mô tả",
+    "hint": "Động từ thể hiện việc thuật lại chi tiết",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800"
+  },
+  {
+    "id": 52,
+    "topic": "TOEIC Reading Part 5 (Q109)",
+    "word": "descriptive (adj)",
+    "meaning": "có tính mô tả",
+    "hint": "Tính từ mang ý nghĩa diễn tả chi tiết",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800"
+  },
+  {
+    "id": 53,
+    "topic": "TOEIC Reading Part 5 (Q109)",
+    "word": "describes (v)",
+    "meaning": "mô tả",
+    "hint": "Động từ ngôi thứ 3 số ít diễn tả đặc điểm",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800"
+  },
+  {
+    "id": 54,
+    "topic": "TOEIC Reading Part 5 (Q110)",
+    "word": "ensure that old appliances are disposed of properly",
+    "meaning": "đảm bảo rằng các thiết bị cũ được vứt bỏ đúng cách",
+    "hint": "Xử lý đồ điện tử cũ đúng quy định vệ sinh",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 55,
+    "topic": "TOEIC Reading Part 5 (Q110)",
+    "word": "offer free removal of these devices",
+    "meaning": "cung cấp dịch vụ thu gom miễn phí các thiết bị này",
+    "hint": "Hỗ trợ vận chuyển phế liệu không tính tiền",
+    "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?w=800"
+  },
+  {
+    "id": 56,
+    "topic": "TOEIC Reading Part 5 (Q110)",
+    "word": "into (prep)",
+    "meaning": "vào trong",
+    "hint": "Giới từ chuyển hướng di chuyển vào bên trong",
+    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=800"
+  },
+  {
+    "id": 57,
+    "topic": "TOEIC Reading Part 5 (Q110)",
+    "word": "from (prep)",
+    "meaning": "từ",
+    "hint": "Giới từ chỉ xuất xứ hoặc điểm bắt đầu",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800"
+  },
+  {
+    "id": 58,
+    "topic": "TOEIC Reading Part 5 (Q110)",
+    "word": "until (prep / conj)",
+    "meaning": "cho tới khi",
+    "hint": "Giới từ chỉ mốc thời gian chốt kết thúc",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 59,
+    "topic": "TOEIC Reading Part 5 (Q110)",
+    "word": "between April 2 and April 5",
+    "meaning": "trong khoảng từ ngày 2 tháng 4 đến ngày 5 tháng 4",
+    "hint": "Khung thời gian giới hạn giữa hai ngày",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800"
+  },
+  {
+    "id": 60,
+    "topic": "TOEIC Reading Part 5 (Q111)",
+    "word": "buffet dinner is available to the guests",
+    "meaning": "bữa tối tự chọn có sẵn phục vụ thực khách",
+    "hint": "Bữa tiệc ăn uống thoải mái dành cho khách",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+  },
+  {
+    "id": 61,
+    "topic": "TOEIC Reading Part 5 (Q111)",
+    "word": "eat whatever looks appetizing to them",
+    "meaning": "ăn bất cứ thứ gì trông ngon mắt với họ",
+    "hint": "Lựa chọn các món ăn trông hấp dẫn",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800"
+  },
+  {
+    "id": 62,
+    "topic": "TOEIC Reading Part 5 (Q111)",
+    "word": "without having to place an order",
+    "meaning": "mà không cần phải gọi món",
+    "hint": "Thưởng thức đồ ăn không cần thông qua menu",
+    "image": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?w=800"
+  },
+  {
+    "id": 63,
+    "topic": "TOEIC Reading Part 5 (Q111)",
+    "word": "anyway (adv)",
+    "meaning": "dù sao đi nữa",
+    "hint": "Trạng từ chuyển ý nối tiếp câu nói",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 64,
+    "topic": "TOEIC Reading Part 5 (Q111)",
+    "word": "wherever (adv / conj)",
+    "meaning": "bất cứ đâu",
+    "hint": "Từ chỉ mọi địa điểm bất kỳ",
+    "image": "https://images.unsplash.com/photo-1477959858617-67f30ac4ce78?w=800"
+  },
+  {
+    "id": 65,
+    "topic": "TOEIC Reading Part 5 (Q111)",
+    "word": "anything (pron)",
+    "meaning": "bất cứ thứ gì",
+    "hint": "Đại từ chỉ đồ vật hay sự việc bất kỳ",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 66,
+    "topic": "TOEIC Reading Part 5 (Q112)",
+    "word": "during the music festival",
+    "meaning": "trong suốt lễ hội âm nhạc",
+    "hint": "Thời gian diễn ra sự kiện biểu diễn âm nhạc",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800"
+  },
+  {
+    "id": 67,
+    "topic": "TOEIC Reading Part 5 (Q112)",
+    "word": "goods will be sold only by approved vendors",
+    "meaning": "hàng hóa sẽ chỉ được bán bởi các người bán đã được phê duyệt",
+    "hint": "Gian hàng đạt chuẩn được cấp phép kinh doanh",
+    "image": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=800"
+  },
+  {
+    "id": 68,
+    "topic": "TOEIC Reading Part 5 (Q112)",
+    "word": "controversial (adj)",
+    "meaning": "gây tranh cãi",
+    "hint": "Tính từ miêu tả điều nhận nhiều ý kiến trái chiều",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 69,
+    "topic": "TOEIC Reading Part 5 (Q112)",
+    "word": "increased (adj / v)",
+    "meaning": "đã tăng lên",
+    "hint": "Tính từ thể hiện sự tăng trưởng",
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800"
+  },
+  {
+    "id": 70,
+    "topic": "TOEIC Reading Part 5 (Q112)",
+    "word": "confident (adj)",
+    "meaning": "tự tin",
+    "hint": "Tính từ thể hiện sự tin tưởng vào bản thân",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 71,
+    "topic": "TOEIC Reading Part 5 (Q113)",
+    "word": "grocery store chain",
+    "meaning": "chuỗi cửa hàng thực phẩm / tạp hóa",
+    "hint": "Hệ thống các siêu thị nhỏ bán đồ ăn",
+    "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=800"
+  },
+  {
+    "id": 72,
+    "topic": "TOEIC Reading Part 5 (Q113)",
+    "word": "has specialized in organic products",
+    "meaning": "đã chuyên về các sản phẩm hữu cơ",
+    "hint": "Tập trung cung cấp thực phẩm sạch không hóa chất",
+    "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=800"
+  },
+  {
+    "id": 73,
+    "topic": "TOEIC Reading Part 5 (Q113)",
+    "word": "participated (v)",
+    "meaning": "đã tham gia",
+    "hint": "Đã góp mặt vào một hoạt động",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800"
+  },
+  {
+    "id": 74,
+    "topic": "TOEIC Reading Part 5 (Q113)",
+    "word": "certified (adj / v)",
+    "meaning": "được chứng nhận",
+    "hint": "Được xác thực bằng bằng cấp hoặc chứng chỉ",
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800"
+  },
+  {
+    "id": 75,
+    "topic": "TOEIC Reading Part 5 (Q113)",
+    "word": "admired (adj / v)",
+    "meaning": "được ngưỡng mộ",
+    "hint": "Được người khác thán phục và khen ngợi",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 76,
+    "topic": "TOEIC Reading Part 5 (Q114)",
+    "word": "malfunction of the printer",
+    "meaning": "sự cố hoạt động của máy in",
+    "hint": "Hỏng hóc máy móc khiến không thể in ấn",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800"
+  },
+  {
+    "id": 77,
+    "topic": "TOEIC Reading Part 5 (Q114)",
+    "word": "was due to a component",
+    "meaning": "là do một linh kiện",
+    "hint": "Nguyên nhân xuất phát từ một bộ phận nhỏ",
+    "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?w=800"
+  },
+  {
+    "id": 78,
+    "topic": "TOEIC Reading Part 5 (Q114)",
+    "word": "inserted incorrectly during the assembly process",
+    "meaning": "được lắp đặt không đúng cách trong quá trình lắp ráp",
+    "hint": "Lỗi kỹ thuật khi ghép nối các chi tiết",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 79,
+    "topic": "TOEIC Reading Part 5 (Q114)",
+    "word": "whereas (conj)",
+    "meaning": "trong khi đó",
+    "hint": "Từ nối thể hiện sự tương phản giữa hai vế",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 80,
+    "topic": "TOEIC Reading Part 5 (Q114)",
+    "word": "as though (conj)",
+    "meaning": "như thể là",
+    "hint": "Cụm từ diễn tả sự giả định hoặc ví von",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 81,
+    "topic": "TOEIC Reading Part 5 (Q114)",
+    "word": "instead of (prep)",
+    "meaning": "thay vì",
+    "hint": "Lựa chọn phương án này bỏ qua phương án khác",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800"
+  },
+  {
+    "id": 82,
+    "topic": "TOEIC Reading Part 5 (Q115)",
+    "word": "proposed holiday schedule",
+    "meaning": "lịch nghỉ lễ được đề xuất",
+    "hint": "Kế hoạch ngày nghỉ dự kiến công bố",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 83,
+    "topic": "TOEIC Reading Part 5 (Q115)",
+    "word": "acceptable to most workers",
+    "meaning": "có thể chấp nhận được đối với hầu hết công nhân",
+    "hint": "Được số đông nhân sự đồng tình",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 84,
+    "topic": "TOEIC Reading Part 5 (Q115)",
+    "word": "acceptably (adv)",
+    "meaning": "chấp nhận được",
+    "hint": "Trạng từ thể hiện mức độ thỏa đáng",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 85,
+    "topic": "TOEIC Reading Part 5 (Q115)",
+    "word": "accept (v)",
+    "meaning": "chấp nhận",
+    "hint": "Động từ thể hiện việc đồng ý nhận cái gì đó",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800"
+  },
+  {
+    "id": 86,
+    "topic": "TOEIC Reading Part 5 (Q115)",
+    "word": "accepting (v / n)",
+    "meaning": "sự chấp nhận / đang nhận",
+    "hint": "Danh động từ chỉ hành động đón nhận",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800"
+  },
+  {
+    "id": 87,
+    "topic": "TOEIC Reading Part 5 (Q116)",
+    "word": "test will likely prove",
+    "meaning": "xét nghiệm có khả năng sẽ chứng minh",
+    "hint": "Phân tích y khoa giúp đưa ra kết luận",
+    "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=800"
+  },
+  {
+    "id": 88,
+    "topic": "TOEIC Reading Part 5 (Q116)",
+    "word": "whether or not the patient has the disease",
+    "meaning": "liệu bệnh nhân có mắc bệnh hay không",
+    "hint": "Chẩn đoán sức khỏe của người khám",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+  },
+  {
+    "id": 89,
+    "topic": "TOEIC Reading Part 5 (Q116)",
+    "word": "like (prep / v)",
+    "meaning": "giống như / thích",
+    "hint": "Từ chỉ sự tương đồng hoặc sở thích",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+  },
+  {
+    "id": 90,
+    "topic": "TOEIC Reading Part 5 (Q116)",
+    "word": "liking (n)",
+    "meaning": "sự yêu thích",
+    "hint": "Danh từ chỉ cảm giác có thiện cảm",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 91,
+    "topic": "TOEIC Reading Part 5 (Q116)",
+    "word": "likable (adj)",
+    "meaning": "dễ thương / dễ mến",
+    "hint": "Tính từ miêu tả người tạo thiện cảm",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 92,
+    "topic": "TOEIC Reading Part 5 (Q117)",
+    "word": "over two hundred unique stores",
+    "meaning": "hơn hai trăm cửa hàng độc đáo",
+    "hint": "Số lượng điểm bán hàng đa dạng phong phú",
+    "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=800"
+  },
+  {
+    "id": 93,
+    "topic": "TOEIC Reading Part 5 (Q117)",
+    "word": "attracts millions of shoppers",
+    "meaning": "thu hút hàng triệu người mua sắm",
+    "hint": "Hấp dẫn đông đảo người tiêu dùng",
+    "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=800"
+  },
+  {
+    "id": 94,
+    "topic": "TOEIC Reading Part 5 (Q117)",
+    "word": "implements (v)",
+    "meaning": "thực hiện / thi hành",
+    "hint": "Động từ chỉ việc đưa kế hoạch vào áp dụng",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 95,
+    "topic": "TOEIC Reading Part 5 (Q117)",
+    "word": "postpones (v)",
+    "meaning": "trì hoãn",
+    "hint": "Động từ chỉ việc dời lịch làm việc",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 96,
+    "topic": "TOEIC Reading Part 5 (Q117)",
+    "word": "contributes (v)",
+    "meaning": "đóng góp",
+    "hint": "Động từ chỉ việc góp phần hoặc hỗ trợ",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 97,
+    "topic": "TOEIC Reading Part 5 (Q118)",
+    "word": "participants will be judged on athletic performance",
+    "meaning": "các thí sinh sẽ được đánh giá dựa trên thể hiện thể thao",
+    "hint": "Chấm điểm dựa vào năng lực vận động",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800"
+  },
+  {
+    "id": 98,
+    "topic": "TOEIC Reading Part 5 (Q118)",
+    "word": "winners will be announced later in the awards ceremony",
+    "meaning": "người chiến thắng sẽ được công bố sau trong lễ trao giải",
+    "hint": "Xướng tên người nhận giải thưởng sự kiện",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=800"
+  },
+  {
+    "id": 99,
+    "topic": "TOEIC Reading Part 5 (Q118)",
+    "word": "athletically (adv)",
+    "meaning": "về mặt thể thao / năng động",
+    "hint": "Trạng từ thể hiện phong thái vận động",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800"
+  },
+  {
+    "id": 100,
+    "topic": "TOEIC Reading Part 5 (Q118)",
+    "word": "athletic (adj)",
+    "meaning": "thuộc về thể thao",
+    "hint": "Tính từ miêu tả hoạt động thể thao",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800"
+  },
+  {
+    "id": 101,
+    "topic": "TOEIC Reading Part 5 (Q118)",
+    "word": "athletes (n)",
+    "meaning": "các vận động viên",
+    "hint": "Danh từ số nhiều chỉ người thi đấu thể thao",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800"
+  },
+  {
+    "id": 102,
+    "topic": "TOEIC Reading Part 5 (Q118)",
+    "word": "athlete (n)",
+    "meaning": "vận động viên",
+    "hint": "Danh từ số ít chỉ người rèn luyện thể thao",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800"
+  },
+  {
+    "id": 103,
+    "topic": "TOEIC Reading Part 5 (Q119)",
+    "word": "organization that has been supporting advances",
+    "meaning": "tổ chức đã và đang hỗ trợ các tiến bộ",
+    "hint": "Đơn vị tài trợ phát triển khoa học",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+  },
+  {
+    "id": 104,
+    "topic": "TOEIC Reading Part 5 (Q119)",
+    "word": "in medical technology for the past decade",
+    "meaning": "trong công nghệ y tế trong thập kỷ qua",
+    "hint": "Thiết bị y khoa hiện đại phát triển suốt 10 năm",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+  },
+  {
+    "id": 105,
+    "topic": "TOEIC Reading Part 5 (Q119)",
+    "word": "to advance (v)",
+    "meaning": "để thúc đẩy / tiến bộ",
+    "hint": "Dạng động từ thể hiện sự gia tăng",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+  },
+  {
+    "id": 106,
+    "topic": "TOEIC Reading Part 5 (Q119)",
+    "word": "advanced (adj / v)",
+    "meaning": "nâng cao / tiên tiến",
+    "hint": "Tính từ chỉ công nghệ hiện đại",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+  },
+  {
+    "id": 107,
+    "topic": "TOEIC Reading Part 5 (Q119)",
+    "word": "advancing (v / n)",
+    "meaning": "sự tiến bộ / đang thúc đẩy",
+    "hint": "Danh động từ thể hiện xu hướng đi lên",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+  },
+  {
+    "id": 108,
+    "topic": "TOEIC Reading Part 5 (Q120)",
+    "word": "Whether the volleyball tournament is held indoors or outdoors",
+    "meaning": "Liệu giải đấu bóng chuyền được tổ chức trong nhà hay ngoài trời",
+    "hint": "Địa điểm diễn ra trận tranh tài bóng chuyền",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800"
+  },
+  {
+    "id": 109,
+    "topic": "TOEIC Reading Part 5 (Q120)",
+    "word": "depends heavily on the weather forecast for that day",
+    "meaning": "phụ thuộc phần lớn vào dự báo thời tiết của ngày hôm đó",
+    "hint": "Chi phối bởi tình hình nắng mưa trong ngày",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800"
+  },
+  {
+    "id": 110,
+    "topic": "TOEIC Reading Part 5 (Q120)",
+    "word": "Although (conj)",
+    "meaning": "mặc dù",
+    "hint": "Từ nối chỉ sự nhượng bộ giữa hai vế câu",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 111,
+    "topic": "TOEIC Reading Part 5 (Q121)",
+    "word": "company was under investigation",
+    "meaning": "công ty đang bị điều tra",
+    "hint": "Doanh nghiệp trong quá trình rà soát pháp lý",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 112,
+    "topic": "TOEIC Reading Part 5 (Q121)",
+    "word": "several former employees made allegations of unfair practices",
+    "meaning": "nhiều cựu nhân viên đã cáo buộc về các hành vi bất công",
+    "hint": "Nhân sự cũ đưa ra khiếu nại về sai phạm",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800"
+  },
+  {
+    "id": 113,
+    "topic": "TOEIC Reading Part 5 (Q121)",
+    "word": "compositions (n)",
+    "meaning": "các thành phần / tác phẩm",
+    "hint": "Danh từ số nhiều chỉ kết cấu hoặc bài sáng tác",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800"
+  },
+  {
+    "id": 114,
+    "topic": "TOEIC Reading Part 5 (Q121)",
+    "word": "assurances (n)",
+    "meaning": "những sự cam đoan",
+    "hint": "Danh từ chỉ lời đảm bảo chắc chắn",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800"
+  },
+  {
+    "id": 115,
+    "topic": "TOEIC Reading Part 5 (Q121)",
+    "word": "momentums (n)",
+    "meaning": "các quán tính / đà phát triển",
+    "hint": "Lực thúc đẩy sự việc tiếp tục tiến lên",
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800"
+  },
+  {
+    "id": 116,
+    "topic": "TOEIC Reading Part 5 (Q122)",
+    "word": "Having joined Vince's Gym",
+    "meaning": "Sau khi tham gia phòng tập Gym của Vince",
+    "hint": "Ghi danh thành viên phòng tập thể hình",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800"
+  },
+  {
+    "id": 117,
+    "topic": "TOEIC Reading Part 5 (Q122)",
+    "word": "attend group classes and health counseling sessions for free",
+    "meaning": "tham gia các lớp học nhóm và các buổi tư vấn sức khỏe miễn phí",
+    "hint": "Học thể dục và nhận lời khuyên sức khỏe",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800"
+  },
+  {
+    "id": 118,
+    "topic": "TOEIC Reading Part 5 (Q122)",
+    "word": "Being (v / n)",
+    "meaning": "việc là / sự hiện diện",
+    "hint": "Danh động từ của 'be'",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
+  },
+  {
+    "id": 119,
+    "topic": "TOEIC Reading Part 5 (Q122)",
+    "word": "To have (v)",
+    "meaning": "để có",
+    "hint": "Động từ chỉ mục đích sở hữu cái gì đó",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800"
+  },
+  {
+    "id": 120,
+    "topic": "TOEIC Reading Part 5 (Q122)",
+    "word": "To be (v)",
+    "meaning": "để trở thành",
+    "hint": "Dạng động từ thể hiện mục tiêu hướng tới",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
+  },
+  {
+    "id": 121,
+    "topic": "TOEIC Reading Part 5 (Q123)",
+    "word": "best method for improving the appearance of your home",
+    "meaning": "phương pháp tốt nhất để cải thiện vẻ ngoài của ngôi nhà",
+    "hint": "Cách làm đẹp diện mạo căn nhà",
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800"
+  },
+  {
+    "id": 122,
+    "topic": "TOEIC Reading Part 5 (Q123)",
+    "word": "at little cost is giving the exterior a fresh coat of paint",
+    "meaning": "với chi phí thấp là sơn một lớp sơn mới cho ngoại thất",
+    "hint": "Tân trang bên ngoài căn nhà tiết kiệm tiền",
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800"
+  },
+  {
+    "id": 123,
+    "topic": "TOEIC Reading Part 5 (Q123)",
+    "word": "privacy (n)",
+    "meaning": "sự riêng tư",
+    "hint": "Quyền cá nhân không bị người khác làm phiền",
+    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=800"
+  },
+  {
+    "id": 124,
+    "topic": "TOEIC Reading Part 5 (Q123)",
+    "word": "control (n / v)",
+    "meaning": "sự kiểm soát",
+    "hint": "Khả năng quản lý hoặc điều hành sự việc",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 125,
+    "topic": "TOEIC Reading Part 5 (Q123)",
+    "word": "location (n)",
+    "meaning": "vị trí / địa điểm",
+    "hint": "Tọa độ địa lý của căn nhà",
+    "image": "https://images.unsplash.com/photo-1477959858617-67f30ac4ce78?w=800"
+  },
+  {
+    "id": 126,
+    "topic": "TOEIC Reading Part 5 (Q124)",
+    "word": "Marketers believed that if the packaging were more variously colored",
+    "meaning": "Các nhà tiếp thị tin rằng nếu bao bì có màu sắc đa dạng hơn",
+    "hint": "Thiết kế bao bì nhiều sắc màu phong phú",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800"
+  },
+  {
+    "id": 127,
+    "topic": "TOEIC Reading Part 5 (Q124)",
+    "word": "consumers might pay more attention to the product",
+    "meaning": "người tiêu dùng có thể chú ý nhiều hơn đến sản phẩm",
+    "hint": "Thu hút sự quan tâm của khách hàng",
+    "image": "https://images.unsplash.com/photo-1556742049-0a6798077771?w=800"
+  },
+  {
+    "id": 128,
+    "topic": "TOEIC Reading Part 5 (Q124)",
+    "word": "variously (adv)",
+    "meaning": "nhiều cách khác nhau",
+    "hint": "Trạng từ thể hiện tính đa dạng",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800"
+  },
+  {
+    "id": 129,
+    "topic": "TOEIC Reading Part 5 (Q124)",
+    "word": "vary (v)",
+    "meaning": "biến đổi / thay đổi",
+    "hint": "Động từ thể hiện sự khác nhau theo hoàn cảnh",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800"
+  },
+  {
+    "id": 130,
+    "topic": "TOEIC Reading Part 5 (Q124)",
+    "word": "variety (n)",
+    "meaning": "sự phong phú / chủng loại",
+    "hint": "Danh từ thể hiện sự đa dạng",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800"
+  },
+  {
+    "id": 131,
+    "topic": "TOEIC Reading Part 5 (Q125)",
+    "word": "police officer directed the traffic toward the detour ramp",
+    "meaning": "cảnh sát đã điều hướng giao thông về phía đường vòng",
+    "hint": "Cảnh sát phân luồng xe đi theo lối rẽ tạm thời",
+    "image": "https://images.unsplash.com/photo-1477959858617-67f30ac4ce78?w=800"
+  },
+  {
+    "id": 132,
+    "topic": "TOEIC Reading Part 5 (Q125)",
+    "word": "so that drivers could find the route easily",
+    "meaning": "để các tài xế có thể tìm thấy tuyến đường một cách dễ dàng",
+    "hint": "Hỗ trợ người lái xe tìm hướng đi",
+    "image": "https://images.unsplash.com/photo-1477959858617-67f30ac4ce78?w=800"
+  },
+  {
+    "id": 133,
+    "topic": "TOEIC Reading Part 5 (Q125)",
+    "word": "toward (prep)",
+    "meaning": "về phía",
+    "hint": "Giới từ chỉ hướng di chuyển tới đâu",
+    "image": "https://images.unsplash.com/photo-1477959858617-67f30ac4ce78?w=800"
+  },
+  {
+    "id": 134,
+    "topic": "TOEIC Reading Part 5 (Q125)",
+    "word": "during (prep)",
+    "meaning": "trong suốt",
+    "hint": "Giới từ chỉ khoảng thời gian sự việc diễn ra",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 135,
+    "topic": "TOEIC Reading Part 5 (Q126)",
+    "word": "Employees are asked to pair up with another colleague",
+    "meaning": "Nhân viên được yêu cầu ghép cặp với một đồng nghiệp khác",
+    "hint": "Chia thành các nhóm hai người cùng làm việc",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 136,
+    "topic": "TOEIC Reading Part 5 (Q126)",
+    "word": "check each other at the predetermined meeting place during fire drills",
+    "meaning": "diễn tập phòng cháy chữa cháy và điểm danh nhau tại nơi tập kết đã định",
+    "hint": "Kiểm tra sĩ số nhân sự khi tập luyện thoát hiểm",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 137,
+    "topic": "TOEIC Reading Part 5 (Q126)",
+    "word": "reliance (n)",
+    "meaning": "sự phụ thuộc / sự tin cậy",
+    "hint": "Danh từ thể hiện việc trông cậy vào ai đó",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 138,
+    "topic": "TOEIC Reading Part 5 (Q126)",
+    "word": "supervision (n)",
+    "meaning": "sự giám sát",
+    "hint": "Danh từ chỉ việc quản lý kiểm tra tiến độ",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800"
+  },
+  {
+    "id": 139,
+    "topic": "TOEIC Reading Part 5 (Q126)",
+    "word": "calculator (n)",
+    "meaning": "máy tính bỏ túi",
+    "hint": "Thiết bị tính toán con số",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 140,
+    "topic": "TOEIC Reading Part 5 (Q127)",
+    "word": "car owner submitted evidence of the damage",
+    "meaning": "chủ sở hữu xe hơi đã nộp bằng chứng hư hỏng",
+    "hint": "Gửi tài liệu chứng minh thiệt hại của phương tiện",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 141,
+    "topic": "TOEIC Reading Part 5 (Q127)",
+    "word": "along with a mechanic's report to his insurance company",
+    "meaning": "cùng với báo cáo của thợ máy gửi cho công ty bảo hiểm của mình",
+    "hint": "Kèm theo bản kiểm định hư hỏng cho đơn vị bảo hiểm",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 142,
+    "topic": "TOEIC Reading Part 5 (Q127)",
+    "word": "photographer (n)",
+    "meaning": "nhiếp ảnh gia",
+    "hint": "Người chụp ảnh chuyên nghiệp",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800"
+  },
+  {
+    "id": 143,
+    "topic": "TOEIC Reading Part 5 (Q127)",
+    "word": "photographically (adv)",
+    "meaning": "bằng hình ảnh / nhiếp ảnh",
+    "hint": "Trạng từ diễn tả bằng phương pháp chụp hình",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800"
+  },
+  {
+    "id": 144,
+    "topic": "TOEIC Reading Part 5 (Q127)",
+    "word": "photogenic (adj)",
+    "meaning": "ăn ảnh",
+    "hint": "Tính từ miêu tả người lên hình đẹp",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
+  },
+  {
+    "id": 145,
+    "topic": "TOEIC Reading Part 5 (Q128)",
+    "word": "restrooms on the second floor are temporarily unavailable",
+    "meaning": "nhà vệ sinh trên tầng hai tạm thời không khả dụng",
+    "hint": "Phòng vệ sinh tạm ngưng phục vụ",
+    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=800"
+  },
+  {
+    "id": 146,
+    "topic": "TOEIC Reading Part 5 (Q128)",
+    "word": "because one of the sinks is being replaced",
+    "meaning": "vì một trong những bồn rửa đang được thay thế",
+    "hint": "Đang trong quá trình đổi mới bồn rửa",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 147,
+    "topic": "TOEIC Reading Part 5 (Q128)",
+    "word": "previously (adv)",
+    "meaning": "trước đây",
+    "hint": "Trạng từ chỉ mốc thời gian quá khứ",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800"
+  },
+  {
+    "id": 148,
+    "topic": "TOEIC Reading Part 5 (Q128)",
+    "word": "respectively (adv)",
+    "meaning": "lần lượt theo thứ tự",
+    "hint": "Trạng từ sắp xếp theo trình tự đề cập",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 149,
+    "topic": "TOEIC Reading Part 5 (Q128)",
+    "word": "vitally (adv)",
+    "meaning": "cực kỳ quan trọng",
+    "hint": "Trạng từ thể hiện tầm quan trọng sống còn",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800"
+  },
+  {
+    "id": 150,
+    "topic": "TOEIC Reading Part 5 (Q129)",
+    "word": "Because our sales representatives meet with high level clients in the industry",
+    "meaning": "Bởi vì các đại diện bán hàng của chúng tôi gặp gỡ các khách hàng cấp cao trong ngành",
+    "hint": "Làm việc cùng đối tác quan trọng hàng đầu",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800"
+  },
+  {
+    "id": 151,
+    "topic": "TOEIC Reading Part 5 (Q129)",
+    "word": "only those with a professional manner will be considered for the position",
+    "meaning": "chỉ những người có tác phong chuyên nghiệp mới được cân nhắc cho vị trí này",
+    "hint": "Ưu tiên ứng viên có tác phong chuẩn mực",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 152,
+    "topic": "TOEIC Reading Part 5 (Q129)",
+    "word": "moreover (adv)",
+    "meaning": "hơn nữa",
+    "hint": "Trạng từ bổ sung ý kiến vào mệnh đề",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 153,
+    "topic": "TOEIC Reading Part 5 (Q129)",
+    "word": "except (prep)",
+    "meaning": "ngoại trừ",
+    "hint": "Giới từ chỉ sự loại trừ một đối tượng",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800"
+  },
+  {
+    "id": 154,
+    "topic": "TOEIC Reading Part 5 (Q129)",
+    "word": "however (adv / conj)",
+    "meaning": "tuy nhiên",
+    "hint": "Từ nối thể hiện sự ngắt ý hoặc tương phản",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "id": 155,
+    "topic": "TOEIC Reading Part 5 (Q130)",
+    "word": "On next week's radio program",
+    "meaning": "Trong chương trình phát thanh tuần tới",
+    "hint": "Buổi truyền thanh phát sóng trên đài radio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800"
+  },
+  {
+    "id": 156,
+    "topic": "TOEIC Reading Part 5 (Q130)",
+    "word": "our host will interview Kristen Dabney",
+    "meaning": "mc của chúng tôi sẽ phỏng vấn Kristen Dabney",
+    "hint": "Người dẫn chương trình trao đổi cùng khách mời",
+    "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=800"
+  },
+  {
+    "id": 157,
+    "topic": "TOEIC Reading Part 5 (Q130)",
+    "word": "about her time working as an interpreter for a UN official",
+    "meaning": "về thời gian cô ấy làm thông dịch viên cho một quan chức Liên Hợp Quốc",
+    "hint": "Kinh nghiệm làm việc của người dịch thuật",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 158,
+    "topic": "TOEIC Reading Part 5 (Q130)",
+    "word": "interpretation (n)",
+    "meaning": "sự phiên dịch / sự diễn giải",
+    "hint": "Danh từ chỉ hoạt động giải thích ngữ nghĩa",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 159,
+    "topic": "TOEIC Reading Part 5 (Q130)",
+    "word": "interpret (v)",
+    "meaning": "thông dịch / diễn giải",
+    "hint": "Động từ dịch trực tiếp lời nói",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 160,
+    "topic": "TOEIC Reading Part 5 (Q130)",
+    "word": "interpreting (v / n)",
+    "meaning": "việc phiên dịch",
+    "hint": "Danh động từ chỉ công việc dịch thuật",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  }
+]

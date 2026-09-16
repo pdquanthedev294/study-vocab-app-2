@@ -1,0 +1,1367 @@
+[
+  {
+    "id": 1,
+    "topic": "Common Words/Phrases",
+    "word": "in high demand",
+    "meaning": "nhu cầu cao",
+    "hint": "Trạng thái sản phẩm được nhiều người tìm mua"
+  },
+  {
+    "id": 2,
+    "topic": "Common Words/Phrases",
+    "word": "in stock",
+    "meaning": "còn hàng",
+    "hint": "Hàng vẫn còn sẵn trong kho/cửa hàng"
+  },
+  {
+    "id": 3,
+    "topic": "Common Words/Phrases",
+    "word": "place an order",
+    "meaning": "đặt hàng",
+    "hint": "Thực hiện việc đặt mua sản phẩm"
+  },
+  {
+    "id": 4,
+    "topic": "Common Words/Phrases",
+    "word": "ring up your purchase",
+    "meaning": "ghi tổng số tiền lên máy thu ngân",
+    "hint": "Thao tác tính tiền của thu ngân"
+  },
+  {
+    "id": 5,
+    "topic": "Common Words/Phrases",
+    "word": "delivery vehicle",
+    "meaning": "xe giao hàng",
+    "hint": "Phương tiện dùng để vận chuyển hàng hóa"
+  },
+  {
+    "id": 6,
+    "topic": "Common Words/Phrases",
+    "word": "catering business",
+    "meaning": "cửa hàng phục vụ ăn uống",
+    "hint": "Doanh nghiệp cung cấp dịch vụ ăn uống"
+  },
+  {
+    "id": 7,
+    "topic": "Common Words/Phrases",
+    "word": "compact (adj)",
+    "meaning": "nhỏ gọn",
+    "hint": "Tính từ miêu tả kích thước nhỏ gọn"
+  },
+  {
+    "id": 8,
+    "topic": "Common Words/Phrases",
+    "word": "get seats",
+    "meaning": "đặt chỗ",
+    "hint": "Giữ chỗ ngồi trên phương tiện hoặc sự kiện"
+  },
+  {
+    "id": 9,
+    "topic": "Common Words/Phrases",
+    "word": "be on a cruise ship",
+    "meaning": "trên 1 du thuyền trên sông",
+    "hint": "Trạng thái đang ở trên tàu du lịch"
+  },
+  {
+    "id": 10,
+    "topic": "Common Words/Phrases",
+    "word": "spectacular (adj)",
+    "meaning": "hoành tráng / đẹp",
+    "hint": "Tính từ miêu tả cảnh quan ngoạn mục"
+  },
+  {
+    "id": 11,
+    "topic": "Common Words/Phrases",
+    "word": "order replacement",
+    "meaning": "đặt hàng thay thế",
+    "hint": "Đặt linh kiện hoặc hàng mới thế chỗ cái cũ"
+  },
+  {
+    "id": 12,
+    "topic": "Common Words/Phrases",
+    "word": "packing slip",
+    "meaning": "phiếu giao hàng",
+    "hint": "Giấy kê danh mục hàng hóa đi kèm kiện hàng"
+  },
+  {
+    "id": 13,
+    "topic": "Common Words/Phrases",
+    "word": "discontinued (PII)",
+    "meaning": "ngừng sản xuất",
+    "hint": "Sản phẩm đã dừng bán/chế tạo"
+  },
+  {
+    "id": 14,
+    "topic": "Common Words/Phrases",
+    "word": "give sb a refund",
+    "meaning": "hoàn lại tiền",
+    "hint": "Trả lại tiền cho ai đó"
+  },
+  {
+    "id": 15,
+    "topic": "Common Words/Phrases",
+    "word": "transaction (n)",
+    "meaning": "sự giao dịch",
+    "hint": "Hoạt động mua bán/thanh toán"
+  },
+  {
+    "id": 16,
+    "topic": "Common Words/Phrases",
+    "word": "compartment (n)",
+    "meaning": "gian / ngăn",
+    "hint": "Không gian nhỏ dùng để chứa đồ"
+  },
+  {
+    "id": 17,
+    "topic": "Common Words/Phrases",
+    "word": "make a purchase",
+    "meaning": "mua hàng",
+    "hint": "Thực hiện giao dịch mua một vật gì đó"
+  },
+  {
+    "id": 18,
+    "topic": "Common Words/Phrases",
+    "word": "be supposed to do sth",
+    "meaning": "được cho là",
+    "hint": "Có nhiệm vụ hoặc được dự kiến làm gì"
+  },
+  {
+    "id": 19,
+    "topic": "TOEIC Listening Part 3 (Script mp3.1 & mp3.2)",
+    "word": "carries the new smartphone",
+    "meaning": "có bán chiếc điện thoại thông minh mới",
+    "hint": "Cửa hàng phân phối/kinh doanh dòng điện thoại mới"
+  },
+  {
+    "id": 20,
+    "topic": "TOEIC Listening Part 3 (Script mp3.1 & mp3.2)",
+    "word": "waiting a long time",
+    "meaning": "chờ rất lâu",
+    "hint": "Dành nhiều thời gian đợi chờ điều gì"
+  },
+  {
+    "id": 21,
+    "topic": "TOEIC Listening Part 3 (Script mp3.1 & mp3.2)",
+    "word": "a lot of interest",
+    "meaning": "rất nhiều sự quan tâm",
+    "hint": "Sự chú ý và yêu thích từ phía khách hàng"
+  },
+  {
+    "id": 22,
+    "topic": "TOEIC Listening Part 3 (Script mp3.1 & mp3.2)",
+    "word": "What colors does it come in?",
+    "meaning": "Có những màu nào nhỉ?",
+    "hint": "Mẫu câu hỏi về các phiên bản màu sắc của sản phẩm"
+  },
+  {
+    "id": 23,
+    "topic": "TOEIC Listening Part 3 (Script mp3.1 & mp3.2)",
+    "word": "in high demand",
+    "meaning": "nhu cầu sử dụng tăng cao",
+    "hint": "Tình trạng sản phẩm được săn đón nhiều"
+  },
+  {
+    "id": 24,
+    "topic": "TOEIC Listening Part 3 (Script mp3.1 & mp3.2)",
+    "word": "in stock",
+    "meaning": "còn hàng / có sẵn trong kho",
+    "hint": "Hàng hóa sẵn có để bán"
+  },
+  {
+    "id": 25,
+    "topic": "TOEIC Listening Part 3 (Script mp3.1 & mp3.2)",
+    "word": "place an order from the warehouse",
+    "meaning": "đặt hàng từ nhà kho",
+    "hint": "Gửi yêu cầu xuất/chuyển hàng từ kho về"
+  },
+  {
+    "id": 26,
+    "topic": "TOEIC Listening Part 3 (Script mp3.1 & mp3.2)",
+    "word": "looks nice",
+    "meaning": "trông thật đẹp",
+    "hint": "Đánh giá tích cực về vẻ ngoài"
+  },
+  {
+    "id": 27,
+    "topic": "TOEIC Listening Part 3 (Script mp3.1 & mp3.2)",
+    "word": "Follow me to the register",
+    "meaning": "Theo tôi đến quầy đăng ký / quầy thu ngân",
+    "hint": "Lời mời khách đi tới quầy tính tiền"
+  },
+  {
+    "id": 28,
+    "topic": "TOEIC Listening Part 3 (Script mp3.1 & mp3.2)",
+    "word": "ring up your purchase",
+    "meaning": "ghi số tiền bán hàng lên máy thu ngân",
+    "hint": "Nhập giá tiền vào máy quẹt/tính tiền"
+  },
+  {
+    "id": 29,
+    "topic": "TOEIC Listening Part 3 (Script mp3.1 & mp3.2)",
+    "word": "active the device",
+    "meaning": "kích hoạt thiết bị",
+    "hint": "Mở khóa/cấu hình thiết bị lần đầu cho khách"
+  },
+  {
+    "id": 30,
+    "topic": "TOEIC Listening Part 3 (Câu 1)",
+    "word": "What are the speakers discussing?",
+    "meaning": "Những người nói đang thảo luận điều gì?",
+    "hint": "Câu hỏi tổng quan về chủ đề đoạn hội thoại"
+  },
+  {
+    "id": 31,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án A)",
+    "word": "A motorcycle",
+    "meaning": "Xe máy",
+    "hint": "Phương tiện di chuyển hai bánh"
+  },
+  {
+    "id": 32,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án B)",
+    "word": "A mobile phone",
+    "meaning": "Điện thoại di động",
+    "hint": "Thiết bị di động thông minh"
+  },
+  {
+    "id": 33,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án C)",
+    "word": "A laptop computer",
+    "meaning": "Máy tính xách tay",
+    "hint": "Máy tính cá nhân di động"
+  },
+  {
+    "id": 34,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án D)",
+    "word": "An exercise machine",
+    "meaning": "Máy tập thể dục",
+    "hint": "Thiết bị hỗ trợ tập luyện sức khỏe"
+  },
+  {
+    "id": 35,
+    "topic": "TOEIC Listening Part 3 (Câu 2)",
+    "word": "What does the man ask about?",
+    "meaning": "Người đàn ông hỏi về điều gì?",
+    "hint": "Nội dung câu hỏi của người nam trong bài"
+  },
+  {
+    "id": 36,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án A)",
+    "word": "The prices",
+    "meaning": "Giá cả",
+    "hint": "Số tiền của sản phẩm"
+  },
+  {
+    "id": 37,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án B)",
+    "word": "The battery life",
+    "meaning": "Thời lượng pin",
+    "hint": "Thời gian sử dụng của viên pin"
+  },
+  {
+    "id": 38,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án C)",
+    "word": "The warranty",
+    "meaning": "Giấy / chế độ bảo hành",
+    "hint": "Cam kết sửa chữa miễn phí khi hư hỏng"
+  },
+  {
+    "id": 39,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án D)",
+    "word": "The color options",
+    "meaning": "Các lựa chọn màu sắc",
+    "hint": "Danh sách các màu có thể chọn mua"
+  },
+  {
+    "id": 40,
+    "topic": "TOEIC Listening Part 3 (Câu 3)",
+    "word": "What will the woman most likely do next?",
+    "meaning": "Người phụ nữ có khả năng sẽ làm gì tiếp theo?",
+    "hint": "Hành động dự kiến diễn ra ngay sau cuộc thoại"
+  },
+  {
+    "id": 41,
+    "topic": "TOEIC Listening Part 3 (Câu 3 - Đáp án A)",
+    "word": "Request some feedback",
+    "meaning": "Yêu cầu phản hồi",
+    "hint": "Xin ý kiến/đánh giá từ khách hàng"
+  },
+  {
+    "id": 42,
+    "topic": "TOEIC Listening Part 3 (Câu 3 - Đáp án B)",
+    "word": "Contact a technician",
+    "meaning": "Liên hệ với kỹ thuật viên",
+    "hint": "Gọi cho thợ/chuyên viên kỹ thuật"
+  },
+  {
+    "id": 43,
+    "topic": "TOEIC Listening Part 3 (Câu 3 - Đáp án C)",
+    "word": "Complete a transaction",
+    "meaning": "Hoàn tất một giao dịch",
+    "hint": "Thực hiện xong việc mua bán và thanh toán"
+  },
+  {
+    "id": 44,
+    "topic": "TOEIC Listening Part 3 (Câu 3 - Đáp án D)",
+    "word": "Create an online profile",
+    "meaning": "Tạo một hồ sơ trực tuyến",
+    "hint": "Đăng ký/tạo tài khoản trên mạng"
+  },
+  {
+    "id": 45,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "looking to buy",
+    "meaning": "đang tìm để mua",
+    "hint": "Ý định tìm kiếm để mua sắm một mặt hàng"
+  },
+  {
+    "id": 46,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "delivery vehicle",
+    "meaning": "xe giao hàng / phương tiện giao hàng",
+    "hint": "Xe chuyên dùng để vận chuyển hàng hóa"
+  },
+  {
+    "id": 47,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "catering business",
+    "meaning": "cửa hàng / kinh doanh dịch vụ ăn uống",
+    "hint": "Mô hình kinh doanh cung cấp đồ ăn thức uống"
+  },
+  {
+    "id": 48,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "keep the food hot or cold",
+    "meaning": "giữ được thức ăn nóng hoặc lạnh",
+    "hint": "Khả năng bảo quản nhiệt độ cho thực phẩm"
+  },
+  {
+    "id": 49,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "come to the right place",
+    "meaning": "đến đúng nơi",
+    "hint": "Mẫu câu khẳng định khách đã chọn đúng địa điểm"
+  },
+  {
+    "id": 50,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "suit your needs",
+    "meaning": "phù hợp với nhu cầu của bạn",
+    "hint": "Đáp ứng đúng mong muốn/yêu cầu sử dụng"
+  },
+  {
+    "id": 51,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "heating and refrigeration compartments",
+    "meaning": "các ngăn làm nóng và làm lạnh",
+    "hint": "Các khoang chứa đồ giữ nhiệt/làm mát"
+  },
+  {
+    "id": 52,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "catering orders",
+    "meaning": "các đơn đặt hàng dịch vụ ăn uống",
+    "hint": "Đơn đặt đồ ăn phục vụ sự kiện/tiệc"
+  },
+  {
+    "id": 53,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "quite small",
+    "meaning": "thường khá nhỏ",
+    "hint": "Quy mô/kích thước khiêm tốn"
+  },
+  {
+    "id": 54,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "anything too big",
+    "meaning": "cái gì đó quá lớn",
+    "hint": "Vật phẩm có kích thước quá khổ"
+  },
+  {
+    "id": 55,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "Series-Ten trucks",
+    "meaning": "xe tải Series-Ten",
+    "hint": "Tên dòng xe tải đang giới thiệu"
+  },
+  {
+    "id": 56,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "quite compact",
+    "meaning": "khá nhỏ gọn",
+    "hint": "Đặc điểm thiết kế tinh gọn"
+  },
+  {
+    "id": 57,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "in the parking lot",
+    "meaning": "trong bãi đậu xe",
+    "hint": "Vị trí đậu đỗ phương tiện"
+  },
+  {
+    "id": 58,
+    "topic": "TOEIC Listening Part 3 (Script mp3.4 & mp3.5)",
+    "word": "take one out for a drive",
+    "meaning": "thử lái xe ra ngoài / lái thử",
+    "hint": "Trải nghiệm lái thử phương tiện"
+  },
+  {
+    "id": 59,
+    "topic": "TOEIC Listening Part 3 (Câu 1)",
+    "word": "What is the purpose of the man's visit?",
+    "meaning": "Mục đích chuyến đi của người đàn ông là gì?",
+    "hint": "Câu hỏi lý do khách tìm đến cửa hàng"
+  },
+  {
+    "id": 60,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án A)",
+    "word": "To request a refund",
+    "meaning": "Để yêu cầu hoàn lại tiền",
+    "hint": "Đòi lại khoản tiền đã thanh toán"
+  },
+  {
+    "id": 61,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án B)",
+    "word": "To repair some equipment",
+    "meaning": "Để sửa chữa một số thiết bị",
+    "hint": "Khắc phục hư hỏng máy móc"
+  },
+  {
+    "id": 62,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án C)",
+    "word": "To make a purchase",
+    "meaning": "Để mua hàng",
+    "hint": "Thực hiện giao dịch mua một sản phẩm"
+  },
+  {
+    "id": 63,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án D)",
+    "word": "To drop off some merchandise",
+    "meaning": "Để giao / để lại một số hàng hóa",
+    "hint": "Mang trả hoặc bàn giao hàng hóa"
+  },
+  {
+    "id": 64,
+    "topic": "TOEIC Listening Part 3 (Câu 2)",
+    "word": "What is the man's job?",
+    "meaning": "Nghề nghiệp của người đàn ông là gì?",
+    "hint": "Hỏi về công việc của nhân vật nam"
+  },
+  {
+    "id": 65,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án A)",
+    "word": "Caterer",
+    "meaning": "Người cung cấp dịch vụ ăn uống",
+    "hint": "Người làm nghề phục vụ đồ ăn/tiệc"
+  },
+  {
+    "id": 66,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án B)",
+    "word": "Electrician",
+    "meaning": "Thợ điện",
+    "hint": "Thợ lắp đặt và sửa chữa hệ thống điện"
+  },
+  {
+    "id": 67,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án C)",
+    "word": "Car mechanic",
+    "meaning": "Thợ sửa chữa ô tô",
+    "hint": "Thợ bảo trì, sửa máy móc ô tô"
+  },
+  {
+    "id": 68,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án D)",
+    "word": "Supermarket manager",
+    "meaning": "Quản lý siêu thị",
+    "hint": "Người điều hành hoạt động tại siêu thị"
+  },
+  {
+    "id": 69,
+    "topic": "TOEIC Listening Part 3 (Câu 3)",
+    "word": "What does the woman suggest the man do?",
+    "meaning": "Người phụ nữ đề xuất người đàn ông làm gì?",
+    "hint": "Lời gợi ý của nhân vật nữ trong bài hội thoại"
+  },
+  {
+    "id": 70,
+    "topic": "TOEIC Listening Part 3 (Câu 3 - Đáp án A)",
+    "word": "Speak to a supervisor",
+    "meaning": "Nói chuyện với người giám sát",
+    "hint": "Trao đổi với cấp trên/quản lý"
+  },
+  {
+    "id": 71,
+    "topic": "TOEIC Listening Part 3 (Câu 3 - Đáp án B)",
+    "word": "Park in a different location",
+    "meaning": "Đỗ xe ở một vị trí khác",
+    "hint": "Di chuyển xe sang bãi đậu khác"
+  },
+  {
+    "id": 72,
+    "topic": "TOEIC Listening Part 3 (Câu 3 - Đáp án C)",
+    "word": "Copy an invoice",
+    "meaning": "Sao chép một hóa đơn",
+    "hint": "In/photocopy hóa đơn chứng từ"
+  },
+  {
+    "id": 73,
+    "topic": "TOEIC Listening Part 3 (Câu 3 - Đáp án D)",
+    "word": "Drive a vehicle",
+    "meaning": "Lái một chiếc xe / Lái thử xe",
+    "hint": "Điều khiển phương tiện di chuyển"
+  },
+  {
+    "id": 74,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "get seats",
+    "meaning": "đặt chỗ ngồi",
+    "hint": "Giữ chỗ cho một sự kiện hoặc vở kịch"
+  },
+  {
+    "id": 75,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "colleagues from Paris",
+    "meaning": "những đồng nghiệp đến từ Paris",
+    "hint": "Cùng công tác với đồng nghiệp nước ngoài"
+  },
+  {
+    "id": 76,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "weren't any tickets left",
+    "meaning": "không còn cái vé nào cả / hết vé",
+    "hint": "Tình trạng vé đã bán hết sạch"
+  },
+  {
+    "id": 77,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "ideas for activities",
+    "meaning": "ý tưởng cho các hoạt động",
+    "hint": "Đề xuất các chương trình/hoạt động vui chơi"
+  },
+  {
+    "id": 78,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "weather is supposed to be really nice",
+    "meaning": "thời tiết chắc sẽ đẹp lắm",
+    "hint": "Dự báo thời tiết tốt"
+  },
+  {
+    "id": 79,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "take them out to dinner",
+    "meaning": "đưa họ ra ngoài ăn tối",
+    "hint": "Mời và dẫn khách đi ăn nhà hàng"
+  },
+  {
+    "id": 80,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "Harbor View Restaurant",
+    "meaning": "Nhà hàng Harbour View",
+    "hint": "Tên riêng của nhà hàng ven sông"
+  },
+  {
+    "id": 81,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "cruise ship on the riverfront",
+    "meaning": "du thuyền trên bờ sông",
+    "hint": "Tàu du lịch neo đậu ở khu vực ven sông"
+  },
+  {
+    "id": 82,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "taken people there before",
+    "meaning": "đã đưa mọi người tới đó rồi",
+    "hint": "Đã từng dẫn khách đến địa điểm này"
+  },
+  {
+    "id": 83,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "heard of that ship",
+    "meaning": "nghe về con tàu đó",
+    "hint": "Đã từng biết thông tin qua nghe kể"
+  },
+  {
+    "id": 84,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "view of the city from the river",
+    "meaning": "quang cảnh của thành phố nhìn từ con sông",
+    "hint": "Góc nhìn ngắm cảnh thành phố từ dưới sông"
+  },
+  {
+    "id": 85,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "supposed to be spectacular",
+    "meaning": "chắc hẳn sẽ rất hoành tráng",
+    "hint": "Đánh giá cảnh quan đẹp lộng lẫy"
+  },
+  {
+    "id": 86,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "Would you mind finding out",
+    "meaning": "Cô có phiền khi tìm hiểu xem",
+    "hint": "Cụm từ nhờ vả lịch sự"
+  },
+  {
+    "id": 87,
+    "topic": "TOEIC Listening Part 3 (Script mp3.7 & mp3.8)",
+    "word": "how much the dinner cruise would cost",
+    "meaning": "giá của bữa ăn tối trên du thuyền sẽ mất bao nhiêu",
+    "hint": "Hỏi thông tin chi phí chuyến ăn tối trên tàu"
+  },
+  {
+    "id": 88,
+    "topic": "TOEIC Listening Part 3 (Câu 1)",
+    "word": "What problem does the man mention?",
+    "meaning": "Người đàn ông đề cập đến vấn đề gì?",
+    "hint": "Sự cố hoặc khó khăn nhân vật nam gặp phải"
+  },
+  {
+    "id": 89,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án A)",
+    "word": "A reservation is incorrect",
+    "meaning": "Một việc đặt chỗ bị sai sót",
+    "hint": "Thông tin đặt trước bị nhầm lẫn"
+  },
+  {
+    "id": 90,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án B)",
+    "word": "A business trip has been postponed",
+    "meaning": "Một chuyến công tác đã bị hoãn",
+    "hint": "Lịch trình đi công tác bị trì hoãn"
+  },
+  {
+    "id": 91,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án C)",
+    "word": "An event is sold out",
+    "meaning": "Một sự kiện đã bán hết vé",
+    "hint": "Không còn vé để mua cho chương trình"
+  },
+  {
+    "id": 92,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án D)",
+    "word": "Credit cards are not accepted",
+    "meaning": "Thẻ tín dụng không được chấp nhận",
+    "hint": "Phương thức thanh toán bằng thẻ bị từ chối"
+  },
+  {
+    "id": 93,
+    "topic": "TOEIC Listening Part 3 (Câu 2)",
+    "word": "What does the woman suggest offering their colleagues?",
+    "meaning": "Người phụ nữ đề xuất gợi ý điều gì cho các đồng nghiệp của họ?",
+    "hint": "Gợi ý lựa chọn thay thế của nhân vật nữ"
+  },
+  {
+    "id": 94,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án A)",
+    "word": "A dinner on a boat",
+    "meaning": "Một bữa ăn tối trên tàu / thuyền",
+    "hint": "Trải nghiệm dùng bữa trên sông"
+  },
+  {
+    "id": 95,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án B)",
+    "word": "A hotel upgrade",
+    "meaning": "Sự nâng hạng phòng khách sạn",
+    "hint": "Đổi lên hạng phòng tốt hơn"
+  },
+  {
+    "id": 96,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án C)",
+    "word": "Tickets to a sporting event",
+    "meaning": "Vé xem một sự kiện thể thao",
+    "hint": "Vé vào cửa trận thi đấu thể thao"
+  },
+  {
+    "id": 97,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án D)",
+    "word": "Gift vouchers for a store",
+    "meaning": "Phiếu quà tặng cho một cửa hàng",
+    "hint": "Voucher mua sắm quà tặng"
+  },
+  {
+    "id": 98,
+    "topic": "TOEIC Listening Part 3 (Câu 3)",
+    "word": "What does the man ask the woman to do?",
+    "meaning": "Người đàn ông yêu cầu người phụ nữ làm gì?",
+    "hint": "Nhiệm vụ người nam nhờ người nữ thực hiện"
+  },
+  {
+    "id": 99,
+    "topic": "TOEIC Listening Part 3 (Câu 3 - Đáp án A)",
+    "word": "Contact a travel agency",
+    "meaning": "Liên hệ với một công ty du lịch",
+    "hint": "Gọi điện cho đại lý lữ hành"
+  },
+  {
+    "id": 100,
+    "topic": "TOEIC Listening Part 3 (Câu 3 - Đáp án B)",
+    "word": "Research pricing information",
+    "meaning": "Tìm hiểu thông tin về giá cả",
+    "hint": "Tra cứu, khảo sát mức chi phí"
+  },
+  {
+    "id": 101,
+    "topic": "TOEIC Listening Part 3 (Câu 3 - Đáp án C)",
+    "word": "Make a payment in advance",
+    "meaning": "Thực hiện thanh toán trước",
+    "hint": "Trả tiền trước khi sử dụng dịch vụ"
+  },
+  {
+    "id": 102,
+    "topic": "TOEIC Listening Part 3 (Câu 3 - Đáp án D)",
+    "word": "Arrange transportation",
+    "meaning": "Sắp xếp phương tiện di chuyển",
+    "hint": "Bố trí xe cộ đi lại"
+  },
+  {
+    "id": 103,
+    "topic": "TOEIC Listening Part 3 (Script mp3.10 & mp3.11)",
+    "word": "help the next customer",
+    "meaning": "mời / giúp đỡ khách hàng tiếp theo",
+    "hint": "Lời chào của nhân viên phục vụ/thu ngân với khách tiếp theo"
+  },
+  {
+    "id": 104,
+    "topic": "TOEIC Listening Part 3 (Script mp3.10 & mp3.11)",
+    "word": "moved house recently",
+    "meaning": "gần đây đã chuyển nhà",
+    "hint": "Thay đổi chỗ ở trong thời gian gần"
+  },
+  {
+    "id": 105,
+    "topic": "TOEIC Listening Part 3 (Script mp3.10 & mp3.11)",
+    "word": "broke several dishes in the process",
+    "meaning": "đã làm vỡ một vài cái đĩa trong quá trình di chuyển",
+    "hint": "Sự cố làm vỡ đồ dùng khi vận chuyển nhà"
+  },
+  {
+    "id": 106,
+    "topic": "TOEIC Listening Part 3 (Script mp3.10 & mp3.11)",
+    "word": "ordered replacements online",
+    "meaning": "đã đặt hàng thay thế trực tuyến",
+    "hint": "Đặt mua đồ mới trên mạng để thế vào đồ hỏng"
+  },
+  {
+    "id": 107,
+    "topic": "TOEIC Listening Part 3 (Script mp3.10 & mp3.11)",
+    "word": "delivered yesterday",
+    "meaning": "được giao đến vào ngày hôm qua",
+    "hint": "Thời gian nhận được kiện hàng"
+  },
+  {
+    "id": 108,
+    "topic": "TOEIC Listening Part 3 (Script mp3.10 & mp3.11)",
+    "word": "three soup bowls were included",
+    "meaning": "chỉ có 3 cái bát súp được đính kèm / giao đến",
+    "hint": "Số lượng tô/bát súp thực tế nhận được"
+  },
+  {
+    "id": 109,
+    "topic": "TOEIC Listening Part 3 (Script mp3.10 & mp3.11)",
+    "word": "instead of six",
+    "meaning": "thay vì 6 cái",
+    "hint": "So sánh với số lượng ban đầu trong đơn"
+  },
+  {
+    "id": 110,
+    "topic": "TOEIC Listening Part 3 (Script mp3.10 & mp3.11)",
+    "word": "see your packing slip",
+    "meaning": "xem phiếu đóng gói / phiếu giao hàng của cô",
+    "hint": "Yêu cầu xuất trình chứng từ giao hàng"
+  },
+  {
+    "id": 111,
+    "topic": "TOEIC Listening Part 3 (Script mp3.10 & mp3.11)",
+    "word": "dish pattern's been discontinued",
+    "meaning": "mẫu đĩa / bát này không còn được sản xuất nữa",
+    "hint": "Sản phẩm họa tiết này đã dừng sản xuất hẳn"
+  },
+  {
+    "id": 112,
+    "topic": "TOEIC Listening Part 3 (Script mp3.10 & mp3.11)",
+    "word": "got our last three bowls",
+    "meaning": "đã mua 3 chiếc bát cuối cùng",
+    "hint": "Những sản phẩm cuối cùng còn trong kho"
+  },
+  {
+    "id": 113,
+    "topic": "TOEIC Listening Part 3 (Script mp3.10 & mp3.11)",
+    "word": "give you a refund",
+    "meaning": "hoàn trả lại tiền cho cô",
+    "hint": "Trả lại tiền cho khách do lỗi đơn hàng"
+  },
+  {
+    "id": 114,
+    "topic": "TOEIC Listening Part 3 (Script mp3.10 & mp3.11)",
+    "word": "total cost of the bowls",
+    "meaning": "tổng chi phí của những cái tô / bát",
+    "hint": "Tổng số tiền trả cho mục bát súp"
+  },
+  {
+    "id": 115,
+    "topic": "TOEIC Listening Part 3 (Script mp3.10 & mp3.11)",
+    "word": "keep the three you received for free",
+    "meaning": "giữ 3 cái cô đã nhận mà không mất phí",
+    "hint": "Cho khách giữ hàng thiếu mà không thu tiền"
+  },
+  {
+    "id": 116,
+    "topic": "TOEIC Listening Part 3 (Graphic mp3.12)",
+    "word": "Bell's Home Furnishings",
+    "meaning": "Cửa hàng đồ nội thất Bell's Home",
+    "hint": "Tên thương hiệu/cửa hàng kinh doanh đồ gia dụng"
+  },
+  {
+    "id": 117,
+    "topic": "TOEIC Listening Part 3 (Graphic mp3.12)",
+    "word": "Order #23408",
+    "meaning": "Đơn hàng số 23408",
+    "hint": "Mã định danh đơn hàng trên phiếu"
+  },
+  {
+    "id": 118,
+    "topic": "TOEIC Listening Part 3 (Graphic mp3.12)",
+    "word": "Quantity",
+    "meaning": "Số lượng",
+    "hint": "Cột hiển thị số lượng vật phẩm"
+  },
+  {
+    "id": 119,
+    "topic": "TOEIC Listening Part 3 (Graphic mp3.12)",
+    "word": "Description",
+    "meaning": "Mô tả / Tên sản phẩm",
+    "hint": "Cột liệt kê tên món đồ"
+  },
+  {
+    "id": 120,
+    "topic": "TOEIC Listening Part 3 (Graphic mp3.12)",
+    "word": "Total price",
+    "meaning": "Tổng giá tiền",
+    "hint": "Cột hiển thị tổng thành tiền"
+  },
+  {
+    "id": 121,
+    "topic": "TOEIC Listening Part 3 (Graphic mp3.12)",
+    "word": "Dinner Plate",
+    "meaning": "Đĩa ăn tối",
+    "hint": "Món đồ đĩa lớn đựng thức ăn"
+  },
+  {
+    "id": 122,
+    "topic": "TOEIC Listening Part 3 (Graphic mp3.12)",
+    "word": "Soup Bowl",
+    "meaning": "Bát / Tô đựng súp",
+    "hint": "Món đồ bát chuyên dùng đựng canh/súp"
+  },
+  {
+    "id": 123,
+    "topic": "TOEIC Listening Part 3 (Graphic mp3.12)",
+    "word": "Coffee Mug",
+    "meaning": "Ly / Tách uống cà phê",
+    "hint": "Cốc sứ đựng cà phê"
+  },
+  {
+    "id": 124,
+    "topic": "TOEIC Listening Part 3 (Graphic mp3.12)",
+    "word": "Teapot",
+    "meaning": "Ấm pha trà",
+    "hint": "Bình dùng để pha trà"
+  },
+  {
+    "id": 125,
+    "topic": "TOEIC Listening Part 3 (Câu 1)",
+    "word": "What does the woman say happened when she moved?",
+    "meaning": "Người phụ nữ nói điều gì đã xảy ra khi cô ấy chuyển nhà?",
+    "hint": "Hỏi về sự cố xảy ra lúc chuyển chỗ ở"
+  },
+  {
+    "id": 126,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án A)",
+    "word": "She was overcharged for a service",
+    "meaning": "Cô ấy bị tính giá quá cao cho một dịch vụ",
+    "hint": "Bị thu tiền vượt quá mức quy định"
+  },
+  {
+    "id": 127,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án B)",
+    "word": "A box was misplaced",
+    "meaning": "Một chiếc hộp bị để thất lạc / nhầm chỗ",
+    "hint": "Kiện hàng/hộp đựng đồ bị mất tích"
+  },
+  {
+    "id": 128,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án C)",
+    "word": "A shipment was sent to the wrong address",
+    "meaning": "Lô hàng đã được gửi đến sai địa chỉ",
+    "hint": "Giao nhầm tới vị trí khác"
+  },
+  {
+    "id": 129,
+    "topic": "TOEIC Listening Part 3 (Câu 1 - Đáp án D)",
+    "word": "Some items were broken",
+    "meaning": "Một số mặt hàng đã bị vỡ / hỏng",
+    "hint": "Đồ đạc bị hư hỏng, nứt vỡ"
+  },
+  {
+    "id": 130,
+    "topic": "TOEIC Listening Part 3 (Câu 2)",
+    "word": "Why does the woman need assistance?",
+    "meaning": "Tại sao người phụ nữ lại cần sự trợ giúp?",
+    "hint": "Lý do khách hàng tới xin hỗ trợ"
+  },
+  {
+    "id": 131,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án A)",
+    "word": "She does not like what she bought",
+    "meaning": "Cô ấy không thích những gì mình đã mua",
+    "hint": "Không vừa ý với sản phẩm"
+  },
+  {
+    "id": 132,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án B)",
+    "word": "She cannot access a Web site",
+    "meaning": "Cô ấy không thể truy cập vào một trang web",
+    "hint": "Lỗi kết nối hoặc không vào được website"
+  },
+  {
+    "id": 133,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án C)",
+    "word": "She received an incomplete order",
+    "meaning": "Cô ấy đã nhận được một đơn hàng không đầy đủ",
+    "hint": "Đơn hàng bị thiếu sản phẩm"
+  },
+  {
+    "id": 134,
+    "topic": "TOEIC Listening Part 3 (Câu 2 - Đáp án D)",
+    "word": "She lost a copy of a receipt",
+    "meaning": "Cô ấy đã làm mất bản sao của biên lai",
+    "hint": "Thất lạc hóa đơn mua hàng"
+  },
+  {
+    "id": 135,
+    "topic": "TOEIC Listening Part 3 (Câu 3)",
+    "word": "Look at the graphic. How much money will the woman be refunded?",
+    "meaning": "Nhìn vào hình ảnh. Người phụ nữ sẽ được hoàn lại bao nhiêu tiền?",
+    "hint": "Dựa vào phiếu đóng gói để xác định khoản tiền hoàn"
+  },
+  {
+    "id": 136,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13)",
+    "word": "Why did the man choose to shop at the store?",
+    "meaning": "Tại sao người đàn ông lại chọn mua sắm tại cửa hàng?",
+    "hint": "Hỏi về lý do chọn cửa hàng mua sắm"
+  },
+  {
+    "id": 137,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13 - Đáp án A)",
+    "word": "The staff is very helpful",
+    "meaning": "Nhân viên rất nhiệt tình / hữu ích",
+    "hint": "Đánh giá thái độ của nhân viên"
+  },
+  {
+    "id": 138,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13 - Đáp án B)",
+    "word": "The store is close to his office",
+    "meaning": "Cửa hàng nằm gần văn phòng của ông ấy",
+    "hint": "Vị trí địa lý gần nơi làm việc"
+  },
+  {
+    "id": 139,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13 - Đáp án C)",
+    "word": "He saw an online advertisement",
+    "meaning": "Ông ấy đã xem một quảng cáo trực tuyến",
+    "hint": "Tiếp cận thông tin qua quảng cáo trên mạng"
+  },
+  {
+    "id": 140,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13 - Đáp án D)",
+    "word": "His friend recommended the store",
+    "meaning": "Bạn của ông ấy đã giới thiệu cửa hàng",
+    "hint": "Được lời giới thiệu từ người quen"
+  },
+  {
+    "id": 141,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13)",
+    "word": "What does the woman ask for?",
+    "meaning": "Người phụ nữ yêu cầu thứ gì?",
+    "hint": "Thông tin/vật phẩm nhân vật nữ hỏi xin"
+  },
+  {
+    "id": 142,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13 - Đáp án A)",
+    "word": "A credit card",
+    "meaning": "Thẻ tín dụng",
+    "hint": "Thẻ dùng để thanh toán"
+  },
+  {
+    "id": 143,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13 - Đáp án B)",
+    "word": "A discount coupon",
+    "meaning": "Phiếu giảm giá",
+    "hint": "Voucher/phiếu để nhận ưu đãi"
+  },
+  {
+    "id": 144,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13 - Đáp án C)",
+    "word": "A customer receipt",
+    "meaning": "Biên lai của khách hàng",
+    "hint": "Hóa đơn mua hàng"
+  },
+  {
+    "id": 145,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13 - Đáp án D)",
+    "word": "A piece of identification",
+    "meaning": "Giấy tờ tùy thân",
+    "hint": "Giấy tờ xác minh nhân thân"
+  },
+  {
+    "id": 146,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13)",
+    "word": "Why does the man say he will return at a later time?",
+    "meaning": "Tại sao người đàn ông nói ông ấy sẽ quay lại vào lúc khác?",
+    "hint": "Lý do hoãn và hẹn quay lại sau"
+  },
+  {
+    "id": 147,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13 - Đáp án A)",
+    "word": "He is late for a meeting",
+    "meaning": "Ông ấy bị trễ / muộn một cuộc họp",
+    "hint": "Trễ hẹn giờ họp"
+  },
+  {
+    "id": 148,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13 - Đáp án B)",
+    "word": "He wants to go to another store",
+    "meaning": "Ông ấy muốn đến một cửa hàng khác",
+    "hint": "Muốn sang cửa hàng khác mua sắm"
+  },
+  {
+    "id": 149,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13 - Đáp án C)",
+    "word": "He has to make a phone call",
+    "meaning": "Ông ấy phải thực hiện một cuộc gọi điện thoại",
+    "hint": "Cần gọi điện thoại cho ai đó"
+  },
+  {
+    "id": 150,
+    "topic": "TOEIC Listening Part 3 (Q1-3 mp3.13 - Đáp án D)",
+    "word": "He left something at the office",
+    "meaning": "Ông ấy đã để quên thứ gì đó ở văn phòng",
+    "hint": "Quên đồ đạc tại nơi làm việc"
+  },
+  {
+    "id": 151,
+    "topic": "TOEIC Listening Part 3 (Script mp3.14 & mp3.15)",
+    "word": "saw the ad for your department store",
+    "meaning": "đã xem quảng cáo cửa hàng bách hóa của cô",
+    "hint": "Tiếp nhận thông tin quảng cáo"
+  },
+  {
+    "id": 152,
+    "topic": "TOEIC Listening Part 3 (Script mp3.14 & mp3.15)",
+    "word": "decided to stop by",
+    "meaning": "đã quyết định ghé qua",
+    "hint": "Đến thăm/ghé vào cửa hàng"
+  },
+  {
+    "id": 153,
+    "topic": "TOEIC Listening Part 3 (Script mp3.14 & mp3.15)",
+    "word": "having a big sale today",
+    "meaning": "có đợt giảm giá lớn hôm nay",
+    "hint": "Chương trình khuyến mãi lớn"
+  },
+  {
+    "id": 154,
+    "topic": "TOEIC Listening Part 3 (Script mp3.14 & mp3.15)",
+    "word": "apply to jewelry items",
+    "meaning": "áp dụng cho các mặt hàng trang sức",
+    "hint": "Áp dụng giảm giá cho các món trang sức"
+  },
+  {
+    "id": 155,
+    "topic": "TOEIC Listening Part 3 (Script mp3.14 & mp3.15)",
+    "word": "in the display cases",
+    "meaning": "ở trong tủ trưng bày",
+    "hint": "Vị trí đặt hàng hóa triển lãm/bán"
+  },
+  {
+    "id": 156,
+    "topic": "TOEIC Listening Part 3 (Script mp3.14 & mp3.15)",
+    "word": "up to half-off the full price",
+    "meaning": "giảm giá lên tới một nửa (50%)",
+    "hint": "Mức chiết khấu tối đa"
+  },
+  {
+    "id": 157,
+    "topic": "TOEIC Listening Part 3 (Script mp3.14 & mp3.15)",
+    "word": "bring the coupon that came with the advertisement",
+    "meaning": "mang theo phiếu giảm giá cái mà đi kèm ở quảng cáo",
+    "hint": "Cầm theo voucher từ quảng cáo"
+  },
+  {
+    "id": 158,
+    "topic": "TOEIC Listening Part 3 (Script mp3.14 & mp3.15)",
+    "word": "printed it out but then forgot it",
+    "meaning": "đã in nó ra rồi nhưng sau đó lại để quên",
+    "hint": "Sự cố in phiếu nhưng không mang đi"
+  },
+  {
+    "id": 159,
+    "topic": "TOEIC Listening Part 3 (Script mp3.14 & mp3.15)",
+    "word": "come back after work",
+    "meaning": "quay lại sau giờ làm việc",
+    "hint": "Hẹn trở lại sau khi tan làm"
+  },
+  {
+    "id": 160,
+    "topic": "TOEIC Listening Part 3 (Script mp3.14 & mp3.15)",
+    "word": "take a better look",
+    "meaning": "quan sát rõ hơn / xem kỹ hơn",
+    "hint": "Dành thời gian xem chi tiết sản phẩm"
+  },
+  {
+    "id": 161,
+    "topic": "TOEIC Listening Part 3 (Script mp3.14 & mp3.15)",
+    "word": "gift shopping done for the entire year",
+    "meaning": "hoàn tất việc mua tất cả các món quà cho cả năm",
+    "hint": "Sắm đủ quà tặng cho cả một năm"
+  },
+  {
+    "id": 162,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16)",
+    "word": "Who most likely is the man?",
+    "meaning": "Người đàn ông có khả năng nhất là ai?",
+    "hint": "Hỏi về danh tính/nghề nghiệp nhân vật nam"
+  },
+  {
+    "id": 163,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16 - Đáp án A)",
+    "word": "An author",
+    "meaning": "Một tác giả / nhà văn",
+    "hint": "Người viết sách"
+  },
+  {
+    "id": 164,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16 - Đáp án B)",
+    "word": "A teacher",
+    "meaning": "Một giáo viên",
+    "hint": "Người giảng dạy"
+  },
+  {
+    "id": 165,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16 - Đáp án C)",
+    "word": "A store clerk",
+    "meaning": "Một nhân viên bán hàng",
+    "hint": "Nhân viên phục vụ ở cửa hàng"
+  },
+  {
+    "id": 166,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16 - Đáp án D)",
+    "word": "A delivery person",
+    "meaning": "Một người giao hàng",
+    "hint": "Nhân viên vận chuyển"
+  },
+  {
+    "id": 167,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16)",
+    "word": "What does the woman say she heard about the book?",
+    "meaning": "Người phụ nữ nói cô ấy nghe được điều gì về cuốn sách?",
+    "hint": "Thông tin nhân vật nữ đã nghe đồn/nghe kể"
+  },
+  {
+    "id": 168,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16 - Đáp án A)",
+    "word": "It will provide opportunities for discussion",
+    "meaning": "Nó sẽ đưa ra / mang lại nhiều cơ hội thảo luận",
+    "hint": "Tạo điều kiện để trao đổi ý kiến"
+  },
+  {
+    "id": 169,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16 - Đáp án B)",
+    "word": "It is the first book in a series",
+    "meaning": "Nó là cuốn sách đầu tiên trong một bộ truyện / sê-ri",
+    "hint": "Tác phẩm mở đầu cho chuỗi sách"
+  },
+  {
+    "id": 170,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16 - Đáp án C)",
+    "word": "It has been a best seller for many months",
+    "meaning": "Nó đã là một cuốn sách bán chạy nhất trong nhiều tháng",
+    "hint": "Tác phẩm giữ danh hiệu best seller lâu dài"
+  },
+  {
+    "id": 171,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16 - Đáp án D)",
+    "word": "It is difficult for children to understand",
+    "meaning": "Nó khó hiểu đối với trẻ em",
+    "hint": "Nội dung khó tiếp thu cho lứa tuổi nhỏ"
+  },
+  {
+    "id": 172,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16)",
+    "word": "Look at the graphic. In which section is the book that the woman is looking for?",
+    "meaning": "Nhìn vào hình ảnh. Cuốn sách mà người phụ nữ đang tìm nằm ở khu vực nào?",
+    "hint": "Tra cứu vị trí khu vực sách trên sơ đồ"
+  },
+  {
+    "id": 173,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16 - Đáp án A)",
+    "word": "Nonfiction",
+    "meaning": "Sách phi hư cấu / truyện thực tế",
+    "hint": "Khu vực sách thực tế"
+  },
+  {
+    "id": 174,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16 - Đáp án B)",
+    "word": "Young Adult",
+    "meaning": "Sách dành cho thanh thiếu niên",
+    "hint": "Khu vực sách tuổi mới lớn"
+  },
+  {
+    "id": 175,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16 - Đáp án C)",
+    "word": "Travel",
+    "meaning": "Sách du lịch",
+    "hint": "Khu vực sách hướng dẫn/khám phá du lịch"
+  },
+  {
+    "id": 176,
+    "topic": "TOEIC Listening Part 3 (Q1-3 Graphic mp3.16 - Đáp án D)",
+    "word": "Fiction",
+    "meaning": "Sách hư cấu / tiểu thuyết",
+    "hint": "Khu vực sách hư cấu, tiểu thuyết"
+  },
+  {
+    "id": 177,
+    "topic": "TOEIC Listening Part 3 (Script mp3.17 & mp3.18)",
+    "word": "Welcome to Capital Bookshop",
+    "meaning": "Chào mừng đến với Capital Bookshop",
+    "hint": "Lời chào của cửa hàng sách"
+  },
+  {
+    "id": 178,
+    "topic": "TOEIC Listening Part 3 (Script mp3.17 & mp3.18)",
+    "word": "looking for something in particular",
+    "meaning": "tìm thứ gì đó đặc biệt / cụ thể",
+    "hint": "Tìm kiếm một món đồ xác định"
+  },
+  {
+    "id": 179,
+    "topic": "TOEIC Listening Part 3 (Script mp3.17 & mp3.18)",
+    "word": "need a copy of a book",
+    "meaning": "cần một bản sao / cuốn sách",
+    "hint": "Cần một bản in của cuốn sách"
+  },
+  {
+    "id": 180,
+    "topic": "TOEIC Listening Part 3 (Script mp3.17 & mp3.18)",
+    "word": "January's Flight",
+    "meaning": "Chuyến bay của tháng Giêng",
+    "hint": "Tên riêng của cuốn sách"
+  },
+  {
+    "id": 181,
+    "topic": "TOEIC Listening Part 3 (Script mp3.17 & mp3.18)",
+    "word": "starting a book club",
+    "meaning": "bắt đầu mở câu lạc bộ sách",
+    "hint": "Thành lập nhóm sinh hoạt đọc sách"
+  },
+  {
+    "id": 182,
+    "topic": "TOEIC Listening Part 3 (Script mp3.17 & mp3.18)",
+    "word": "generating a lot of questions and comments",
+    "meaning": "đưa ra / tạo ra được nhiều câu hỏi và bình luận",
+    "hint": "Kích thích bàn luận và nhận xét"
+  },
+  {
+    "id": 183,
+    "topic": "TOEIC Listening Part 3 (Script mp3.17 & mp3.18)",
+    "word": "one of my favorites",
+    "meaning": "một trong những cuốn sách yêu thích của tôi",
+    "hint": "Tác phẩm nằm trong danh sách yêu thích"
+  },
+  {
+    "id": 184,
+    "topic": "TOEIC Listening Part 3 (Script mp3.17 & mp3.18)",
+    "word": "on the back wall of the store",
+    "meaning": "trên bức tường phía cuối của cửa hàng",
+    "hint": "Vị trí đặt kệ sách ở bức tường phía sau"
+  },
+  {
+    "id": 185,
+    "topic": "TOEIC Listening Part 3 (Script mp3.17 & mp3.18)",
+    "word": "next to the café",
+    "meaning": "bên cạnh quán cà phê",
+    "hint": "Vị trí nằm kế bên khu bán quán cà phê"
+  },
+  {
+    "id": 186,
+    "topic": "TOEIC Listening Part 3 (Script mp3.17 & mp3.18)",
+    "word": "arranged by author",
+    "meaning": "được sắp xếp theo tên tác giả",
+    "hint": "Quy tắc phân loại sách theo tác giả"
+  },
+  {
+    "id": 187,
+    "topic": "TOEIC Listening Part 3 (Script mp3.17 & mp3.18)",
+    "word": "browse for a little while",
+    "meaning": "xem qua (cửa hàng) một lúc",
+    "hint": "Dạo quanh xem đồ một khoảng thời gian ngắn"
+  },
+  {
+    "id": 188,
+    "topic": "Vocabulary Highlights",
+    "word": "a big sale",
+    "meaning": "một đợt giảm giá lớn",
+    "hint": "Chương trình khuyến mãi quy mô lớn"
+  },
+  {
+    "id": 189,
+    "topic": "Vocabulary Highlights",
+    "word": "up to half-off the full price",
+    "meaning": "giảm giá lên tới 1 nửa",
+    "hint": "Mức giảm giá tối đa đến 50%"
+  },
+  {
+    "id": 190,
+    "topic": "Vocabulary Highlights",
+    "word": "department store",
+    "meaning": "cửa hàng bách hóa",
+    "hint": "Trung tâm/cửa hàng kinh doanh đa dạng mặt hàng"
+  },
+  {
+    "id": 191,
+    "topic": "Vocabulary Highlights",
+    "word": "apply to sth",
+    "meaning": "áp dụng cho thứ gì",
+    "hint": "Cụm động từ chỉ phạm vi áp dụng"
+  },
+  {
+    "id": 192,
+    "topic": "Vocabulary Highlights",
+    "word": "coupon (n)",
+    "meaning": "phiếu giảm giá",
+    "hint": "Danh từ chỉ voucher ưu đãi"
+  },
+  {
+    "id": 193,
+    "topic": "Vocabulary Highlights",
+    "word": "generate (v)",
+    "meaning": "tạo ra",
+    "hint": "Động từ phát sinh/tạo ra"
+  },
+  {
+    "id": 194,
+    "topic": "Vocabulary Highlights",
+    "word": "arrange (v)",
+    "meaning": "sắp xếp",
+    "hint": "Động từ bài trí, bố trí"
+  },
+  {
+    "id": 195,
+    "topic": "Vocabulary Highlights",
+    "word": "browse (v)",
+    "meaning": "xem qua",
+    "hint": "Động từ xem lướt/dạo quanh"
+  }
+]

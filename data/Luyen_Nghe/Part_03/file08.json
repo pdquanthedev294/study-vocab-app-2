@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "customer service department",
+    "meaning": "phòng dịch vụ chăm sóc khách hàng",
+    "hint": "Bộ phận giải đáp thắc mắc và hỗ trợ khách hàng",
+    "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=800"
+  },
+  {
+    "id": 2,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "small cosmetics company",
+    "meaning": "công ty mỹ phẩm nhỏ",
+    "hint": "Doanh nghiệp quy mô nhỏ chuyên kinh doanh sản phẩm làm đẹp",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800"
+  },
+  {
+    "id": 3,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "started manufacturing",
+    "meaning": "bắt đầu sản xuất",
+    "hint": "Hành động khởi công chế tạo hoặc làm ra hàng hóa",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800"
+  },
+  {
+    "id": 4,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "lip moisturizer",
+    "meaning": "kem dưỡng ẩm cho môi",
+    "hint": "Sản phẩm làm mềm và chống khô môi",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800"
+  },
+  {
+    "id": 5,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "placed a large rush order",
+    "meaning": "đặt hàng gấp",
+    "hint": "Đặt hàng số lượng lớn cần xử lý khẩn cấp",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800"
+  },
+  {
+    "id": 6,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "last week",
+    "meaning": "tuần trước",
+    "hint": "Khoảng thời gian 7 ngày ngay trước tuần hiện tại",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 7,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "suppose to get",
+    "meaning": "phải nhận được",
+    "hint": "Dự kiến hoặc có nhiệm vụ nhận được món hàng",
+    "image": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=800"
+  },
+  {
+    "id": 8,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "yesterday",
+    "meaning": "hôm qua",
+    "hint": "Ngày ngay trước ngày hôm nay",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 9,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "delay",
+    "meaning": "sự chậm trễ",
+    "hint": "Tình trạng việc gì đó bị hoãn hoặc tới muộn hơn dự kiến",
+    "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?w=800"
+  },
+  {
+    "id": 10,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "order number",
+    "meaning": "mã đặt hàng / mã đơn đặt hàng",
+    "hint": "Dãy số hoặc ký tự dùng để định danh đơn hàng",
+    "image": "https://images.unsplash.com/photo-1554415707-6e8cfc93fe23?w=800"
+  },
+  {
+    "id": 11,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "issues with transportation",
+    "meaning": "vấn đề về giao thông",
+    "hint": "Trục trặc xảy ra trong quá trình vận chuyển hoặc di chuyển",
+    "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=800"
+  },
+  {
+    "id": 12,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "construction on roads",
+    "meaning": "việc xây dựng các tuyến đường",
+    "hint": "Hoạt động sửa chữa hoặc thi công công trình trên đường",
+    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800"
+  },
+  {
+    "id": 13,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "area",
+    "meaning": "khu vực",
+    "hint": "Vùng địa lý hoặc không gian xác định",
+    "image": "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=800"
+  },
+  {
+    "id": 14,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "delivered",
+    "meaning": "được giao",
+    "hint": "Hàng hóa được mang đến tận nơi cho người nhận",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800"
+  },
+  {
+    "id": 15,
+    "topic": "Customer Service Call (Scripts)",
+    "word": "this afternoon",
+    "meaning": "chiều nay",
+    "hint": "Khoảng thời gian từ giữa trưa đến chiều tối của ngày hôm nay",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+  },
+  {
+    "id": 16,
+    "topic": "Questions & Options",
+    "word": "kind of business",
+    "meaning": "loại hình kinh doanh",
+    "hint": "Hình thức hoặc mảng hoạt động thương mại",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800"
+  },
+  {
+    "id": 17,
+    "topic": "Questions & Options",
+    "word": "own",
+    "meaning": "sở hữu",
+    "hint": "Nắm quyền chủ sở hữu một tài sản hay doanh nghiệp",
+    "image": "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=800"
+  },
+  {
+    "id": 18,
+    "topic": "Questions & Options",
+    "word": "laundry service",
+    "meaning": "dịch vụ giặt là",
+    "hint": "Cửa hàng hoặc dịch vụ nhận giặt quần áo",
+    "image": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=800"
+  },
+  {
+    "id": 19,
+    "topic": "Questions & Options",
+    "word": "cosmetics company",
+    "meaning": "công ty mỹ phẩm",
+    "hint": "Doanh nghiệp sản xuất hoặc bán sản phẩm làm đẹp",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800"
+  },
+  {
+    "id": 20,
+    "topic": "Questions & Options",
+    "word": "public relations firm",
+    "meaning": "công ty quan hệ công chúng",
+    "hint": "Công ty truyền thông giúp quản lý hình ảnh cho đối tác",
+    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800"
+  },
+  {
+    "id": 21,
+    "topic": "Questions & Options",
+    "word": "beverage manufacturer",
+    "meaning": "nhà sản xuất đồ uống",
+    "hint": "Nhà máy sản xuất các loại nước giải khát, thức uống",
+    "image": "https://images.unsplash.com/photo-1527960471264-932f39eb5846?w=800"
+  },
+  {
+    "id": 22,
+    "topic": "Questions & Options",
+    "word": "want to know",
+    "meaning": "muốn biết",
+    "hint": "Mong muốn có thông tin về một điều gì đó",
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800"
+  },
+  {
+    "id": 23,
+    "topic": "Questions & Options",
+    "word": "contact about a purchase",
+    "meaning": "liên hệ về việc mua hàng",
+    "hint": "Trao đổi hoặc gọi điện để tư vấn mua sản phẩm",
+    "image": "https://images.unsplash.com/photo-1556742049-0a67daf4005a?w=800"
+  },
+  {
+    "id": 24,
+    "topic": "Questions & Options",
+    "word": "send some documents",
+    "meaning": "gửi một số tài liệu",
+    "hint": "Hành động chuyển giấy tờ, hồ sơ đến nơi khác",
+    "image": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=800"
+  },
+  {
+    "id": 25,
+    "topic": "Questions & Options",
+    "word": "delivery will arrive",
+    "meaning": "giao hàng (khi nào sẽ giao hàng)",
+    "hint": "Thời điểm kiện hàng tới tay người nhận",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800"
+  },
+  {
+    "id": 26,
+    "topic": "Questions & Options",
+    "word": "how to use a product",
+    "meaning": "cách sử dụng sản phẩm",
+    "hint": "Hướng dẫn các thao tác dùng sản phẩm đúng cách",
+    "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=800"
+  },
+  {
+    "id": 27,
+    "topic": "Questions & Options",
+    "word": "ask to provide",
+    "meaning": "yêu cầu cung cấp",
+    "hint": "Đề nghị đối phương đưa ra thông tin hoặc vật dụng",
+    "image": "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=800"
+  },
+  {
+    "id": 28,
+    "topic": "Questions & Options",
+    "word": "return mailing address",
+    "meaning": "địa chỉ gửi thư trả lại",
+    "hint": "Địa chỉ dùng để nhận lại bưu phẩm nếu không giao được",
+    "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=800"
+  },
+  {
+    "id": 29,
+    "topic": "Questions & Options",
+    "word": "signed contract",
+    "meaning": "hợp đồng đã ký",
+    "hint": "Văn bản thỏa thuận pháp lý đã có chữ ký xác nhận",
+    "image": "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=800"
+  },
+  {
+    "id": 30,
+    "topic": "Questions & Options",
+    "word": "online payment",
+    "meaning": "thanh toán trực tuyến",
+    "hint": "Hình thức trả tiền thông qua mạng internet/ngân hàng điện tử",
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800"
+  },
+  {
+    "id": 31,
+    "topic": "Flight Entertainment (Scripts)",
+    "word": "options for in-flight entertainment",
+    "meaning": "các lựa chọn giải trí trên chuyến bay",
+    "hint": "Những hình thức thư giãn được cung cấp khi đang di chuyển trên máy bay",
+    "image": "https://images.unsplash.com/photo-1540339832862-47459980783c?w=800"
+  },
+  {
+    "id": 32,
+    "topic": "Flight Entertainment (Scripts)",
+    "word": "e-books",
+    "meaning": "sách điện tử",
+    "hint": "Sách được xuất bản dưới dạng tệp kỹ thuật số đọc trên thiết bị màn hình",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800"
+  },
+  {
+    "id": 33,
+    "topic": "Flight Entertainment (Scripts)",
+    "word": "best sellers",
+    "meaning": "cuốn sách bán chạy nhất",
+    "hint": "Các đầu sách đạt số lượng tiêu thụ rất cao trên thị trường",
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=800"
+  },
+  {
+    "id": 34,
+    "topic": "Flight Entertainment (Scripts)",
+    "word": "screen in front of your seat",
+    "meaning": "màn hình trước chỗ ngồi",
+    "hint": "Màn hình hiển thị được gắn ngay phía sau ghế trước trên máy bay",
+    "image": "https://images.unsplash.com/photo-1540339832862-47459980783c?w=800"
+  },
+  {
+    "id": 35,
+    "topic": "Flight Entertainment (Scripts)",
+    "word": "short flight",
+    "meaning": "chuyến bay ngắn",
+    "hint": "Hành trình di chuyển bằng đường hàng không với thời gian ngắn",
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800"
+  },
+  {
+    "id": 36,
+    "topic": "Flight Entertainment (Scripts)",
+    "word": "land",
+    "meaning": "hạ cánh",
+    "hint": "Hành động máy bay tiếp đất sau một chuyến bay",
+    "image": "https://images.unsplash.com/photo-1506015391300-4802dc74de2e?w=800"
+  },
+  {
+    "id": 37,
+    "topic": "Flight Entertainment (Scripts)",
+    "word": "haven't finished the book",
+    "meaning": "vẫn chưa đọc xong cuốn sách",
+    "hint": "Trạng thái chưa hoàn thành việc đọc trọn vẹn một cuốn sách",
+    "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=800"
+  },
+  {
+    "id": 38,
+    "topic": "Flight Entertainment (Scripts)",
+    "word": "e-mail address",
+    "meaning": "địa chỉ e-mail",
+    "hint": "Tài khoản địa chỉ thư điện tử dùng để gửi và nhận thông tin",
+    "image": "https://images.unsplash.com/photo-1596526131083-e8c633c948d2?w=800"
+  },
+  {
+    "id": 39,
+    "topic": "Flight Entertainment (Scripts)",
+    "word": "airline",
+    "meaning": "hãng hàng không",
+    "hint": "Công ty cung cấp dịch vụ vận chuyển hành khách và hàng hóa bằng máy bay",
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800"
+  },
+  {
+    "id": 40,
+    "topic": "Flight Entertainment (Scripts)",
+    "word": "send a link",
+    "meaning": "gửi một liên kết",
+    "hint": "Gửi đường dẫn trang web để người nhận truy cập dữ liệu",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800"
+  },
+  {
+    "id": 41,
+    "topic": "Flight Entertainment (Scripts)",
+    "word": "download the book",
+    "meaning": "tải sách về",
+    "hint": "Hành động tải tệp dữ liệu sách từ mạng về máy",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800"
+  },
+  {
+    "id": 42,
+    "topic": "Flight Entertainment (Scripts)",
+    "word": "personal electronic device",
+    "meaning": "thiết bị điện tử cá nhân",
+    "hint": "Các đồ dùng công nghệ như điện thoại, máy tính bảng hay laptop cá nhân",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800"
+  },
+  {
+    "id": 43,
+    "topic": "Flight Entertainment (Scripts)",
+    "word": "convenient",
+    "meaning": "tiện lợi",
+    "hint": "Đặc tính dễ dàng, phù hợp và nhanh chóng cho người sử dụng",
+    "image": "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?w=800"
+  },
+  {
+    "id": 44,
+    "topic": "Questions & Options (Q4-6)",
+    "word": "speakers",
+    "meaning": "những người nói",
+    "hint": "Các nhân vật tham gia vào cuộc trò chuyện",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800"
+  },
+  {
+    "id": 45,
+    "topic": "Questions & Options (Q4-6)",
+    "word": "on a bus",
+    "meaning": "trên xe buýt",
+    "hint": "Phương tiện giao thông công cộng đường bộ chở nhiều người",
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=800"
+  },
+  {
+    "id": 46,
+    "topic": "Questions & Options (Q4-6)",
+    "word": "on a train",
+    "meaning": "trên một chuyến tàu",
+    "hint": "Phương tiện giao thông di chuyển trên đường sắt",
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=800"
+  },
+  {
+    "id": 47,
+    "topic": "Questions & Options (Q4-6)",
+    "word": "on an airplane",
+    "meaning": "trên máy bay",
+    "hint": "Phương tiện vận chuyển hàng không di chuyển trên bầu trời",
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800"
+  },
+  {
+    "id": 48,
+    "topic": "Questions & Options (Q4-6)",
+    "word": "on a boat",
+    "meaning": "trên một chiếc thuyền",
+    "hint": "Phương tiện di chuyển trên mặt nước",
+    "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800"
+  },
+  {
+    "id": 49,
+    "topic": "Questions & Options (Q4-6)",
+    "word": "discussing",
+    "meaning": "thảo luận",
+    "hint": "Hành động trao đổi ý kiến về một chủ đề nhất định",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 50,
+    "topic": "Questions & Options (Q4-6)",
+    "word": "download an item",
+    "meaning": "tải xuống một thư mục (một mục)",
+    "hint": "Hành động lưu một tệp dữ liệu về máy tính hoặc điện thoại",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800"
+  },
+  {
+    "id": 51,
+    "topic": "Questions & Options (Q4-6)",
+    "word": "taking a direct route",
+    "meaning": "bay một chuyến bay thẳng (đi lộ trình trực tiếp)",
+    "hint": "Hành trình di chuyển thẳng đến điểm đích không qua điểm dừng",
+    "image": "https://images.unsplash.com/photo-1506015391300-4802dc74de2e?w=800"
+  },
+  {
+    "id": 52,
+    "topic": "Questions & Options (Q4-6)",
+    "word": "reclining seats",
+    "meaning": "ghế ngả lưng",
+    "hint": "Loại ghế có thể điều chỉnh ngửa phần tựa lưng ra sau",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800"
+  },
+  {
+    "id": 53,
+    "topic": "Questions & Options (Q4-6)",
+    "word": "selecting meal options online",
+    "meaning": "lựa chọn các tùy chọn bữa ăn trực tuyến",
+    "hint": "Việc đăng ký thực đơn đồ ăn trước thông qua mạng internet",
+    "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=800"
+  },
+  {
+    "id": 54,
+    "topic": "Farm Visit (Scripts)",
+    "word": "local farm",
+    "meaning": "trang trại địa phương",
+    "hint": "Khu vực trồng trọt, chăn nuôi nằm ở khu vực lân cận",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800"
+  },
+  {
+    "id": 55,
+    "topic": "Farm Visit (Scripts)",
+    "word": "supply vegetables",
+    "meaning": "cung cấp rau",
+    "hint": "Hoạt động phân phối các loại rau củ cho nơi tiêu thụ",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800"
+  },
+  {
+    "id": 56,
+    "topic": "Farm Visit (Scripts)",
+    "word": "sample some of our seasonal produce",
+    "meaning": "nếm thử một số sản phẩm theo mùa",
+    "hint": "Dùng thử các nông sản thu hoạch theo đúng mùa vụ",
+    "image": "https://images.unsplash.com/photo-1610348725531-843dff563e2c?w=800"
+  },
+  {
+    "id": 57,
+    "topic": "Farm Visit (Scripts)",
+    "word": "show you around",
+    "meaning": "dẫn đi tham quan",
+    "hint": "Hành động đưa ai đó đi một vòng để khám phá địa điểm",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800"
+  },
+  {
+    "id": 58,
+    "topic": "Farm Visit (Scripts)",
+    "word": "concerned about variety",
+    "meaning": "quan tâm đến sự đa dạng",
+    "hint": "Lo lắng hoặc chú trọng tới mức độ phong phú của chủng loại",
+    "image": "https://images.unsplash.com/photo-1610348725531-843dff563e2c?w=800"
+  },
+  {
+    "id": 59,
+    "topic": "Farm Visit (Scripts)",
+    "word": "selection of vegetables",
+    "meaning": "lựa chọn rau",
+    "hint": "Danh mục các mặt hàng rau củ có sẵn để chọn",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800"
+  },
+  {
+    "id": 60,
+    "topic": "Farm Visit (Scripts)",
+    "word": "constrained by",
+    "meaning": "bị hạn chế bởi",
+    "hint": "Trạng thái bị thu hẹp hoặc giới hạn bởi điều kiện nhất định",
+    "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?w=800"
+  },
+  {
+    "id": 61,
+    "topic": "Farm Visit (Scripts)",
+    "word": "grown here in season",
+    "meaning": "có thể trồng theo mùa ở đây",
+    "hint": "Cây trồng phát triển phù hợp theo các thời điểm trong năm tại địa phương",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800"
+  },
+  {
+    "id": 62,
+    "topic": "Farm Visit (Scripts)",
+    "word": "tour the property",
+    "meaning": "tham quan khu đất",
+    "hint": "Đi dạo kiểm tra toàn bộ diện tích nhà đất hoặc trang trại",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800"
+  },
+  {
+    "id": 63,
+    "topic": "Questions & Options (Q7-9)",
+    "word": "landscaping",
+    "meaning": "cảnh quan",
+    "hint": "Ngành thiết kế và cải tạo không gian cây xanh ngoài trời",
+    "image": "https://images.unsplash.com/photo-1558904541-efa8c196b27d?w=800"
+  },
+  {
+    "id": 64,
+    "topic": "Questions & Options (Q7-9)",
+    "word": "health care",
+    "meaning": "chăm sóc sức khỏe",
+    "hint": "Ngành y tế phục vụ và nâng cao sức khỏe con người",
+    "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=800"
+  },
+  {
+    "id": 65,
+    "topic": "Questions & Options (Q7-9)",
+    "word": "event planning",
+    "meaning": "lập kế hoạch sự kiện",
+    "hint": "Công việc tổ chức và chuẩn bị cho các chương trình, hội nghị",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800"
+  },
+  {
+    "id": 66,
+    "topic": "Questions & Options (Q7-9)",
+    "word": "agriculture",
+    "meaning": "nông nghiệp",
+    "hint": "Ngành sản xuất liên quan đến trồng trọt và chăn nuôi",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800"
+  },
+  {
+    "id": 67,
+    "topic": "Questions & Options (Q7-9)",
+    "word": "cost",
+    "meaning": "chi phí",
+    "hint": "Số tiền cần trả cho một dịch vụ hoặc hàng hóa",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 68,
+    "topic": "Questions & Options (Q7-9)",
+    "word": "variety",
+    "meaning": "sự đa dạng",
+    "hint": "Mức độ phong phú với nhiều chủng loại khác nhau",
+    "image": "https://images.unsplash.com/photo-1610348725531-843dff563e2c?w=800"
+  },
+  {
+    "id": 69,
+    "topic": "Questions & Options (Q7-9)",
+    "word": "service dates",
+    "meaning": "ngày dịch vụ",
+    "hint": "Thời điểm diễn ra hoặc cung cấp dịch vụ",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 70,
+    "topic": "Questions & Options (Q7-9)",
+    "word": "location",
+    "meaning": "vị trí",
+    "hint": "Địa điểm hoặc tọa độ không gian xác định",
+    "image": "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=800"
+  },
+  {
+    "id": 71,
+    "topic": "Questions & Options (Q7-9)",
+    "word": "look at a slideshow",
+    "meaning": "xem trình chiếu",
+    "hint": "Theo dõi nội dung hiển thị dạng các trang trình chiếu",
+    "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800"
+  },
+  {
+    "id": 72,
+    "topic": "Questions & Options (Q7-9)",
+    "word": "have a meal",
+    "meaning": "ăn một bữa cơm",
+    "hint": "Hành động dùng bữa ăn",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+  },
+  {
+    "id": 73,
+    "topic": "Questions & Options (Q7-9)",
+    "word": "discuss an estimate",
+    "meaning": "thảo luận về giá ước tính",
+    "hint": "Trao đổi về con số báo giá dự kiến cho dịch vụ",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 74,
+    "topic": "Questions & Options (Q7-9)",
+    "word": "go on a tour",
+    "meaning": "đi tham quan",
+    "hint": "Thực hiện chuyến đi khảo sát hoặc khám phá địa danh",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800"
+  },
+  {
+    "id": 75,
+    "topic": "Phone Repair Service (Scripts)",
+    "word": "a few months ago",
+    "meaning": "cách đây vài tháng",
+    "hint": "Thời điểm trong quá khứ khoảng một vài tháng trước",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800"
+  },
+  {
+    "id": 76,
+    "topic": "Phone Repair Service (Scripts)",
+    "word": "fingerprint recognition feature",
+    "meaning": "tính năng nhận dạng vân tay",
+    "hint": "Công nghệ bảo mật xác thực bằng vân tay trên thiết bị",
+    "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=800"
+  },
+  {
+    "id": 77,
+    "topic": "Phone Repair Service (Scripts)",
+    "word": "stopped working",
+    "meaning": "ngừng hoạt động",
+    "hint": "Trạng thái bị hỏng hoặc không còn vận hành được nữa",
+    "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800"
+  },
+  {
+    "id": 78,
+    "topic": "Phone Repair Service (Scripts)",
+    "word": "unlock your phone",
+    "meaning": "mở khóa điện thoại",
+    "hint": "Thao tác mở màn hình bảo vệ của điện thoại",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800"
+  },
+  {
+    "id": 79,
+    "topic": "Phone Repair Service (Scripts)",
+    "word": "pass code",
+    "meaning": "mã số",
+    "hint": "Dãy số dùng để bảo mật và mở khóa thiết bị",
+    "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800"
+  },
+  {
+    "id": 80,
+    "topic": "Phone Repair Service (Scripts)",
+    "word": "paid extra",
+    "meaning": "trả thêm tiền",
+    "hint": "Thanh toán thêm một khoản phí bổ sung",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 81,
+    "topic": "Phone Repair Service (Scripts)",
+    "word": "extended warranty",
+    "meaning": "bảo hành mở rộng",
+    "hint": "Gói bảo hiểm kéo dài thời gian bảo hành cho sản phẩm",
+    "image": "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=800"
+  },
+  {
+    "id": 82,
+    "topic": "Phone Repair Service (Scripts)",
+    "word": "figure out how to fix it",
+    "meaning": "tìm ra cách sửa chữa nó",
+    "hint": "Nghiên cứu hoặc xác định phương án khắc phục sự cố",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 83,
+    "topic": "Phone Repair Service (Scripts)",
+    "word": "look at our accessories",
+    "meaning": "xem xét các phụ kiện của chúng tôi",
+    "hint": "Tham quan hoặc kiểm tra các đồ dùng đi kèm thiết bị",
+    "image": "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=800"
+  },
+  {
+    "id": 84,
+    "topic": "Questions & Options (Q10-12)",
+    "word": "lost her keys",
+    "meaning": "bị mất chìa khóa",
+    "hint": "Trạng thái thất lạc chìa khóa cá nhân",
+    "image": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=800"
+  },
+  {
+    "id": 85,
+    "topic": "Questions & Options (Q10-12)",
+    "word": "screen has cracked",
+    "meaning": "màn hình bị nứt",
+    "hint": "Tình trạng bề mặt kính màn hình bị vỡ nứt",
+    "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800"
+  },
+  {
+    "id": 86,
+    "topic": "Questions & Options (Q10-12)",
+    "word": "injured her finger",
+    "meaning": "bị thương ở ngón tay",
+    "hint": "Vết thương xảy ra trên ngón tay của ai đó",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+  },
+  {
+    "id": 87,
+    "topic": "Questions & Options (Q10-12)",
+    "word": "malfunctioning",
+    "meaning": "bị trục trặc",
+    "hint": "Trạng thái máy móc hoặc thiết bị hoạt động không bình thường",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800"
+  },
+  {
+    "id": 88,
+    "topic": "Questions & Options (Q10-12)",
+    "word": "twenty-four-hour assistance",
+    "meaning": "hỗ trợ 24 giờ",
+    "hint": "Dịch vụ trợ giúp khách hàng hoạt động xuyên suốt cả ngày lẫn đêm",
+    "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=800"
+  },
+  {
+    "id": 89,
+    "topic": "Questions & Options (Q10-12)",
+    "word": "express service",
+    "meaning": "dịch vụ chuyển phát nhanh",
+    "hint": "Dịch vụ giao nhận hoặc xử lý công việc siêu tốc",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800"
+  },
+  {
+    "id": 90,
+    "topic": "Questions & Options (Q10-12)",
+    "word": "personalized design",
+    "meaning": "thiết kế được cá nhân hóa",
+    "hint": "Mẫu thiết kế được tùy biến riêng theo sở thích khách hàng",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=800"
+  },
+  {
+    "id": 91,
+    "topic": "Questions & Options (Q10-12)",
+    "word": "fill out a refund request",
+    "meaning": "điền vào yêu cầu hoàn lại tiền",
+    "hint": "Điền thông tin vào đơn đề nghị nhận lại tiền mua hàng",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800"
+  },
+  {
+    "id": 92,
+    "topic": "Questions & Options (Q10-12)",
+    "word": "call another store",
+    "meaning": "gọi cho cửa hàng khác",
+    "hint": "Liên lạc điện thoại đến chi nhánh cửa hàng khác",
+    "image": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=800"
+  },
+  {
+    "id": 93,
+    "topic": "Concert & Tickets (Scripts)",
+    "word": "play a concert",
+    "meaning": "biểu diễn một buổi hòa nhạc",
+    "hint": "Trình diễn âm nhạc trước đám đông khán giả",
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800"
+  },
+  {
+    "id": 94,
+    "topic": "Concert & Tickets (Scripts)",
+    "word": "guitarist",
+    "meaning": "nghệ sĩ guitar",
+    "hint": "Người chơi nhạc cụ đàn guitar",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800"
+  },
+  {
+    "id": 95,
+    "topic": "Concert & Tickets (Scripts)",
+    "word": "marketing department",
+    "meaning": "phòng marketing",
+    "hint": "Bộ phận phụ trách tiếp thị và quảng bá sản phẩm/dịch vụ",
+    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800"
+  },
+  {
+    "id": 96,
+    "topic": "Concert & Tickets (Scripts)",
+    "word": "outdoor seating",
+    "meaning": "chỗ ngồi ngoài trời",
+    "hint": "Vị trí ghế ngồi nằm ở không gian ngoài trời",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+  },
+  {
+    "id": 97,
+    "topic": "Concert & Tickets (Scripts)",
+    "word": "balcony",
+    "meaning": "ban công",
+    "hint": "Khu vực khán đài nhô ra ở tầng trên của khán phòng/nhà hát",
+    "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800"
+  },
+  {
+    "id": 98,
+    "topic": "Questions & Options (Q13-15)",
+    "word": "won a music award",
+    "meaning": "giành được một giải thưởng âm nhạc",
+    "hint": "Đạt danh hiệu hoặc giải thưởng vinh danh trong lĩnh vực âm nhạc",
+    "image": "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=800"
+  },
+  {
+    "id": 99,
+    "topic": "Questions & Options (Q13-15)",
+    "word": "went on a national tour",
+    "meaning": "đi du lịch quốc gia (đi lưu diễn toàn quốc)",
+    "hint": "Hành trình thực hiện các buổi biểu diễn khắp cả nước",
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800"
+  },
+  {
+    "id": 100,
+    "topic": "Questions & Options (Q13-15)",
+    "word": "released a new recording",
+    "meaning": "phát hành một bản thu âm mới",
+    "hint": "Ra mắt sản phẩm âm nhạc hoặc đĩa hát mới sản xuất",
+    "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=800"
+  },
+  {
+    "id": 101,
+    "topic": "Questions & Options (Q13-15)",
+    "word": "added a new member to the group",
+    "meaning": "thêm một thành viên mới vào nhóm",
+    "hint": "Kết nạp thêm người mới gia nhập ban nhạc hoặc tập thể",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+  },
+  {
+    "id": 102,
+    "topic": "Questions & Options (Q13-15)",
+    "word": "pick up some tickets",
+    "meaning": "nhận một số vé",
+    "hint": "Hành động đi lấy hoặc nhận vé xem chương trình",
+    "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800"
+  },
+  {
+    "id": 103,
+    "topic": "Questions & Options (Q13-15)",
+    "word": "provide transportation",
+    "meaning": "cung cấp phương tiện di chuyển",
+    "hint": "Hỗ trợ xe cộ hoặc phương tiện đưa đón người khác",
+    "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800"
+  },
+  {
+    "id": 104,
+    "topic": "Questions & Options (Q13-15)",
+    "word": "bring some umbrellas",
+    "meaning": "mang theo một số ô",
+    "hint": "Hành động cầm theo ô/dù để che mưa che nắng",
+    "image": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?w=800"
+  },
+  {
+    "id": 105,
+    "topic": "Questions & Options (Q13-15)",
+    "word": "make a dinner reservation",
+    "meaning": "đặt chỗ ăn tối",
+    "hint": "Liên hệ nhà hàng để giữ bàn trước cho buổi tối",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+  }
+]

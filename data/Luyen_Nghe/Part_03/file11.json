@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "topic": "File 12",
+    "word": "IT department",
+    "meaning": "bộ phận CNTT",
+    "hint": "Phòng ban quản lý máy tính, công nghệ",
+    "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 2,
+    "topic": "File 12",
+    "word": "set up for a teleconference",
+    "meaning": "thiết lập cho cuộc họp từ xa",
+    "hint": "Chuẩn bị thiết bị cho buổi họp trực tuyến",
+    "image": "https://images.pexels.com/photos/4226140/pexels-photo-4226140.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 3,
+    "topic": "File 12",
+    "word": "equipment",
+    "meaning": "thiết bị",
+    "hint": "Dụng cụ, máy móc phục vụ công việc",
+    "image": "https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 4,
+    "topic": "File 12",
+    "word": "important meeting",
+    "meaning": "cuộc họp quan trọng",
+    "hint": "Buổi trao đổi có ý nghĩa lớn",
+    "image": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 5,
+    "topic": "File 12",
+    "word": "finance a new project",
+    "meaning": "tài trợ / đầu tư cho một dự án mới",
+    "hint": "Cung cấp nguồn vốn cho dự án",
+    "image": "https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 6,
+    "topic": "File 12",
+    "word": "present to somebody",
+    "meaning": "trình bày / thuyết trình với ai",
+    "hint": "Báo cáo ý tưởng trước đối tác",
+    "image": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 7,
+    "topic": "File 12",
+    "word": "potential investors",
+    "meaning": "các nhà đầu tư tiềm năng",
+    "hint": "Người có khả năng bỏ vốn đầu tư",
+    "image": "https://images.pexels.com/photos/3183183/pexels-photo-3183183.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 8,
+    "topic": "File 12",
+    "word": "work smoothly",
+    "meaning": "hoạt động trơn tru / suôn sẻ",
+    "hint": "Vận hành tốt không gặp sự cố",
+    "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 9,
+    "topic": "File 12",
+    "word": "automatically move to focus",
+    "meaning": "tự động di chuyển để lấy nét",
+    "hint": "Camera tự chỉnh ống kính vào người nói",
+    "image": "https://images.pexels.com/photos/51383/photo-camera-subject-lens-51383.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 10,
+    "topic": "File 12",
+    "word": "control manually",
+    "meaning": "điều khiển bằng tay",
+    "hint": "Thao tác thủ công không qua tự động",
+    "image": "https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 11,
+    "topic": "File 12",
+    "word": "control panel",
+    "meaning": "bảng điều khiển",
+    "hint": "Giao diện để chỉnh thiết bị",
+    "image": "https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 12,
+    "topic": "File 12",
+    "word": "give a demonstration",
+    "meaning": "đưa ra lời minh họa / hướng dẫn",
+    "hint": "Thực hành chạy thử thiết bị cho xem",
+    "image": "https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 13,
+    "topic": "File 12",
+    "word": "give a presentation",
+    "meaning": "thuyết trình",
+    "hint": "Trình bày báo cáo hoặc kế hoạch trước mọi người",
+    "image": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 14,
+    "topic": "File 12",
+    "word": "new employees",
+    "meaning": "nhân viên mới",
+    "hint": "Người mới được tuyển vào công ty",
+    "image": "https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 15,
+    "topic": "File 12",
+    "word": "government officials",
+    "meaning": "các quan chức chính phủ",
+    "hint": "Cán bộ làm việc trong cơ quan nhà nước",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Cambodian_President_of_the_Senate_Hun_Sen_met_United_States_Secretary_of_Defense_Lloyd_Austin_during_his_visit_to_senior_Cambodian_government_officials_in_Phnom_Penh_on_June_4%2C_2024_%28cropped%29.jpg"
+  },
+  {
+    "id": 16,
+    "topic": "File 12",
+    "word": "potential investors",
+    "meaning": "nhà đầu tư tiềm năng (Đáp án 1C)",
+    "hint": "Đáp án C câu 1 - Người bỏ vốn dự án",
+    "image": "https://images.pexels.com/photos/3183183/pexels-photo-3183183.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 17,
+    "topic": "File 12",
+    "word": "board members",
+    "meaning": "thành viên hội đồng quản trị",
+    "hint": "Đội ngũ lãnh đạo cấp cao của công ty",
+    "image": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 18,
+    "topic": "File 12",
+    "word": "adjusting a microphone",
+    "meaning": "điều chỉnh micro",
+    "hint": "Sửa lại độ cao hoặc âm lượng micro",
+    "image": "https://images.pexels.com/photos/164829/pexels-photo-164829.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 19,
+    "topic": "File 12",
+    "word": "turning on a monitor",
+    "meaning": "bật màn hình",
+    "hint": "Mở thiết bị hiển thị hình ảnh",
+    "image": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 20,
+    "topic": "File 12",
+    "word": "connecting a speaker",
+    "meaning": "kết nối loa",
+    "hint": "Gắn thiết bị phát âm thanh",
+    "image": "https://images.pexels.com/photos/1706694/pexels-photo-1706694.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 21,
+    "topic": "File 12",
+    "word": "using a camera",
+    "meaning": "sử dụng máy ảnh / camera (Đáp án 2D)",
+    "hint": "Đáp án D câu 2 - Dùng thiết bị quay chụp",
+    "image": "https://images.pexels.com/photos/51383/photo-camera-subject-lens-51383.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 22,
+    "topic": "File 12",
+    "word": "check a manual",
+    "meaning": "kiểm tra sổ tay hướng dẫn",
+    "hint": "Xem sách chỉ dẫn cách sử dụng",
+    "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 23,
+    "topic": "File 12",
+    "word": "ask a colleague for help",
+    "meaning": "nhờ đồng nghiệp giúp đỡ",
+    "hint": "Xin sự hỗ trợ từ người làm cùng",
+    "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 24,
+    "topic": "File 12",
+    "word": "look for a tool",
+    "meaning": "tìm kiếm một công cụ",
+    "hint": "Đi tìm dụng cụ làm việc",
+    "image": "https://images.pexels.com/photos/175039/pexels-photo-175039.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 25,
+    "topic": "File 12",
+    "word": "updates",
+    "meaning": "thông tin cập nhật",
+    "hint": "Tin tức mới nhất về công việc",
+    "image": "https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 26,
+    "topic": "File 12",
+    "word": "designs coming along",
+    "meaning": "các thiết kế tiến triển",
+    "hint": "Quá trình hoàn thiện bản vẽ",
+    "image": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 27,
+    "topic": "File 12",
+    "word": "new line of school backpacks",
+    "meaning": "dòng ba lô học sinh mới",
+    "hint": "Mẫu sản phẩm cặp sách vừa ra mắt",
+    "image": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 28,
+    "topic": "File 12",
+    "word": "factory",
+    "meaning": "nhà máy / xưởng sản xuất",
+    "hint": "Nơi chế tạo hàng hóa",
+    "image": "https://images.pexels.com/photos/257700/pexels-photo-257700.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 29,
+    "topic": "File 12",
+    "word": "begin production",
+    "meaning": "bắt đầu sản xuất",
+    "hint": "Đưa sản phẩm vào công đoạn chế tạo",
+    "image": "https://images.pexels.com/photos/257700/pexels-photo-257700.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 30,
+    "topic": "File 12",
+    "word": "frustrated",
+    "meaning": "thất vọng / bực bội",
+    "hint": "Cảm giác không hài lòng với tình hình",
+    "image": "https://images.pexels.com/photos/3761509/pexels-photo-3761509.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 31,
+    "topic": "File 12",
+    "word": "design team",
+    "meaning": "nhóm thiết kế",
+    "hint": "Đội ngũ sáng tạo kiểu dáng sản phẩm",
+    "image": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 32,
+    "topic": "File 12",
+    "word": "originally planned",
+    "meaning": "ban đầu dự định",
+    "hint": "Kế hoạch đề ra từ trước",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 33,
+    "topic": "File 12",
+    "word": "make final decisions",
+    "meaning": "đưa ra quyết định cuối cùng",
+    "hint": "Chốt phương án thực hiện",
+    "image": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 34,
+    "topic": "File 12",
+    "word": "pocket sizes",
+    "meaning": "kích thước các túi",
+    "hint": "Đo lường ngăn nhỏ của ba lô",
+    "image": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 35,
+    "topic": "File 12",
+    "word": "convention",
+    "meaning": "hội nghị / sự kiện tập trung",
+    "hint": "Sự kiện quy tụ nhiều đơn vị",
+    "image": "https://images.pexels.com/photos/2833037/pexels-photo-2833037.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 36,
+    "topic": "File 12",
+    "word": "out on vacation",
+    "meaning": "đang đi nghỉ mát",
+    "hint": "Đang trong kỳ nghỉ phép",
+    "image": "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 37,
+    "topic": "File 12",
+    "word": "school year",
+    "meaning": "năm học",
+    "hint": "Thời gian học tập trong trường",
+    "image": "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 38,
+    "topic": "File 12",
+    "word": "get advice",
+    "meaning": "nhận lời khuyên",
+    "hint": "Xin ý kiến tham khảo từ người khác",
+    "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 39,
+    "topic": "File 12",
+    "word": "lead the team",
+    "meaning": "dẫn dắt nhóm",
+    "hint": "Quản lý và điều hành đội ngũ",
+    "image": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 40,
+    "topic": "File 12",
+    "word": "pencils",
+    "meaning": "bút chì",
+    "hint": "Dụng cụ dùng để viết, vẽ",
+    "image": "https://images.pexels.com/photos/159751/pencil-office-design-creative-159751.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 41,
+    "topic": "File 12",
+    "word": "backpacks",
+    "meaning": "ba lô (Đáp án 4B)",
+    "hint": "Đáp án B câu 4 - Túi đeo trên lưng",
+    "image": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 42,
+    "topic": "File 12",
+    "word": "sneakers",
+    "meaning": "giày thể thao",
+    "hint": "Loại giày di chuyển năng động",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 43,
+    "topic": "File 12",
+    "word": "folders",
+    "meaning": "bìa tài liệu / kẹp hồ sơ",
+    "hint": "Đồ dùng kẹp giữ giấy tờ",
+    "image": "https://images.pexels.com/photos/357514/pexels-photo-357514.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 44,
+    "topic": "File 12",
+    "word": "negative review",
+    "meaning": "đánh giá tiêu cực",
+    "hint": "Nhận xét chê bai sản phẩm/dịch vụ",
+    "image": "https://images.pexels.com/photos/3761509/pexels-photo-3761509.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 45,
+    "topic": "File 12",
+    "word": "equipment is malfunctioning",
+    "meaning": "thiết bị bị trục trặc",
+    "hint": "Máy móc hoạt động không bình thường",
+    "image": "https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 46,
+    "topic": "File 12",
+    "word": "some team members are unavailable",
+    "meaning": "một số thành viên không có mặt (Đáp án 5C)",
+    "hint": "Đáp án C câu 5 - Thiếu vắng người trong nhóm",
+    "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 47,
+    "topic": "File 12",
+    "word": "packages have not arrived",
+    "meaning": "các gói hàng chưa đến",
+    "hint": "Bưu phẩm bị trễ giao hàng",
+    "image": "https://images.pexels.com/photos/4391470/pexels-photo-4391470.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 48,
+    "topic": "File 12",
+    "word": "request some time off from work",
+    "meaning": "yêu cầu nghỉ làm một thời gian",
+    "hint": "Xin phép nghỉ làm",
+    "image": "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 49,
+    "topic": "File 12",
+    "word": "correct an error in a schedule",
+    "meaning": "sửa lỗi trong lịch trình",
+    "hint": "Điều chỉnh thông tin thời gian bị sai",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 50,
+    "topic": "File 12",
+    "word": "express interest in an assignment",
+    "meaning": "bày tỏ sự quan tâm đến nhiệm vụ",
+    "hint": "Thể hiện sự hứng thú công việc",
+    "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 51,
+    "topic": "File 12",
+    "word": "emphasize the need for urgency",
+    "meaning": "nhấn mạnh nhu cầu khẩn cấp (Đáp án 6D)",
+    "hint": "Đáp án D câu 6 - Thúc giục tiến độ khẩn trương",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 52,
+    "topic": "File 12",
+    "word": "in the middle of doing something",
+    "meaning": "đang trong giai đoạn / giữa chừng làm việc gì",
+    "hint": "Đang bận thực hiện một công việc",
+    "image": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 53,
+    "topic": "File 12",
+    "word": "internal audit",
+    "meaning": "kiểm toán nội bộ",
+    "hint": "Việc kiểm tra sổ sách, quy trình bên trong công ty",
+    "image": "https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 54,
+    "topic": "File 12",
+    "word": "manufacturing processes",
+    "meaning": "các quy trình sản xuất",
+    "hint": "Các bước chế tạo sản phẩm trong nhà máy",
+    "image": "https://images.pexels.com/photos/257700/pexels-photo-257700.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 55,
+    "topic": "File 12",
+    "word": "how that's going",
+    "meaning": "mọi việc diễn ra như thế nào",
+    "hint": "Hỏi thăm tiến độ công việc",
+    "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 56,
+    "topic": "File 12",
+    "word": "almost done",
+    "meaning": "sắp xong rồi / gần hoàn thành",
+    "hint": "Tiến độ công việc đã sắp hoàn tất",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 57,
+    "topic": "File 12",
+    "word": "look good so far",
+    "meaning": "cho đến nay mọi thứ đều ổn / tốt",
+    "hint": "Tình hình tiến triển thuận lợi",
+    "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 58,
+    "topic": "File 12",
+    "word": "retired work instructions",
+    "meaning": "hướng dẫn công việc không còn sử dụng",
+    "hint": "Quy trình cũ đã gác lại / ngưng áp dụng",
+    "image": "https://images.pexels.com/photos/357514/pexels-photo-357514.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 59,
+    "topic": "File 12",
+    "word": "old paper copies",
+    "meaning": "các bản sao giấy cũ",
+    "hint": "Tài liệu bản in bằng giấy đã cũ",
+    "image": "https://images.pexels.com/photos/357514/pexels-photo-357514.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 60,
+    "topic": "File 12",
+    "word": "filing cabinet",
+    "meaning": "tủ hồ sơ / tủ đựng tài liệu",
+    "hint": "Tủ có nhiều ngăn kéo để lưu trữ giấy tờ",
+    "image": "https://images.pexels.com/photos/357514/pexels-photo-357514.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 61,
+    "topic": "File 12",
+    "word": "labeled drawers",
+    "meaning": "các ngăn kéo được dán nhãn",
+    "hint": "Ngăn tủ có dán tên để phân loại",
+    "image": "https://images.pexels.com/photos/357514/pexels-photo-357514.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 62,
+    "topic": "File 12",
+    "word": "industry regulations",
+    "meaning": "các quy định của ngành",
+    "hint": "Quy tắc bắt buộc trong lĩnh vực kinh doanh",
+    "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 63,
+    "topic": "File 12",
+    "word": "pretty strict",
+    "meaning": "khá nghiêm ngặt / khắt khe",
+    "hint": "Mức độ thắt chặt của quy định",
+    "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 64,
+    "topic": "File 12",
+    "word": "in compliance",
+    "meaning": "đúng quy định / hợp lệ / tuân thủ",
+    "hint": "Tuân thủ đúng tiêu chuẩn đề ra",
+    "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 65,
+    "topic": "File 12",
+    "word": "compliment a staff member",
+    "meaning": "khen ngợi một nhân viên",
+    "hint": "Dành lời khen cho người làm cùng",
+    "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 66,
+    "topic": "File 12",
+    "word": "schedule an appointment",
+    "meaning": "lên lịch một cuộc hẹn",
+    "hint": "Đặt thời gian gặp mặt",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 67,
+    "topic": "File 12",
+    "word": "criticize a policy",
+    "meaning": "chỉ trích / phê bình một chính sách",
+    "hint": "Thể hiện thái độ không hài lòng với quy định",
+    "image": "https://images.pexels.com/photos/3761509/pexels-photo-3761509.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 68,
+    "topic": "File 12",
+    "word": "check an assignment",
+    "meaning": "kiểm tra một nhiệm vụ (Đáp án 7D)",
+    "hint": "Đáp án D câu 7 - Xem xét tiến độ công việc",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 69,
+    "topic": "File 12",
+    "word": "production logs",
+    "meaning": "nhật ký sản xuất",
+    "hint": "Sổ ghi chép tiến độ làm hàng",
+    "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 70,
+    "topic": "File 12",
+    "word": "work instructions",
+    "meaning": "hướng dẫn công tác / công việc (Đáp án 8B)",
+    "hint": "Đáp án B câu 8 - Bản chỉ dẫn quy trình",
+    "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 71,
+    "topic": "File 12",
+    "word": "materials inventory",
+    "meaning": "vật liệu tồn kho",
+    "hint": "Danh mục vật tư lưu trong kho",
+    "image": "https://images.pexels.com/photos/4391470/pexels-photo-4391470.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 72,
+    "topic": "File 12",
+    "word": "safety records",
+    "meaning": "hồ sơ an toàn",
+    "hint": "Giấy tờ ghi nhận mức độ an toàn",
+    "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 73,
+    "topic": "File 12",
+    "word": "described in a training program",
+    "meaning": "được mô tả trong chương trình đào tạo",
+    "hint": "Thông tin có trong khóa học",
+    "image": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 74,
+    "topic": "File 12",
+    "word": "take too long to complete",
+    "meaning": "mất quá nhiều thời gian để hoàn thành",
+    "hint": "Tốn thời gian làm việc",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 75,
+    "topic": "File 12",
+    "word": "meet regulations",
+    "meaning": "đáp ứng các quy định (Đáp án 9C)",
+    "hint": "Đáp án C câu 9 - Tuân thủ đúng luật lệ",
+    "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 76,
+    "topic": "File 12",
+    "word": "easy to learn",
+    "meaning": "dễ học",
+    "hint": "Đơn giản, nhanh nắm bắt",
+    "image": "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 77,
+    "topic": "File 12",
+    "word": "motivate servers",
+    "meaning": "thúc đẩy / tạo động lực cho nhân viên bồi bàn",
+    "hint": "Khuyến khích phục vụ làm việc nhiệt tình",
+    "image": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 78,
+    "topic": "File 12",
+    "word": "collect surveys",
+    "meaning": "thu thập các khảo sát",
+    "hint": "Gom phiếu đánh giá từ khách",
+    "image": "https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 79,
+    "topic": "File 12",
+    "word": "over four hundred responses",
+    "meaning": "hơn bốn trăm câu trả lời / phản hồi",
+    "hint": "Số lượng đáp án thu về",
+    "image": "https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 80,
+    "topic": "File 12",
+    "word": "use the feedback",
+    "meaning": "sử dụng phản hồi",
+    "hint": "Dùng ý kiến đánh giá để cải tiến",
+    "image": "https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 81,
+    "topic": "File 12",
+    "word": "table settings",
+    "meaning": "cách bố trí bàn ăn",
+    "hint": "Sắp xếp chén dĩa, bàn ghế",
+    "image": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 82,
+    "topic": "File 12",
+    "word": "incentive of a bonus",
+    "meaning": "phần thưởng / động cơ tiền thưởng",
+    "hint": "Tiền thưởng động viên làm việc",
+    "image": "https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 83,
+    "topic": "File 12",
+    "word": "persuade servers",
+    "meaning": "thuyết phục nhân viên phục vụ",
+    "hint": "Nói cho nhân viên đồng ý làm theo",
+    "image": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 84,
+    "topic": "File 12",
+    "word": "look forward to something",
+    "meaning": "mong đợi / trông chờ điều gì",
+    "hint": "Háo hức chờ đón một việc tốt đẹp",
+    "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 85,
+    "topic": "File 12",
+    "word": "extra in my paycheck",
+    "meaning": "thêm một chút trong tiền lương",
+    "hint": "Khoản tiền thù lao cộng thêm",
+    "image": "https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 86,
+    "topic": "File 12",
+    "word": "plan to spend money",
+    "meaning": "kế hoạch tiêu / sử dụng tiền",
+    "hint": "Dự định chi tiêu khoản tiền thu được",
+    "image": "https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 87,
+    "topic": "File 12",
+    "word": "upgrade a phone",
+    "meaning": "nâng cấp điện thoại",
+    "hint": "Đổi sang điện thoại đời mới hơn",
+    "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 88,
+    "topic": "File 12",
+    "word": "extra cash",
+    "meaning": "tiền thưởng thêm / tiền mặt cộng thêm",
+    "hint": "Số tiền dư ra ngoài lương cố định",
+    "image": "https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 89,
+    "topic": "File 12",
+    "word": "restaurant",
+    "meaning": "nhà hàng (Đáp án 10A)",
+    "hint": "Đáp án A câu 10 - Địa điểm ăn uống",
+    "image": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 90,
+    "topic": "File 12",
+    "word": "hotel",
+    "meaning": "khách sạn",
+    "hint": "Nơi lưu trú của du khách",
+    "image": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 91,
+    "topic": "File 12",
+    "word": "travel agency",
+    "meaning": "công ty du lịch",
+    "hint": "Đơn vị bán tour, dịch vụ lữ hành",
+    "image": "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 92,
+    "topic": "File 12",
+    "word": "marketing firm",
+    "meaning": "công ty tiếp thị",
+    "hint": "Doanh nghiệp làm dịch vụ quảng cáo",
+    "image": "https://images.pexels.com/photos/3183183/pexels-photo-3183183.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 93,
+    "topic": "File 12",
+    "word": "bonus per surveys collected",
+    "meaning": "tiền thưởng trên số khảo sát thu thập được",
+    "hint": "Mức tiền thưởng quy đổi theo phiếu",
+    "image": "https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 94,
+    "topic": "File 12",
+    "word": "receive extra money",
+    "meaning": "nhận thêm tiền (Đáp án 11B - $300)",
+    "hint": "Đáp án B câu 11 - Nhận $300 cho 63 khảo sát",
+    "image": "https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 95,
+    "topic": "File 12",
+    "word": "fix his car",
+    "meaning": "sửa xe của anh ấy",
+    "hint": "Bảo dưỡng, khắc phục hỏng hóc ô tô",
+    "image": "https://images.pexels.com/photos/4489749/pexels-photo-4489749.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 96,
+    "topic": "File 12",
+    "word": "give it to his parents",
+    "meaning": "đưa nó cho bố mẹ anh ấy",
+    "hint": "Biếu tiền cho phụ huynh",
+    "image": "https://images.pexels.com/photos/1128318/pexels-photo-1128318.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 97,
+    "topic": "File 12",
+    "word": "put it in the bank",
+    "meaning": "gửi nó vào ngân hàng",
+    "hint": "Tiết kiệm tiền trong tài khoản",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hand_Putting_Deposit_Into_Piggy_Bank_%285737295175%29.jpg"
+  },
+  {
+    "id": 98,
+    "topic": "File 12",
+    "word": "buy a new phone",
+    "meaning": "mua điện thoại mới (Đáp án 12D)",
+    "hint": "Đáp án D câu 12 - Sắm thiết bị di động mới",
+    "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 99,
+    "topic": "File 12",
+    "word": "plan a staff party",
+    "meaning": "lên kế hoạch cho bữa tiệc nhân viên",
+    "hint": "Chuẩn bị tiệc cho tập thể công ty",
+    "image": "https://images.pexels.com/photos/3184183/pexels-photo-3184183.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 100,
+    "topic": "File 12",
+    "word": "celebrate a promotion",
+    "meaning": "kỷ niệm / ăn mừng sự thăng chức",
+    "hint": "Mở tiệc chúc mừng lên vị trí mới",
+    "image": "https://images.pexels.com/photos/3184183/pexels-photo-3184183.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 101,
+    "topic": "File 12",
+    "word": "director of marketing",
+    "meaning": "giám đốc tiếp thị / marketing",
+    "hint": "Vị trí lãnh đạo bộ phận tiếp thị",
+    "image": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 102,
+    "topic": "File 12",
+    "word": "great idea",
+    "meaning": "ý tưởng tuyệt vời",
+    "hint": "Đề xuất rất hay",
+    "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 103,
+    "topic": "File 12",
+    "word": "be available",
+    "meaning": "rảnh / có mặt sẵn sàng",
+    "hint": "Có thời gian rảnh để tham gia",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 104,
+    "topic": "File 12",
+    "word": "does that work for you",
+    "meaning": "thời gian đó có phù hợp với bạn không",
+    "hint": "Hỏi xem lịch trình có tiện cho đối phương",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 105,
+    "topic": "File 12",
+    "word": "tickets to a music festival",
+    "meaning": "vé tham dự lễ hội âm nhạc",
+    "hint": "Vé vào cửa sự kiện ca nhạc",
+    "image": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 106,
+    "topic": "File 12",
+    "word": "start until seven",
+    "meaning": "phải tới 7 giờ mới bắt đầu",
+    "hint": "Mốc thời gian chương trình khởi động",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 107,
+    "topic": "File 12",
+    "word": "come for a little while",
+    "meaning": "đến ghé chơi một chút",
+    "hint": "Tham dự trong khoảng thời gian ngắn",
+    "image": "https://images.pexels.com/photos/3184183/pexels-photo-3184183.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 108,
+    "topic": "File 12",
+    "word": "make a reservation",
+    "meaning": "đặt chỗ trước",
+    "hint": "Giữ bàn ở nhà hàng hoặc phòng khách sạn",
+    "image": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 109,
+    "topic": "File 12",
+    "word": "right away",
+    "meaning": "ngay lập tức",
+    "hint": "Thực hiện công việc liền không trì hoãn",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 110,
+    "topic": "File 12",
+    "word": "want to try it",
+    "meaning": "muốn thử nó",
+    "hint": "Mong muốn trải nghiệm món ăn/địa điểm mới",
+    "image": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 111,
+    "topic": "File 12",
+    "word": "plan a celebration for something",
+    "meaning": "lên kế hoạch tổ chức lễ kỷ niệm cho việc gì",
+    "hint": "Chuẩn bị sự kiện ăn mừng",
+    "image": "https://images.pexels.com/photos/3184183/pexels-photo-3184183.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 112,
+    "topic": "File 12",
+    "word": "business merger",
+    "meaning": "sự hợp nhất / sáp nhập kinh doanh",
+    "hint": "Hai công ty gộp lại làm một",
+    "image": "https://images.pexels.com/photos/3183183/pexels-photo-3183183.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 113,
+    "topic": "File 12",
+    "word": "colleague's promotion",
+    "meaning": "sự thăng chức của đồng nghiệp (Đáp án 13B)",
+    "hint": "Đáp án B câu 13 - Bạn cùng công ty lên chức",
+    "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 114,
+    "topic": "File 12",
+    "word": "product launch",
+    "meaning": "buổi lễ ra mắt sản phẩm",
+    "hint": "Sự kiện giới thiệu mặt hàng mới",
+    "image": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 115,
+    "topic": "File 12",
+    "word": "company anniversary",
+    "meaning": "lễ kỷ niệm thành lập công ty",
+    "hint": "Ngày sinh nhật thành lập doanh nghiệp",
+    "image": "https://images.pexels.com/photos/3184183/pexels-photo-3184183.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 116,
+    "topic": "File 12",
+    "word": "attend a music festival",
+    "meaning": "tham gia lễ hội âm nhạc",
+    "hint": "Đi dự sự kiện ca nhạc",
+    "image": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 117,
+    "topic": "File 12",
+    "word": "city park",
+    "meaning": "công viên thành phố",
+    "hint": "Khu vui chơi cây xanh công cộng",
+    "image": "https://images.pexels.com/photos/158028/bellingrath-gardens-alabama-landscape-scenic-158028.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 118,
+    "topic": "File 12",
+    "word": "on Thursday",
+    "meaning": "vào thứ 5",
+    "hint": "Ngày thứ 5 trong tuần",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 119,
+    "topic": "File 12",
+    "word": "on Friday",
+    "meaning": "vào thứ 6 (Đáp án 14B - Ngày 22/3)",
+    "hint": "Đáp án B câu 14 - Ngày diễn ra lễ hội người đàn ông đi",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 120,
+    "topic": "File 12",
+    "word": "on Saturday",
+    "meaning": "vào thứ 7",
+    "hint": "Ngày thứ 7 trong tuần",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 121,
+    "topic": "File 12",
+    "word": "on Sunday",
+    "meaning": "vào chủ nhật",
+    "hint": "Ngày cuối tuần",
+    "image": "https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 122,
+    "topic": "File 12",
+    "word": "purchase a gift",
+    "meaning": "mua một món quà",
+    "hint": "Sắm quà tặng ai đó",
+    "image": "https://images.pexels.com/photos/264787/pexels-photo-264787.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 123,
+    "topic": "File 12",
+    "word": "decorate a room",
+    "meaning": "trang trí một căn phòng",
+    "hint": "Làm đẹp không gian phòng",
+    "image": "https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 124,
+    "topic": "File 12",
+    "word": "make a reservation",
+    "meaning": "đặt chỗ trước (Đáp án 15C)",
+    "hint": "Đáp án C câu 15 - Giữ bàn tại nhà hàng mới",
+    "image": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 125,
+    "topic": "File 12",
+    "word": "send an invitation",
+    "meaning": "gửi một lời mời / thư mời",
+    "hint": "Phát thiệp mời tham dự sự kiện",
+    "image": "https://images.pexels.com/photos/159751/pencil-office-design-creative-159751.jpeg?auto=compress&cs=tinysrgb&w=800"
+  }
+]
